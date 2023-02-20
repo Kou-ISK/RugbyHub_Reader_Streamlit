@@ -1,0 +1,490 @@
+ID,Definition
+0,None
+1,Carry
+2,Tackle
+3,Pass
+4,Kick
+5,Scrum
+6,Lineout Throw
+7,Penalty
+8,Turnovers
+9,Try
+10,Attacking Quality
+11,Goal Kick
+12,Missed Tackle
+14,Restart Kick
+15,Possession
+17,Clock Stoppage
+18,Collection
+20,Referee Review
+21,Card
+23,Ruck
+24,Maul
+26,Sequence
+27,Lineout Catch
+28,Offensive Scrum
+29,Defensive Scrum
+40,Defensive Action
+41,Player Leaves Field
+42,Player Enters Field
+43,Ruck OOA
+44,Counter Attack
+45,Defensive Exit
+46,Attacking 22 Entry
+47,Playmaker Options
+672,Acting Halfback at Breakdown
+671,Halfback at Breakdown
+658,Third Receiver
+657,Second Receiver
+656,First Receiver
+637,Captains Referral - Inconclusive
+636,Captains Referral - Overturned
+635,Captains Referral - Upheld
+634,Delaying Kick Restart
+631,General Catch
+630,Kicked out of 22
+629,Carried out of 22
+628,Failed Exit From 22
+626,Outcome - Turnover
+625,Outcome - Try Scored
+624,Outcome - Scrum Won
+623,Outcome - Penalty Won
+622,Outcome - Penalty Conceded
+621,Outcome - Lineout Won
+620,Outcome - Kicked Out
+619,Outcome - Kick To Opposition
+618,Outcome - Drop Goal
+582,Penalty Conceded - Def
+581,Penalty Conceded - Att
+580,Penalty Won
+579,Turnover Won
+578,Got Cleaned Out
+577,Not Clearing
+576,Nuisance
+575,Attended
+574,Secured
+573,Failed Clearout
+572,Cleaned Out
+571,Red Card
+570,Yellow Card
+569,Reversal Front Row Replacement
+568,Reversal Concussion Replacement
+567,Reversal Blood Replacement
+566,Front Row Replacement
+565,Concussion Replacement
+564,Blood Replacement
+563,Injury
+562,Tactical
+561,Aerial Kick Contest
+560,Tackle Arrival
+540,Goal Line Restart
+529,Snake
+528,Decoy
+527,Break Assist
+526,Try Assist
+470,Fighting to Stay Upright ( FTSU)
+464,5 Second Rule
+457,Dissent Advance
+451,Wrong Side Run
+446,Maul Obstruction
+445,Offside at Restart
+440,Referee Obstruction
+439,Accidental Knock On
+438,Charged Down
+437,Tap Back
+425,Charging into Ruck
+424,Foul Play - Late Tackle
+423,Deliberate Knock On
+422,Wrong Side at Maul
+421,Wrong Side at Ruck
+412,Scrum Steal
+410,No 8 Pass
+407,Start Period
+395,Lineout Steal Quick
+394,Lineout Steal 15m+
+393,Lineout Steal Back
+392,Lineout Steal Middle
+391,Lineout Steal Front
+390,Lineout Win Quick
+389,Lineout Win 15m+
+388,Lineout Win Back
+387,Lineout Win Middle
+386,Lineout Win Front
+375,Throw Quick
+374,Throw 15m+
+373,Throw Back
+372,Throw Middle
+371,Throw Front
+370,No 8 Pick Up
+369,Scrum Half Run
+368,Scrum Half Kick
+367,Scrum Half Pass
+352,Other Review
+350,50m Restart Retained
+349,22m Restart Retained
+348,Lineout Steal
+347,Touch Kick
+346,Box
+345,Foul Play - Dangerous Throw
+344,Foul Play - Fighting
+343,Non Playing Personnel
+334,Video Ref Disallowed
+333,Video Ref Awarded
+312,Free Kick
+311,Kick Return
+310,Tap Pen
+309,Scrum
+308,Turnover Won
+307,50m Restart
+306,Lineout
+305,22m Restart
+297,Penalty Goal
+296,Drop Goal
+295,Conversion
+282,22m Restart
+281,50m Restart
+276,Jackal
+275,Restart Catch
+274,Defensive Loose Ball
+273,Defensive Catch
+272,Attacking Loose Ball
+271,Attacking Catch
+270,Mark
+269,In Goal Touchdown
+268,Interception
+260,Other Error
+247,Red Card
+246,Yellow Card
+245,Advantage
+244,Video Review
+243,Ref Discussion
+232,Dissent
+231,Obstruction
+230,Other Offence
+229,Foul Play - Other
+228,Foul Play - High Tackle
+227,Foul Play - Mid Air Tackle
+226,Foul Play - Foot Contact
+225,Not Rolling Away
+224,Off Feet at Ruck
+223,Lineout Offence
+222,Scrum Offence
+221,Collapsing Maul
+220,Offside at Kick
+219,Offside
+217,Hands in Ruck
+216,Not Releasing
+191,Low
+190,Territorial
+189,Cross Pitch
+188,Chip
+187,Bomb
+180,Error
+178,Try
+177,Off Target
+176,Key
+175,Intercepted
+174,Incomplete
+173,Forward
+172,Break
+169,Complete
+165,Positional
+164,Outpaced
+163,Stepped
+162,Bumped Off
+151,Offload
+147,Other Tackle
+146,Edge Tackle
+145,Guard Tackle
+144,Line Tackle
+143,Cover Tackle
+142,Chase Tackle
+116,Defender Beaten
+115,Penalty Won
+113,Supported Break
+112,Initial Break
+106,Support Carry
+105,Restart Return
+104,Kick Return
+103,Other Carry
+102,Pick and Go
+101,One Out Drive
+646,22 Entry Outcome - Turnover
+645,22 Entry Outcome - Try
+644,22 Entry Outcome - Scrum Won
+643,22 Entry Outcome - Penalty Won
+642,22 Entry Outcome - Penalty Goal Attempt
+641,22 Entry Outcome - Penalty Conceded
+640,22 Entry Outcome - Lineout Won
+639,22 Entry Outcome - Kick Turnover
+638,22 Entry Outcome - Drop Goal
+651,22 Entry Points - Try without Conversion
+650,22 Entry Points - Try and Conversion
+649,22 Entry Points - Penalty Try
+648,22 Entry Points - Penalty Goal
+647,22 Entry Points - Drop Goal
+587,Own Team 5th+ Entry
+586,Own Team 4th Entry
+585,Own Team 3rd Entry
+584,Own Team 2nd Entry
+583,Own Team 1st Entry
+547,Stamping
+546,Persistent Infringement
+545,Fighting
+544,Dissent
+543,Professional Foul
+542,Foul Play
+532,Intercepted Break
+531,Kick Line Break
+530,Line Break
+467,Ineffective
+452,Unplayable
+419,Lost Overthrown
+418,Lost Not 5m
+417,Lost Handling Error
+416,Kick in Touch
+415,Own Lineout
+414,Kick in Goal
+413,Kick Error
+411,Turnover (Scrum)
+409,Tackled Ineffective
+406,Penalty Try
+405,Try Scored
+404,Penalty Conceded
+403,Penalty Won
+402,Lost Outright
+401,Won Outright
+385,Lost Other
+384,Lost Penalty
+383,Lost Free Kick
+382,Lost Clean
+381,Lost Not Straight
+380,Won Other
+379,Won Free Kick
+378,Won Penalty
+377,Won Tap
+376,Won Clean
+361,Lost Reversed
+360,Lost Free Kick
+359,Lost Pen Con
+358,Lost Outright
+357,Won Penalty
+356,Won Free Kick
+354,Won Try
+353,Won Outright
+351,Kick in Play
+321,End of Play
+320,Other
+319,Pen Con
+318,Turnover
+317,Scrum
+316,Pen Won
+315,Kick Out of Play
+314,Try
+313,Drop Goal
+299,Goal Kicked
+298,Goal Missed
+287,Restart Own Error
+286,Restart Opp Collection
+285,Restart Opp Error
+284,Restart Retained
+278,Fail
+277,Success
+259,Reset
+241,Penalty Try
+240,Warning
+238,Red Card
+237,Yellow Card
+236,No Action
+210,Penalty Won
+209,Won Penalty Try
+206,Try Kick
+205,Pressure Error
+204,Pressure in Touch
+203,Pressure Carried Over
+202,Own Player - Failed
+201,Own Player - Collected
+200,In Goal
+199,Collected Bounce
+198,Caught Full
+197,Error - Dead Ball
+196,Error - Territorial Loss
+195,Error - Out of Play
+194,Error - Charged Down
+193,Kick in Touch (Full)
+192,Kick in Touch (Bounce)
+168,Try
+167,Clean Break
+166,Tackled
+161,Missed
+160,Passive
+159,Sack
+158,Try Saver
+157,Pen Conceded
+156,Turnover Won
+155,Offload Allowed
+154,Forced in Touch
+153,Complete
+130,To Opposition
+129,To Ground
+128,Own Player
+124,Pen Conceded
+122,Off Load
+121,Pass
+120,Kick
+119,Error
+118,Other
+117,Try Scored
+108,Tackled Neutral
+107,Tackled Dominant
+673,Playmaker Option - Carry
+674,Playmaker Option - Kick
+675,Playmaker Option - Pass
+677,Error on Attack
+687,Error on Defence
+262,Failure to Find Touch
+261,Kick Error
+258,Lost in Ruck or Maul
+257,Accidental Offside
+256,Lost Ball Forced
+255,Forward Pass
+254,Dropped Ball Unforced
+253,Carried in Touch
+252,Carried Over
+251,Bad Pass
+250,Bad Offload
+249,Attempted Intercept
+364,Positive
+365,Neutral
+366,Negative
+548,Over Previous Gainline
+549,Behind Previous Gainline
+550,Equal to Previous Gainline
+551,N/A Gainline
+288,Long
+289,Short
+207,Catch and Drive
+208,Catch and Pass
+420,Catch and Run
+211,Off the Top
+214,Offence
+215,Defence
+109,Crossed Gain line
+110,Neutral Gain line
+111,Failed Gain line
+185,Kick in Play
+186,Kick in Play (Own 22)
+148,Penalty Kick
+533,Missed Left
+534,Missed Right
+535,Hit Left Post
+536,Hit Right Post
+537,Hit Crossbar
+538,Dropped Short
+539,Charged Down
+441,Assist
+588,OOA Entry 1st Entry - Att
+589,OOA Entry 2nd Entry - Att
+590,OOA Entry 3rd Entry - Att
+591,OOA Entry 4th Entry - Att
+592,OOA Entry 5th Entry - Att
+593,OOA Entry 6th Entry - Att
+594,OOA Entry 7th Entry - Att
+595,OOA Entry 8th Entry - Att
+596,OOA Entry 9th Entry - Att
+597,OOA Entry 10th Entry - Att
+598,OOA Entry 11th Entry - Att
+599,OOA Entry 12th Entry - Att
+600,OOA Entry 13th Entry - Att
+601,OOA Entry 14th Entry - Att
+602,OOA Entry 15th Entry - Att
+603,OOA Entry 1st Entry - Def
+604,OOA Entry 2nd Entry - Def
+605,OOA Entry 3rd Entry - Def
+606,OOA Entry 4th Entry - Def
+607,OOA Entry 5th Entry - Def
+608,OOA Entry 6th Entry - Def
+609,OOA Entry 7th Entry - Def
+610,OOA Entry 8th Entry - Def
+611,OOA Entry 9th Entry - Def
+612,OOA Entry 10th Entry - Def
+613,OOA Entry 11th Entry - Def
+614,OOA Entry 12th Entry - Def
+615,OOA Entry 13th Entry - Def
+616,OOA Entry 14th Entry - Def
+617,OOA Entry 15th Entry - Def
+679,Short Pass
+680,Long Pass
+686,Long Pass
+362,Anti-Clockwise
+363,Clockwise
+552,0-1 Seconds
+553,1-2 Seconds
+554,2-3 Seconds
+555,3-4 Seconds
+556,4-5 Seconds
+557,5-6 Seconds
+558,6+ Seconds
+559,N/A Ruck Speed
+396,Clean Catch
+397,Clean Tap
+398,Ineffective Tap
+399,Error Missed Take
+400,Error Dropped Take
+235,Free Kick
+233,Full Penalty
+652,22/50
+653,50/22
+632,Attacking OOA
+633,Defensive OOA
+473,Dominant Tackle
+474,Neutral Tackle
+475,Ineffective Tackle
+681,Left Pass
+682,Right Pass
+460,Dominant Contact
+461,Neutral Contact
+462,Ineffective Contact
+426,Collapsing
+427,Standing Up
+428,Back Rows Unbound
+429,Whipping Scrum
+430,No 9 Offside
+431,Not Straight
+432,Delaying Put In
+449,Boring In
+450,Early Engagement
+458,Illegal Binding
+459,Other Scrum Offence
+433,Barging
+434,Obstruction
+435,Offside
+436,Taking Man in Air
+453,Delaying the Throw
+454,Closing the Gap
+455,Early Lift
+456,Wrong Numbers
+442,Offside at Ruck - Att
+443,Offside at Ruck - Def
+444,Offside in General Play
+500,0 Tacklers Committed
+501,1 Tacklers Committed
+502,2 Tacklers Committed
+503,3 Tacklers Committed
+504,4+ Tacklers Committed
+505,Stayed on Ground
+506,Idle
+507,Reload
+659,Wide Left Open Movement
+660,Wide Right Open Movement
+661,Mid Left Open Movement
+662,Mid Right Open Movement
+663,Close Left Open Movement
+664,Close Right Open Movement
+665,Close Left Blindside Movement
+666,Close Right Blindside Movement
+667,Tight Left Open Movement
+668,Tight Right Open Movement
+669,Tight Left Blindside Movement
+670,Tight Right Blindside Movement
+676,N/A Movement

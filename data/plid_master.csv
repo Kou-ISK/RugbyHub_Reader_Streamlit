@@ -1,0 +1,633 @@
+players_id,player_known_name,team_id,team_name
+5200,Yokohama Canon Eagles,5200,Yokohama Canon Eagles
+22615,Amanaki Mafi,5200,Yokohama Canon Eagles
+29256,Chang-Ho Ahn,5200,Yokohama Canon Eagles
+24339,Chihito Matsui,5200,Yokohama Canon Eagles
+18525,Cory Hill,5200,Yokohama Canon Eagles
+43561,Daisuke Yoshida,5200,Yokohama Canon Eagles
+58102,Eto Ryo,5200,Yokohama Canon Eagles
+21626,Faf de Klerk,5200,Yokohama Canon Eagles
+32299,Havili Richie,5200,Yokohama Canon Eagles
+58103,Inoke Burua,5200,Yokohama Canon Eagles
+20669,Jesse Kriel,5200,Yokohama Canon Eagles
+26539,Jumpei Ogura,5200,Yokohama Canon Eagles
+24911,Kanta Higashionna,5200,Yokohama Canon Eagles
+30963,Katsuto Kubo,5200,Yokohama Canon Eagles
+43562,Kazufumi Yamasuga,5200,Yokohama Canon Eagles
+32300,Kazuma Nakagawa,5200,Yokohama Canon Eagles
+37856,Kazunari Takagi,5200,Yokohama Canon Eagles
+28971,Kentaro Nagatomi,5200,Yokohama Canon Eagles
+24972,Kobus van Dyk,5200,Yokohama Canon Eagles
+32552,Kohei Kire,5200,Yokohama Canon Eagles
+26244,Koki Arai,5200,Yokohama Canon Eagles
+43564,Koki Yakushiji,5200,Yokohama Canon Eagles
+17148,Liaki Moli,5200,Yokohama Canon Eagles
+21818,Luteru Laulala,5200,Yokohama Canon Eagles
+32409,Masayoshi Takezawa,5200,Yokohama Canon Eagles
+58101,Matsuki Yuto,5200,Yokohama Canon Eagles
+32886,Max Douglas,5200,Yokohama Canon Eagles
+20993,Mitch Brown,5200,Yokohama Canon Eagles
+26593,Naoto Shimada,5200,Yokohama Canon Eagles
+24613,Naoya Minamihashi,5200,Yokohama Canon Eagles
+30967,Rento Tsukayama,5200,Yokohama Canon Eagles
+36490,Ryo Tabata,5200,Yokohama Canon Eagles
+26609,Ryota Suginaga,5200,Yokohama Canon Eagles
+20605,Ryuta Yasui,5200,Yokohama Canon Eagles
+18965,SP Marais,5200,Yokohama Canon Eagles
+36492,Seiya Yamada,5200,Yokohama Canon Eagles
+26373,Shin Kawamura,5200,Yokohama Canon Eagles
+37855,Shota Matsuoka,5200,Yokohama Canon Eagles
+30972,Sioeli Vakalahi,5200,Yokohama Canon Eagles
+55991,Sione Halasili,5200,Yokohama Canon Eagles
+36489,Sonho Paku,5200,Yokohama Canon Eagles
+37857,Sosefo Fakatava,5200,Yokohama Canon Eagles
+43559,Sungho Park,5200,Yokohama Canon Eagles
+32321,Takato Okabe,5200,Yokohama Canon Eagles
+36584,Tatsuro Sugimoto,5200,Yokohama Canon Eagles
+26238,Toshiki Amano,5200,Yokohama Canon Eagles
+43563,Viliame Takayawa,5200,Yokohama Canon Eagles
+30974,Yu Saruta,5200,Yokohama Canon Eagles
+20577,Yu Tamura,5200,Yokohama Canon Eagles
+29274,Yuki Yamamoto,5200,Yokohama Canon Eagles
+43560,Yusaku Miyoshi,5200,Yokohama Canon Eagles
+23409,Yusuke Kajimura,5200,Yokohama Canon Eagles
+24611,Yusuke Niwai,5200,Yokohama Canon Eagles
+37872,Atsuki Kuwayama,19702,Toshiba Brave Lupus Tokyo
+19702,Toshiba Brave Lupus Tokyo,19702,Toshiba Brave Lupus Tokyo
+22089,Burger Odendaal,19702,Toshiba Brave Lupus Tokyo
+25085,Daigo Hashimoto,19702,Toshiba Brave Lupus Tokyo
+24519,Futoshi Mori,19702,Toshiba Brave Lupus Tokyo
+26390,Gwante Kim,19702,Toshiba Brave Lupus Tokyo
+27250,Hayata Nakao,19702,Toshiba Brave Lupus Tokyo
+24513,Hiroki Yamamoto,19702,Toshiba Brave Lupus Tokyo
+26443,Hisayoshi Matsuoka,19702,Toshiba Brave Lupus Tokyo
+18578,Hugh Pyle,19702,Toshiba Brave Lupus Tokyo
+23566,Jack Stratton,19702,Toshiba Brave Lupus Tokyo
+28162,Jacob Pierce,19702,Toshiba Brave Lupus Tokyo
+28091,Jone Naikabula,19702,Toshiba Brave Lupus Tokyo
+36536,Kohei Takahashi,19702,Toshiba Brave Lupus Tokyo
+24510,Kyosuke Kajikawa,19702,Toshiba Brave Lupus Tokyo
+34483,Mamoru Harada,19702,Toshiba Brave Lupus Tokyo
+36540,Masaki Hamada,19702,Toshiba Brave Lupus Tokyo
+20601,Masataka Mikami,19702,Toshiba Brave Lupus Tokyo
+10420,Matt Todd,19702,Toshiba Brave Lupus Tokyo
+11306,Michael Leitch,19702,Toshiba Brave Lupus Tokyo
+43557,Nik McCurran,19702,Toshiba Brave Lupus Tokyo
+37878,Ren Miyagami,19702,Toshiba Brave Lupus Tokyo
+21077,Richie Mo'unga,19702,Toshiba Brave Lupus Tokyo
+37797,Rikyu Yamakawa,19702,Toshiba Brave Lupus Tokyo
+58073,Sena Kimura,19702,Toshiba Brave Lupus Tokyo
+20143,Seta Tamanivalu,19702,Toshiba Brave Lupus Tokyo
+26173,Shannon Frizell,19702,Toshiba Brave Lupus Tokyo
+32641,Shin Ouchi,19702,Toshiba Brave Lupus Tokyo
+43573,Shinnosuke Tatsuno,19702,Toshiba Brave Lupus Tokyo
+37879,Shohei Ito,19702,Toshiba Brave Lupus Tokyo
+24349,Shohei Toyoshima,19702,Toshiba Brave Lupus Tokyo
+58074,Shoichi Takagi,19702,Toshiba Brave Lupus Tokyo
+26424,Songchang Lee,19702,Toshiba Brave Lupus Tokyo
+25294,Taichi Mano,19702,Toshiba Brave Lupus Tokyo
+26441,Taiki Matsunobu,19702,Toshiba Brave Lupus Tokyo
+26271,Takahiro Fujita,19702,Toshiba Brave Lupus Tokyo
+24514,Takahiro Ogawa,19702,Toshiba Brave Lupus Tokyo
+29261,Takeshi Sasaki,19702,Toshiba Brave Lupus Tokyo
+38312,Takuro Matsunaga,19702,Toshiba Brave Lupus Tokyo
+58075,Taufa Latu,19702,Toshiba Brave Lupus Tokyo
+36545,Teruo Makabe,19702,Toshiba Brave Lupus Tokyo
+19174,Tom Taylor,19702,Toshiba Brave Lupus Tokyo
+23415,Toshiki Kuwayama,19702,Toshiba Brave Lupus Tokyo
+40399,Warner Dearns,19702,Toshiba Brave Lupus Tokyo
+24706,Yoshitaka Tokunaga,19702,Toshiba Brave Lupus Tokyo
+37884,Yuhei Sugiyama,19702,Toshiba Brave Lupus Tokyo
+23404,Yuma Fujino,19702,Toshiba Brave Lupus Tokyo
+43558,Yuta Kokaji,19702,Toshiba Brave Lupus Tokyo
+30976,Yuto Mori,19702,Toshiba Brave Lupus Tokyo
+5212,Shizuoka BlueRevs,5212,Shizuoka BlueRevs
+36542,Arito Takahashi,5212,Shizuoka BlueRevs
+32041,Atomu Shirai,5212,Shizuoka BlueRevs
+19802,Bryn Hall,5212,Shizuoka BlueRevs
+43574,Bunkei Kaku,5212,Shizuoka BlueRevs
+24615,Chikara Ito,5212,Shizuoka BlueRevs
+23644,Clinton Swart,5212,Shizuoka BlueRevs
+28920,Eishin Kuwano,5212,Shizuoka BlueRevs
+26752,Fumihiro Yoshizawa,5212,Shizuoka BlueRevs
+58068,Futo Yamaguchi,5212,Shizuoka BlueRevs
+26340,Heiichiro Ito,5212,Shizuoka BlueRevs
+26336,Hiroaki Ishizuka,5212,Shizuoka BlueRevs
+23430,Hironori Yatomi,5212,Shizuoka BlueRevs
+26400,Hiroto Kobayashi,5212,Shizuoka BlueRevs
+26774,Isi Naisarani,5212,Shizuoka BlueRevs
+23384,Johnny Fa'auli,5212,Shizuoka BlueRevs
+58071,Joren Fuchi,5212,Shizuoka BlueRevs
+38476,Kakeru Okumura,5212,Shizuoka BlueRevs
+28119,Kanta Shikao,5212,Shizuoka BlueRevs
+37888,Kazuhiro Kawata,5212,Shizuoka BlueRevs
+36501,Keagen Faria,5212,Shizuoka BlueRevs
+43575,Kenta Yamashita,5212,Shizuoka BlueRevs
+43576,Kodai Okazaki,5212,Shizuoka BlueRevs
+28922,Kohei Eguchi,5212,Shizuoka BlueRevs
+20655,Kwagga Smith,5212,Shizuoka BlueRevs
+26324,Malgene Ilaua,5212,Shizuoka BlueRevs
+23585,Malo Tuitama,5212,Shizuoka BlueRevs
+25160,Minoru Tanoue,5212,Shizuoka BlueRevs
+19737,Murray Douglas,5212,Shizuoka BlueRevs
+56015,Richard Goh Jones,5212,Shizuoka BlueRevs
+58072,Richmond Tongatama,5212,Shizuoka BlueRevs
+37893,Riki Sugihara,5212,Shizuoka BlueRevs
+26439,Rikiya Matsumoto,5212,Shizuoka BlueRevs
+25143,Ryosuke Funahashi,5212,Shizuoka BlueRevs
+22606,Sam Greene,5212,Shizuoka BlueRevs
+26240,Samuela Anise,5212,Shizuoka BlueRevs
+58069,Satoshi Hatazawa,5212,Shizuoka BlueRevs
+36539,Shintaro Okamoto,5212,Shizuoka BlueRevs
+26397,Sho Kiyohara,5212,Shizuoka BlueRevs
+37889,Shumpei Miura,5212,Shizuoka BlueRevs
+26529,Sohei Nishimura,5212,Shizuoka BlueRevs
+58070,Takayoshi Mohara,5212,Shizuoka BlueRevs
+26310,Takeshi Hino,5212,Shizuoka BlueRevs
+38475,Takuma Shoji,5212,Shizuoka BlueRevs
+28925,Tomokazu Kira,5212,Shizuoka BlueRevs
+36541,Toshiya Hirakawa,5212,Shizuoka BlueRevs
+20953,Viliami Tahitu'a,5212,Shizuoka BlueRevs
+26452,Yuhimaru Mimura,5212,Shizuoka BlueRevs
+26758,Yuji Ueki,5212,Shizuoka BlueRevs
+9244,Yuki Yatomi,5212,Shizuoka BlueRevs
+24598,Yuya Odo,5212,Shizuoka BlueRevs
+5204,Kubota Spears,5204,Kubota Spears
+30953,Asipeli Moala,5204,Kubota Spears
+58028,Atsushi Oshikawa,5204,Kubota Spears
+19015,Bernard Foley,5204,Kubota Spears
+24418,Daisuke Inoue,5204,Kubota Spears
+17055,David Bulbring,5204,Kubota Spears
+23417,Faulua Makisi,5204,Kubota Spears
+26689,Finau Tupa,5204,Kubota Spears
+10205,Gerhard van den Heever,5204,Kubota Spears
+30956,Halatoa Vailea,5204,Kubota Spears
+19937,Harumichi Tatekawa,5204,Kubota Spears
+34476,Haruto Kida,5204,Kubota Spears
+26408,Hideto Kondo,5204,Kubota Spears
+26607,Hiroaki Sugimoto,5204,Kubota Spears
+30957,Hiroto Mamada,5204,Kubota Spears
+43547,Hiroyuki Yamasaki,5204,Kubota Spears
+30958,Hisanobu Okayama,5204,Kubota Spears
+26545,Ippei Okada,5204,Kubota Spears
+32473,Katsuya Okuma,5204,Kubota Spears
+28979,Kazuhiro Taniguchi,5204,Kubota Spears
+28944,Kazuki Kato,5204,Kubota Spears
+24910,Kengo Kitagawa,5204,Kubota Spears
+37784,Kenshi Yamamoto,5204,Kubota Spears
+37770,Kensuke Seki,5204,Kubota Spears
+36514,Kentaro Otsuka,5204,Kubota Spears
+36516,Kento Iwasa,5204,Kubota Spears
+37786,Kim Suryung,5204,Kubota Spears
+30964,Koga Nezuka,5204,Kubota Spears
+28982,Kota Kaishi,5204,Kubota Spears
+21467,Malcolm Marx,5204,Kubota Spears
+43545,Masaya Tamaki,5204,Kubota Spears
+25297,Naoaki Horibe,5204,Kubota Spears
+36518,Opeti Helu,5204,Kubota Spears
+19291,Pieter Labuschagne,5204,Kubota Spears
+30945,Rikus Pretorius,5204,Kubota Spears
+58092,Rikuto Fukuda,5204,Kubota Spears
+19740,Ruan Botha,5204,Kubota Spears
+10091,Ryan Crotty,5204,Kubota Spears
+26571,Satoshi Saita,5204,Kubota Spears
+30948,Schalk Erasmus,5204,Kubota Spears
+29262,Shinko Tsuchiya,5204,Kubota Spears
+30969,Shinobu Fujiwara,5204,Kubota Spears
+25146,Shintaro Nagatomi,5204,Kubota Spears
+36521,Shota Nakata,5204,Kubota Spears
+26440,Shoya Matsunami,5204,Kubota Spears
+36523,Shunta Koga,5204,Kubota Spears
+27384,Sione Teaupa,5204,Kubota Spears
+36525,Takenori Matsui,5204,Kubota Spears
+28985,Takeo Suenaga,5204,Kubota Spears
+43546,Teruyoshi Joshua Oto,5204,Kubota Spears
+29265,Tomoki Kishioka,5204,Kubota Spears
+28113,Tony Hunt,5204,Kubota Spears
+26305,Uwe Helu,5204,Kubota Spears
+34494,Yota Kamimori,5204,Kubota Spears
+37785,Yuhei Shimada,5204,Kubota Spears
+26242,Yuki Aoki,5204,Kubota Spears
+26255,Yuta Chiba,5204,Kubota Spears
+19568,Hanazono Kintetsu Liners,19568,Hanazono Kintetsu Liners
+37768,Akihide Onogi,19568,Hanazono Kintetsu Liners
+26363,Atsushi Kashimoto,19568,Hanazono Kintetsu Liners
+21414,Ben Toolis,19568,Hanazono Kintetsu Liners
+26533,Daisuke Noguchi,19568,Hanazono Kintetsu Liners
+38425,Hayato Yokoi,19568,Hanazono Kintetsu Liners
+21799,Ieremia Mataena,19568,Hanazono Kintetsu Liners
+21207,Isamu Matsuoka,19568,Hanazono Kintetsu Liners
+21232,Jackson Garden-Bachop,19568,Hanazono Kintetsu Liners
+20103,Jed Brown,19568,Hanazono Kintetsu Liners
+31117,Jose Seru,19568,Hanazono Kintetsu Liners
+30706,Joshua Nohra,19568,Hanazono Kintetsu Liners
+38383,Kazuma Matsuda,19568,Hanazono Kintetsu Liners
+25145,Keiichi Kaneko,19568,Hanazono Kintetsu Liners
+37644,Keita Sahara,19568,Hanazono Kintetsu Liners
+43603,Keitaro Hitora,19568,Hanazono Kintetsu Liners
+58194,Kensho Kawamura,19568,Hanazono Kintetsu Liners
+26655,Kenta Tanaka,19568,Hanazono Kintetsu Liners
+38387,Koji Okamura,19568,Hanazono Kintetsu Liners
+25156,Kota Mitake,19568,Hanazono Kintetsu Liners
+55951,Kotaro Takahashi,19568,Hanazono Kintetsu Liners
+55952,Lata Tangimana,19568,Hanazono Kintetsu Liners
+58203,Liekina Kaufusi,19568,Hanazono Kintetsu Liners
+37787,Naoki Maruyama,19568,Hanazono Kintetsu Liners
+21212,Naoki Morita,19568,Hanazono Kintetsu Liners
+43602,Nesta Mahina,19568,Hanazono Kintetsu Liners
+27249,Patrick Stehlin,19568,Hanazono Kintetsu Liners
+25870,Patrick Tafa,19568,Hanazono Kintetsu Liners
+56002,Reiya Ueyama,19568,Hanazono Kintetsu Liners
+25295,Ren Takano,19568,Hanazono Kintetsu Liners
+37641,Ryosuke Kataoka,19568,Hanazono Kintetsu Liners
+24943,Sam Caird,19568,Hanazono Kintetsu Liners
+23564,Sanaila Waqa,19568,Hanazono Kintetsu Liners
+18881,Semisi Masirewa,19568,Hanazono Kintetsu Liners
+40652,Shinki Ushikubo,19568,Hanazono Kintetsu Liners
+37643,Shohei Nonaka,19568,Hanazono Kintetsu Liners
+26313,Shota Hirono,19568,Hanazono Kintetsu Liners
+32508,Shun Sasaki,19568,Hanazono Kintetsu Liners
+30973,Siosaia Fifita,19568,Hanazono Kintetsu Liners
+36547,Songyong Lee,19568,Hanazono Kintetsu Liners
+58193,Taiki Miyashita,19568,Hanazono Kintetsu Liners
+56001,Takahiro Hayashi,19568,Hanazono Kintetsu Liners
+37789,Takahito Sugahara,19568,Hanazono Kintetsu Liners
+37642,Takumi Yoshimoto,19568,Hanazono Kintetsu Liners
+26517,Tatsuma Nanto,19568,Hanazono Kintetsu Liners
+26690,Tevita Tupou,19568,Hanazono Kintetsu Liners
+38389,Tomoya Kimura,19568,Hanazono Kintetsu Liners
+38385,Tomoya Nakamura,19568,Hanazono Kintetsu Liners
+23538,Tsuyoshi Murata,19568,Hanazono Kintetsu Liners
+9047,Will Genia,19568,Hanazono Kintetsu Liners
+26634,Yoshizumi Takeda,19568,Hanazono Kintetsu Liners
+38382,Yuchol Mun,19568,Hanazono Kintetsu Liners
+26250,Yuki Asaoka,19568,Hanazono Kintetsu Liners
+26635,Yusho Takeda,19568,Hanazono Kintetsu Liners
+19567,Saitama Wild Knights,19567,Saitama Wild Knights
+26232,Asaeli Ai Valu,19567,Saitama Wild Knights
+30954,Atora Hondo,19567,Saitama Wild Knights
+24939,Atsushi Sakate,19567,Saitama Wild Knights
+26283,Ben Gunter,19567,Saitama Wild Knights
+20930,Craig Millar,19567,Saitama Wild Knights
+20037,Damian de Allende,19567,Saitama Wild Knights
+56069,Daniel Perez,19567,Saitama Wild Knights
+27652,Dylan Riley,19567,Saitama Wild Knights
+26360,Eiji Kaneda,19567,Saitama Wild Knights
+27745,Esei Haangana,19567,Saitama Wild Knights
+58066,Goro Hashimoto,19567,Saitama Wild Knights
+37794,Hyuga Shimada,19567,Saitama Wild Knights
+26352,Iori Kaji,19567,Saitama Wild Knights
+32203,Itsuki Onishi,19567,Saitama Wild Knights
+23697,Jack Cornelsen,19567,Saitama Wild Knights
+36481,Jura Asanuma,19567,Saitama Wild Knights
+36491,Kazuma Shimane,19567,Saitama Wild Knights
+20604,Keisuke Uchida,19567,Saitama Wild Knights
+21191,Keita Inagaki,19567,Saitama Wild Knights
+36589,Koki Takeyama,19567,Saitama Wild Knights
+30965,Kyohei Yamasawa,19567,Saitama Wild Knights
+21724,Lachlan Boshier,19567,Saitama Wild Knights
+28850,Liam Mitchell,19567,Saitama Wild Knights
+20524,Lood de Jager,19567,Saitama Wild Knights
+58067,Manoa Latu,19567,Saitama Wild Knights
+27083,Marika Koroibete,19567,Saitama Wild Knights
+20998,Mark Abbott,19567,Saitama Wild Knights
+21201,Masaki Tani,19567,Saitama Wild Knights
+25307,Rikiya Matsuda,19567,Saitama Wild Knights
+26296,Ryota Hasegawa,19567,Saitama Wild Knights
+23421,Ryuji Noguchi,19567,Saitama Wild Knights
+37792,Ryusei Kawasaki,19567,Saitama Wild Knights
+58064,Seijun Kawasaki,19567,Saitama Wild Knights
+25611,Semisi Tupou,19567,Saitama Wild Knights
+36488,Sho Furuhata,19567,Saitama Wild Knights
+24415,Shohei Hirano,19567,Saitama Wild Knights
+29264,Shota Fukui,19567,Saitama Wild Knights
+11304,Shota Horie,19567,Saitama Wild Knights
+24509,Shunsuke Nunomaki,19567,Saitama Wild Knights
+36485,Suliasi Tolu,19567,Saitama Wild Knights
+37793,Taichi Niizuma,19567,Saitama Wild Knights
+29259,Taiki Fujii,19567,Saitama Wild Knights
+28928,Taiki Koyama,19567,Saitama Wild Knights
+26760,Takuya Yamasawa,19567,Saitama Wild Knights
+36484,Tatsuhiro Tanji,19567,Saitama Wild Knights
+28927,Tatsuki Tomuro,19567,Saitama Wild Knights
+28926,Tomohito Miyakawa,19567,Saitama Wild Knights
+58065,Tomoki Osada,19567,Saitama Wild Knights
+37791,Tsubasa Arai,19567,Saitama Wild Knights
+21140,Vince Aso,19567,Saitama Wild Knights
+24421,Yasutaka Sasakura,19567,Saitama Wild Knights
+32205,Yuji Shimogama,19567,Saitama Wild Knights
+32206,Yusuke Tokota,19567,Saitama Wild Knights
+26623,Yuta Takagi,19567,Saitama Wild Knights
+5211,Toyota Verblitz,5211,Toyota Verblitz
+32522,Charlie Lawrence,5211,Toyota Verblitz
+24351,Dai Ozawa,5211,Toyota Verblitz
+25153,Daichi Akiyama,5211,Toyota Verblitz
+38419,Dick Wilson,5211,Toyota Verblitz
+18930,Fetuani Lautaimi,5211,Toyota Verblitz
+40592,Gaku Shimizu,5211,Toyota Verblitz
+24343,Jamie Henry,5211,Toyota Verblitz
+18571,Joe Launchbury,5211,Toyota Verblitz
+28713,Jone Turaganivalu Nabetelevu,5211,Toyota Verblitz
+58078,Kaisei Tamura,5211,Toyota Verblitz
+23590,Kaito Shigeno,5211,Toyota Verblitz
+28962,Kazuki Himeno,5211,Toyota Verblitz
+32382,Keita Suzuki,5211,Toyota Verblitz
+36475,Kenta Fukuda,5211,Toyota Verblitz
+32390,Kyo Yoshida,5211,Toyota Verblitz
+32556,Louis Conradie,5211,Toyota Verblitz
+8697,Male Sa'u,5211,Toyota Verblitz
+43585,Masahiro Kitamura,5211,Toyota Verblitz
+24537,Masakatsu Hikosaka,5211,Toyota Verblitz
+25083,Masato Furukawa,5211,Toyota Verblitz
+20104,Michael Allardice,5211,Toyota Verblitz
+23405,Mitsuru Furukawa,5211,Toyota Verblitz
+19736,Pieter-Steph du Toit,5211,Toyota Verblitz
+58077,Rintaro Maruyama,5211,Toyota Verblitz
+21074,Rob Thompson,5211,Toyota Verblitz
+28959,Runya Che,5211,Toyota Verblitz
+26347,Ryang Jongchu,5211,Toyota Verblitz
+32328,Ryoma Nishimura,5211,Toyota Verblitz
+30968,Ryunosuke Momoji,5211,Toyota Verblitz
+36477,Ryusei Kato,5211,Toyota Verblitz
+34486,Ryusei Koike,5211,Toyota Verblitz
+23418,Shogo Miura,5211,Toyota Verblitz
+36483,Shuhei Yamaguchi,5211,Toyota Verblitz
+36474,Shunsuke Asaoka,5211,Toyota Verblitz
+36482,Taichi Takahashi,5211,Toyota Verblitz
+36480,Takemichi Nakano,5211,Toyota Verblitz
+26550,Taufa Olive,5211,Toyota Verblitz
+26109,Tiaan Falcon,5211,Toyota Verblitz
+43584,Toshikazu Nobeyama,5211,Toyota Verblitz
+28960,Vatiliai Tuidraki,5211,Toyota Verblitz
+49780,Viliame Tuidraki,5211,Toyota Verblitz
+19553,William Tupou,5211,Toyota Verblitz
+19709,Willie Le Roux,5211,Toyota Verblitz
+26309,Yoshikatsu Hikosaka,5211,Toyota Verblitz
+26330,Yoto Ioki,5211,Toyota Verblitz
+58076,Yuichiro Wada,5211,Toyota Verblitz
+28958,Yuji Takei,5211,Toyota Verblitz
+32369,Yuki Okada,5211,Toyota Verblitz
+32375,Yusuke Kizu,5211,Toyota Verblitz
+5208,BlackRams Tokyo,5208,BlackRams Tokyo
+49215,*Shota Yamamoto,5208,BlackRams Tokyo
+26432,Aki Makita,5208,BlackRams Tokyo
+24345,Amanaki Lotoahea,5208,BlackRams Tokyo
+36500,Amato Fakatava,5208,BlackRams Tokyo
+36538,Brodi McCurran,5208,BlackRams Tokyo
+37807,Daigo Sasagawa,5208,BlackRams Tokyo
+26736,Daiki Yanagawa,5208,BlackRams Tokyo
+26287,Daisuke Hamano,5208,BlackRams Tokyo
+37809,Daisuke Nishikawa,5208,BlackRams Tokyo
+11638,Hadleigh Parkes,5208,BlackRams Tokyo
+43583,Harrison Fox,5208,BlackRams Tokyo
+29258,Hinata Takei,5208,BlackRams Tokyo
+25514,Isaac Lucas,5208,BlackRams Tokyo
+22314,Jacob Skeen,5208,BlackRams Tokyo
+23339,Josh Goodhue,5208,BlackRams Tokyo
+37903,Junpei Yukawa,5208,BlackRams Tokyo
+26404,Kazuhiro Koike,5208,BlackRams Tokyo
+26591,Kazuhiro Shibata,5208,BlackRams Tokyo
+32414,Kazuma Nishi,5208,BlackRams Tokyo
+26688,Kenta Tsujii,5208,BlackRams Tokyo
+58080,Ko Sato,5208,BlackRams Tokyo
+32416,Kohei Horigome,5208,BlackRams Tokyo
+28937,Masashi Onishi,5208,BlackRams Tokyo
+26503,Masatoshi Nakamura,5208,BlackRams Tokyo
+22034,Matt McGahan,5208,BlackRams Tokyo
+22169,Mike Stolberg,5208,BlackRams Tokyo
+19126,Nathan Hughes,5208,BlackRams Tokyo
+30791,Netani Vakayalia,5208,BlackRams Tokyo
+26566,Pohiva Yamato Lotoahea,5208,BlackRams Tokyo
+36495,Ryohei Isoda,5208,BlackRams Tokyo
+28964,Shinichi Tanaka,5208,BlackRams Tokyo
+30970,Shohei Oyama,5208,BlackRams Tokyo
+34491,Shu Yamamoto,5208,BlackRams Tokyo
+26435,Shuhei Matsuhashi,5208,BlackRams Tokyo
+43628,Siope Lolo Tavo,5208,BlackRams Tokyo
+26724,Syota Yamamoto,5208,BlackRams Tokyo
+28938,Taichi Chiba,5208,BlackRams Tokyo
+37810,Taira Main,5208,BlackRams Tokyo
+36867,Takanobu Minami,5208,BlackRams Tokyo
+26430,Takao Makabe,5208,BlackRams Tokyo
+26512,Takehiro Nakazawa,5208,BlackRams Tokyo
+36754,Talau Fakatava,5208,BlackRams Tokyo
+25293,Tomoya Yamamura,5208,BlackRams Tokyo
+26625,Toshiya Takahashi,5208,BlackRams Tokyo
+29267,Yoshiyuki Koga,5208,BlackRams Tokyo
+30975,Yuichiro Taniguchi,5208,BlackRams Tokyo
+32520,Yuki Ikeda,5208,BlackRams Tokyo
+26470,Yuki Mori,5208,BlackRams Tokyo
+37808,Yuta Kurihara,5208,BlackRams Tokyo
+594,Mitsubishi Sagamihara Dynaboars,594,Mitsubishi Sagamihara Dynaboars
+36494,Akihiro Ogiso,594,Mitsubishi Sagamihara Dynaboars
+37851,Ben Paltridge,594,Mitsubishi Sagamihara Dynaboars
+11183,Brackin Karauria-Henry,594,Mitsubishi Sagamihara Dynaboars
+27129,Curtis Rona,594,Mitsubishi Sagamihara Dynaboars
+36517,Daniel Linde,594,Mitsubishi Sagamihara Dynaboars
+27036,Dylan Nel,594,Mitsubishi Sagamihara Dynaboars
+26154,Epineri Uluiviti,594,Mitsubishi Sagamihara Dynaboars
+54858,Fisipuna Tuiaki,594,Mitsubishi Sagamihara Dynaboars
+36519,Gousuke Kawakami,594,Mitsubishi Sagamihara Dynaboars
+36520,Hayato Hosoda,594,Mitsubishi Sagamihara Dynaboars
+18800,Heiden Bedwell-Curtis,594,Mitsubishi Sagamihara Dynaboars
+27401,Honeti Taumohaapai,594,Mitsubishi Sagamihara Dynaboars
+36524,Ippei Oshima,594,Mitsubishi Sagamihara Dynaboars
+36526,Ippei Yamamoto,594,Mitsubishi Sagamihara Dynaboars
+20312,Jackson Hemopo,594,Mitsubishi Sagamihara Dynaboars
+23380,Jamie Shillcock,594,Mitsubishi Sagamihara Dynaboars
+38364,Joichiro Iwashita,594,Mitsubishi Sagamihara Dynaboars
+27247,Jonmun Han,594,Mitsubishi Sagamihara Dynaboars
+36527,Jun Morimoto,594,Mitsubishi Sagamihara Dynaboars
+34135,Kazuki Ishida,594,Mitsubishi Sagamihara Dynaboars
+36530,Keita Sekimoto,594,Mitsubishi Sagamihara Dynaboars
+36531,Kensaku Akuta,594,Mitsubishi Sagamihara Dynaboars
+25147,Kento Nakai,594,Mitsubishi Sagamihara Dynaboars
+38399,Kohki Sato,594,Mitsubishi Sagamihara Dynaboars
+58089,Koki Hattori,594,Mitsubishi Sagamihara Dynaboars
+26342,Kota Iwamura,594,Mitsubishi Sagamihara Dynaboars
+24600,Makoto Tosa,594,Mitsubishi Sagamihara Dynaboars
+37821,Maoya Nakagawa,594,Mitsubishi Sagamihara Dynaboars
+26687,Masataka Tsuruya,594,Mitsubishi Sagamihara Dynaboars
+9675,Matt To'omua,594,Mitsubishi Sagamihara Dynaboars
+22419,Matt Vaega,594,Mitsubishi Sagamihara Dynaboars
+58079,Mototsugu Hachiya,594,Mitsubishi Sagamihara Dynaboars
+11313,Naoki Kawamata,594,Mitsubishi Sagamihara Dynaboars
+21195,Nicholas Ealey,594,Mitsubishi Sagamihara Dynaboars
+36555,Nozomi Nara,594,Mitsubishi Sagamihara Dynaboars
+36560,Roland Alaia'sa,594,Mitsubishi Sagamihara Dynaboars
+36562,Ryoma Tokuda,594,Mitsubishi Sagamihara Dynaboars
+58088,Ryoto Shibata,594,Mitsubishi Sagamihara Dynaboars
+43630,Ryuta Sagara,594,Mitsubishi Sagamihara Dynaboars
+56103,Ryuto Fukuyama,594,Mitsubishi Sagamihara Dynaboars
+32551,Sam Chongkit,594,Mitsubishi Sagamihara Dynaboars
+36554,Shinya Tanaka,594,Mitsubishi Sagamihara Dynaboars
+55992,Shunsuke Sakamoto,594,Mitsubishi Sagamihara Dynaboars
+58087,Songyu Cho,594,Mitsubishi Sagamihara Dynaboars
+43701,Taichi Takahashi,594,Mitsubishi Sagamihara Dynaboars
+26426,Taiji Machino,594,Mitsubishi Sagamihara Dynaboars
+28940,Takahiro Terui,594,Mitsubishi Sagamihara Dynaboars
+43632,Takumi Sugiura,594,Mitsubishi Sagamihara Dynaboars
+40633,Taro Aihara,594,Mitsubishi Sagamihara Dynaboars
+58090,Tatsuya Kuzumi,594,Mitsubishi Sagamihara Dynaboars
+58091,Timote Tavalea,594,Mitsubishi Sagamihara Dynaboars
+37645,Tomoaki Ishii,594,Mitsubishi Sagamihara Dynaboars
+29788,Tomoyuki Ochiai,594,Mitsubishi Sagamihara Dynaboars
+25255,Walt Steenkamp,594,Mitsubishi Sagamihara Dynaboars
+36569,Yoshimitsu Yasue,594,Mitsubishi Sagamihara Dynaboars
+24520,Yu Chinen,594,Mitsubishi Sagamihara Dynaboars
+33648,Yu Okudaira,594,Mitsubishi Sagamihara Dynaboars
+36571,Yuki Miyazato,594,Mitsubishi Sagamihara Dynaboars
+43631,Yusuke Sakamoto,594,Mitsubishi Sagamihara Dynaboars
+26554,Yuta Onodera,594,Mitsubishi Sagamihara Dynaboars
+36550,Yuya Otsuka,594,Mitsubishi Sagamihara Dynaboars
+5209,Tokyo Sungoliath,5209,Tokyo Sungoliath
+11061,Aaron Cruden,5209,Tokyo Sungoliath
+32753,Callum MacDonald,5209,Tokyo Sungoliath
+28852,Genki Okoshi,5209,Tokyo Sungoliath
+26281,Genki Sudo,5209,Tokyo Sungoliath
+24957,Harry Hockings,5209,Tokyo Sungoliath
+19948,Hendrik Tui,5209,Tokyo Sungoliath
+40593,Hideto Niguma,5209,Tokyo Sungoliath
+26651,Hikaru Tamura,5209,Tokyo Sungoliath
+58025,Hiroki Kumoyama,5209,Tokyo Sungoliath
+32978,Isaiah Punivai,5209,Tokyo Sungoliath
+30960,Kai Yamamoto,5209,Tokyo Sungoliath
+29270,Kan Nakano,5209,Tokyo Sungoliath
+30962,Kanji Shimokawa,5209,Tokyo Sungoliath
+26479,Keisuke Moriya,5209,Tokyo Sungoliath
+58023,Kenta Kobayashi,5209,Tokyo Sungoliath
+26683,Kenta Tsukamoto,5209,Tokyo Sungoliath
+36507,Kienori Go,5209,Tokyo Sungoliath
+28853,Koji Iino,5209,Tokyo Sungoliath
+23407,Kosuke Horikoshi,5209,Tokyo Sungoliath
+58188,Kotaro Hosoki,5209,Tokyo Sungoliath
+21961,Kotaro Matsushima,5209,Tokyo Sungoliath
+26563,Naoki Ozawa,5209,Tokyo Sungoliath
+25158,Naoto Saito,5209,Tokyo Sungoliath
+28855,Oketani Sota,5209,Tokyo Sungoliath
+23408,Ryosuke Iwaihara,5209,Tokyo Sungoliath
+58024,Ryosuke Kawase,5209,Tokyo Sungoliath
+20606,Ryoto Nakamura,5209,Tokyo Sungoliath
+29260,Ryuga Hashimoto,5209,Tokyo Sungoliath
+19909,Samu Kerevi,5209,Tokyo Sungoliath
+19825,Sean McMahon,5209,Tokyo Sungoliath
+23422,Seiya Ozaki,5209,Tokyo Sungoliath
+22614,Shinnosuke Kakinaga,5209,Tokyo Sungoliath
+52827,Shinnosuke Oka,5209,Tokyo Sungoliath
+26333,Shintaro Ishihara,5209,Tokyo Sungoliath
+36750,Shogo Nakano,5209,Tokyo Sungoliath
+26761,Shota Emi,5209,Tokyo Sungoliath
+26603,Shunta Nakamura,5209,Tokyo Sungoliath
+43570,Taiga Ozaki,5209,Tokyo Sungoliath
+26497,Takaaki Nakazuru,5209,Tokyo Sungoliath
+26392,Takahiro Kimura,5209,Tokyo Sungoliath
+36510,Takayasu Tsuji,5209,Tokyo Sungoliath
+37896,Tatsuya Miyazaki,5209,Tokyo Sungoliath
+20834,Tevita Li,5209,Tokyo Sungoliath
+23427,Tevita Tatafu,5209,Tokyo Sungoliath
+21734,Tom Sanders,5209,Tokyo Sungoliath
+19392,Tom Savage,5209,Tokyo Sungoliath
+33318,Tony Alofipo,5209,Tokyo Sungoliath
+28856,Wataru Kobayashi,5209,Tokyo Sungoliath
+43569,Yasuaki Katakura,5209,Tokyo Sungoliath
+26473,Yukio Morikawa,5209,Tokyo Sungoliath
+26492,Yutaka Nagare,5209,Tokyo Sungoliath
+5206,Green Rockets Tokatsu,5206,Green Rockets Tokatsu
+40524,Aseri Masivou,5206,Green Rockets Tokatsu
+10648,Ash Dixon,5206,Green Rockets Tokatsu
+58086,Christian Laui,5206,Green Rockets Tokatsu
+37824,Daiki Yamagiwa,5206,Green Rockets Tokatsu
+24912,Doga Maeda,5206,Green Rockets Tokatsu
+11309,Fumiaki Tanaka,5206,Green Rockets Tokatsu
+30955,Gakuto Ishida,5206,Green Rockets Tokatsu
+26569,George Risale,5206,Green Rockets Tokatsu
+26457,Hiroyuki Miyajima,5206,Green Rockets Tokatsu
+20155,Jake Ball,5206,Green Rockets Tokatsu
+58083,Kakeru Miyaso,5206,Green Rockets Tokatsu
+32443,Kanta Omata,5206,Green Rockets Tokatsu
+40523,Kavaia Tagivetaua,5206,Green Rockets Tokatsu
+40596,Keisuke Kikuta,5206,Green Rockets Tokatsu
+58085,Keita Kobayasi,5206,Green Rockets Tokatsu
+24506,Kentaro Kodama,5206,Green Rockets Tokatsu
+26446,Koichi Matsuura,5206,Green Rockets Tokatsu
+58084,Kosei Yamammoto,5206,Green Rockets Tokatsu
+24193,Lomano Lemeki,5206,Green Rockets Tokatsu
+37049,Luke Porter,5206,Green Rockets Tokatsu
+17238,Maritino Nemani,5206,Green Rockets Tokatsu
+40597,Masaki Obata,5206,Green Rockets Tokatsu
+29268,Miyu Arai,5206,Green Rockets Tokatsu
+18536,Nick Phipps,5206,Green Rockets Tokatsu
+56145,Ren Osawa,5206,Green Rockets Tokatsu
+28950,Ryoi Kamei,5206,Green Rockets Tokatsu
+26694,Satoshi Ueda,5206,Green Rockets Tokatsu
+40595,Suguru Kubo,5206,Green Rockets Tokatsu
+26646,Sunao Takizawa,5206,Green Rockets Tokatsu
+23411,Taisetsu Kanai,5206,Green Rockets Tokatsu
+26261,Takahiro Doi,5206,Green Rockets Tokatsu
+58082,Takeshi Matsuo,5206,Green Rockets Tokatsu
+25161,Taku Toma,5206,Green Rockets Tokatsu
+21852,Taqele Naiyaravoro,5206,Green Rockets Tokatsu
+26384,Taro Kenjo,5206,Green Rockets Tokatsu
+26555,Tatsuru Owada,5206,Green Rockets Tokatsu
+36567,Tatsuya Fujii,5206,Green Rockets Tokatsu
+24192,Teruya Goto,5206,Green Rockets Tokatsu
+23537,Tim Bennetts,5206,Green Rockets Tokatsu
+17161,Tom Marshall,5206,Green Rockets Tokatsu
+26391,Tomonori Kimura,5206,Green Rockets Tokatsu
+21072,Whetukamokamo Douglas,5206,Green Rockets Tokatsu
+26580,Yo Sato,5206,Green Rockets Tokatsu
+24414,Yoshiya Hosoda,5206,Green Rockets Tokatsu
+37905,Yuma Sugimoto,5206,Green Rockets Tokatsu
+5203,Kobelco Kobe Steelers,5203,Kobelco Kobe Steelers
+28966,Amanaki Saumaki,5203,Kobelco Kobe Steelers
+23419,Ataata Moeakiola,5203,Kobelco Kobe Steelers
+19096,Atsushi Hiwasa,5203,Kobelco Kobe Steelers
+20992,Beaudein Waaka,5203,Kobelco Kobe Steelers
+23420,Daiki Nakajima,5203,Kobelco Kobe Steelers
+36544,Gentaro Ikenaga,5203,Kobelco Kobe Steelers
+22418,Gerard Cowley-Tuioti,5203,Kobelco Kobe Steelers
+23416,Go Maeda,5203,Kobelco Kobe Steelers
+37885,Haruto Takahashi,5203,Kobelco Kobe Steelers
+26301,Hikaru Hashimoto,5203,Kobelco Kobe Steelers
+19940,Hiroshi Yamashita,5203,Kobelco Kobe Steelers
+43565,Ikuma Yamada,5203,Kobelco Kobe Steelers
+26500,Isileli Nakajima,5203,Kobelco Kobe Steelers
+21712,JD Schickerling,5203,Kobelco Kobe Steelers
+24416,Jiwon Gu,5203,Kobelco Kobe Steelers
+37887,Junta Hamano,5203,Kobelco Kobe Steelers
+58096,Kanta Matsunaga,5203,Kobelco Kobe Steelers
+28997,Keita Terada,5203,Kobelco Kobe Steelers
+37886,Kenta Matsuoka,5203,Kobelco Kobe Steelers
+26672,Kenta Tokuda,5203,Kobelco Kobe Steelers
+36549,Kentaro Obata,5203,Kobelco Kobe Steelers
+24417,Koki Yamamoto,5203,Kobelco Kobe Steelers
+27251,Kosuke Naka,5203,Kobelco Kobe Steelers
+26704,Kyungmun Wang,5203,Kobelco Kobe Steelers
+18753,Marcell Coetzee,5203,Kobelco Kobe Steelers
+19905,Michael Little,5203,Kobelco Kobe Steelers
+24511,Naohiro Kotaki,5203,Kobelco Kobe Steelers
+24124,Ngani Laumape,5203,Kobelco Kobe Steelers
+58097,Quinton Mahina,5203,Kobelco Kobe Steelers
+26730,Rakuhei Yamashita,5203,Kobelco Kobe Steelers
+11622,Richard Buckman,5203,Kobelco Kobe Steelers
+58098,Rinpei Sakaki,5203,Kobelco Kobe Steelers
+25144,Ryo Inoue,5203,Kobelco Kobe Steelers
+29364,Ryo Kayutsuka,5203,Kobelco Kobe Steelers
+22646,Ryohei Yamanaka,5203,Kobelco Kobe Steelers
+19939,Ryuhei Arita,5203,Kobelco Kobe Steelers
+26590,Seokhwan Jang,5203,Kobelco Kobe Steelers
+37841,Seungsin Lee,5203,Kobelco Kobe Steelers
+36558,Shigure Takao,5203,Kobelco Kobe Steelers
+32526,Shinsuke Iseki,5203,Kobelco Kobe Steelers
+26304,Shintaro Hayashi,5203,Kobelco Kobe Steelers
+55997,Sho Maeda,5203,Kobelco Kobe Steelers
+26429,Shohei Maekawa,5203,Kobelco Kobe Steelers
+58099,Sione Tapu'osi,5203,Kobelco Kobe Steelers
+26671,Sosiceni Tokoqio,5203,Kobelco Kobe Steelers
+26319,Suguru Igarashi,5203,Kobelco Kobe Steelers
+32531,Taihei Kusaka,5203,Kobelco Kobe Steelers
+36561,Takara Imamura,5203,Kobelco Kobe Steelers
+23850,Takayuki Watanabe,5203,Kobelco Kobe Steelers
+26396,Takuya Kitade,5203,Kobelco Kobe Steelers
+26422,Timothy Lafaele,5203,Kobelco Kobe Steelers
+39185,Willie Potgieter,5203,Kobelco Kobe Steelers
