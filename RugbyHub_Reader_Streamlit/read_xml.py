@@ -1,16 +1,23 @@
 import xml.etree.ElementTree as ET
 import pandas as pd
+import matplotlib.pyplot as plt
 import os
+from PIL import Image
+import streamlit as st
+
+root_directory = '/Users/isakakou/Documents/workSpace/RugbyHub_Reader_Streamlit'
+path = os.getcwd()
 
 
 def read_xml(FILEPATH):
     # マスタデータのインポート
     master = pd.read_csv(
-        os.getcwd() + "../data/RugbyHub_master_data.csv", dtype=str)
+        os.path.abspath('../data/RugbyHub_master_data.csv'), dtype=str)
 
     # PLID,TEAMIDのインポート
     psheets = ["PLID", "TID", "Venue"]
-    plid = pd.read_csv(os.getcwd()+"../data/plid_master.csv", dtype=str)
+    plid = pd.read_csv(os.path.abspath(
+        '../data/plid_master.csv'), dtype=str)
     # XMLファイルを解析
     tree = ET.parse(FILEPATH)
 
@@ -45,10 +52,7 @@ def read_xml(FILEPATH):
     df.Actionresult = df.Actionresult.map(master.set_index('ID').Definition)
     df.ActionType = df.ActionType.map(master.set_index('ID').Definition)
     df.action = df.action.map(master.set_index('ID').Definition)
-
-    df.team_id = df.team_id.map(plid.set_index('team_id').team_name)
-    df = pd.merge(df, get_player_list(FILEPATH), left_on='PLID',
-                  right_on='Player_name').drop(columns='Player_name')
+    df.team_id = df.team_id.map(plid.set_index('players_id').team_name)
     return df
 
 
@@ -64,3 +68,22 @@ def get_player_list(FILEPATH):
             'PLFORN')+' ' + pl.get('PLSURN'), pl.get('TEAMNAME'), pl.get('MINS')], index=df.columns)
         df = df.append(s, ignore_index=True)
     return df
+
+
+def plot_by_action(df, action, team_id):
+    dfaction = df.loc[(df['action'] == action) & (df['team_id'] == team_id)]
+    fig = plt.figure(figsize=(7, 10))
+    ax = fig.add_subplot(1, 1, 1)
+    plt.xlim(0, 68)
+    plt.ylim(0, 100)
+    # 背景画像の設定
+    fig.patch.set_facecolor('white')
+    im = Image.open(root_directory+"/data/FIELD_image.jpeg")
+    xlim = ax.get_xlim()
+    ylim = ax.get_ylim()
+    plt.imshow(im, extent=[*xlim, *ylim], aspect='auto', alpha=0.6)
+    plt.scatter(dfaction['x_coord'], dfaction['y_coord'], marker='D', s=150)
+    # ラベルの表示
+    lgd = plt.legend(loc='upper left', bbox_to_anchor=(1, 1), fontsize=12)
+    plt.gcf().subplots_adjust(wspace=4)
+    st.pyplot(fig)
