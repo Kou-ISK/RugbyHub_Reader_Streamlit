@@ -5,8 +5,8 @@ import os
 
 st.title("RugbyHub Reader")
 st.write("https://camp.trainocate.co.jp/magazine/streamlit-web/ このページを参考にしています。")
-st.checkbox("チェックボックス")
-st.text_input("入力欄")
+# st.checkbox("チェックボックス")
+# st.text_input("入力欄")
 uploaded_file = st.file_uploader("super_scout_advanceファイルをアップロード")
 if uploaded_file is not None:
     df = read_xml.read_xml(uploaded_file)
