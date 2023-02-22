@@ -17,5 +17,12 @@ if uploaded_file is not None:
     df
     if action is not None:
         act = df.loc[df['action'] == action]
+        st.write("選択したactionに紐づくx_coordとy_coordをプロットしています。順次機能追加予定です。")
         read_xml.plot_by_action(df, action, team_id)
         act
+        with action == 'Ruck':
+            read_xml.ruck_speed(df, team_id)
+        with action == 'Kick':
+            read_xml.kick(df, team_id)
+        with action == 'Lineout Throw':
+            read_xml.lineout(df, team_id)
