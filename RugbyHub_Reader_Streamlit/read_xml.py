@@ -11,6 +11,7 @@ path = os.getcwd()
 
 def read_xml(FILEPATH):
     # マスタデータのインポート
+    print(f'current path: {path}')
     master = pd.read_csv(
         os.path.abspath('/data/RugbyHub_master_data.csv'), dtype=str)
 
