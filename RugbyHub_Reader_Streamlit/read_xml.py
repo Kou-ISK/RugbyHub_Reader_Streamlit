@@ -12,12 +12,12 @@ path = os.getcwd()
 def read_xml(FILEPATH):
     # マスタデータのインポート
     master = pd.read_csv(
-        os.path.abspath('../data/RugbyHub_master_data.csv'), dtype=str)
+        os.path.abspath('/data/RugbyHub_master_data.csv'), dtype=str)
 
     # PLID,TEAMIDのインポート
     psheets = ["PLID", "TID", "Venue"]
     plid = pd.read_csv(os.path.abspath(
-        '../data/plid_master.csv'), dtype=str)
+        '/data/plid_master.csv'), dtype=str)
     # XMLファイルを解析
     tree = ET.parse(FILEPATH)
 
@@ -78,7 +78,7 @@ def plot_by_action(df, action, team_id):
     plt.ylim(0, 100)
     # 背景画像の設定
     fig.patch.set_facecolor('white')
-    im = Image.open(root_directory+"/data/FIELD_image.jpeg")
+    im = Image.open(os.path.abspath('/data/FIELD_image.jpeg'))
     xlim = ax.get_xlim()
     ylim = ax.get_ylim()
     plt.imshow(im, extent=[*xlim, *ylim], aspect='auto', alpha=0.6)
