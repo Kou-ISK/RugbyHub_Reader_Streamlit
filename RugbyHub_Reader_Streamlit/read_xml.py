@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
-from Pillow import Image
+from PIL import Image
 import streamlit as st
 
 root_directory = '/Users/isakakou/Documents/workSpace/RugbyHub_Reader_Streamlit'
