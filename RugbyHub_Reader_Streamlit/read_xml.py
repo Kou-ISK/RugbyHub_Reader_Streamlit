@@ -77,7 +77,7 @@ def plot_by_action(df, action, team_id):
     plt.ylim(0, 100)
     # 背景画像の設定
     fig.patch.set_facecolor('white')
-    im = Image.open(os.path.abspath('./data/FIELD_image.jpeg'))
+    im = Image.open(os.path.abspath('./data/Field_image.jpeg'))
     xlim = ax.get_xlim()
     ylim = ax.get_ylim()
     plt.imshow(im, extent=[*xlim, *ylim], aspect='auto', alpha=0.6)
