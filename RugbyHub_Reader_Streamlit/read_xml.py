@@ -91,6 +91,7 @@ def plot_by_action(df, action, team_id):
 
 def lineout(df, TEAMNAME):
     # チーム名指定でラインアウトデータ取得
+    fig = plt.figure()
     df = df.loc[(df['team_id'] == TEAMNAME)]
 
     dfaction = df.loc[df['action'] == 'Lineout Throw']
@@ -100,7 +101,7 @@ def lineout(df, TEAMNAME):
                   'Throw Back', 'Throw 15m+'])
 
     plt.gcf().subplots_adjust(wspace=4)
-    fig = sns.heatmap(b, cmap='Blues', annot=True, annot_kws={'size': 20})
+    sns.heatmap(b, cmap='Blues', annot=True, annot_kws={'size': 20})
     st.pyplot(fig)
 
 
