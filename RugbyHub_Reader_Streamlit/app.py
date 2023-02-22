@@ -4,8 +4,6 @@ import pandas as pd
 import os
 
 st.title("RugbyHub Reader")
-path = os.getcwd()
-st.write(path)
 st.write("https://camp.trainocate.co.jp/magazine/streamlit-web/ このページを参考にしています。")
 # st.checkbox("チェックボックス")
 # st.text_input("入力欄")
