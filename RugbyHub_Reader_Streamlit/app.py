@@ -15,7 +15,6 @@ if uploaded_file is not None:
     team_id = st.selectbox(
         'Select Team', df.team_id.drop_duplicates(keep='first'))
     df
-
     if action is not None:
         act = df.loc[df['action'] == action]
         read_xml.plot_by_action(df, action, team_id)
