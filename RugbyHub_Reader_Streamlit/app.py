@@ -14,12 +14,12 @@ if uploaded_file is not None:
         'Select Action', df.action.drop_duplicates(keep='first'))
     team_id = st.selectbox(
         'Select Team', df.team_id.drop_duplicates(keep='first'))
-    df
+    filterd_df = df.loc[df['team_id'] == team_id]
     # データフレームのカラムを選択肢にする。複数選択
     item = st.multiselect("可視化するカラム", df.columns)
     p = Plot_method(df, team_id)
     if item is not None:
-        df[item]
+        filterd_df[item]
     if action is not None:
         act = df.loc[df['action'] == action]
         if action == 'Ruck':
@@ -31,4 +31,3 @@ if uploaded_file is not None:
         else:
             st.write("選択したactionに紐づくx_coordとy_coordをプロットしています。順次機能追加予定です。")
             p.plot_by_action(action)
-            act
