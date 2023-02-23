@@ -1,7 +1,7 @@
 import read_xml as read_xml
 import streamlit as st
 import pandas as pd
-import plot
+from plot import Plot_method
 
 st.title("RugbyHub Reader")
 # st.checkbox("チェックボックス")
@@ -17,7 +17,7 @@ if uploaded_file is not None:
     df
     # データフレームのカラムを選択肢にする。複数選択
     item = st.multiselect("可視化するカラム", df.columns)
-    p = plot.Plot_method(df, team_id)
+    p = Plot_method(df, team_id)
     if item is not None:
         df[item]
     if action is not None:

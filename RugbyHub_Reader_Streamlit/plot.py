@@ -6,16 +6,19 @@ import pandas as pd
 import os
 
 
-class Plot_method(df, team_id):
+class Plot_method:
+    def __init__(self, df, team_id):
+        self.df = df
+        self.team_id = team_id
 
     def get_opponent(self, team_id):
         opp = self.df.loc[self.df['team_id'] !=
                           team_id].reset_index(drop=True).team_id[0]
         return opp
 
-    def plot_by_action(self, action, team_id):
+    def plot_by_action(self, action):
         self.dfaction = self.df.loc[(self.df['action'] == action) & (
-            self.df['team_id'] == team_id)]
+            self.df['team_id'] == self.team_id)]
         fig = plt.figure(figsize=(7, 10))
         ax = fig.add_subplot(1, 1, 1)
         plt.xlim(0, 68)
