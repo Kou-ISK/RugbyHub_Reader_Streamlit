@@ -6,8 +6,9 @@ import os
 st.title("RugbyHub Reader")
 st.write("https://camp.trainocate.co.jp/magazine/streamlit-web/ このページを参考にしています。")
 # st.checkbox("チェックボックス")
-# st.text_input("入力欄")
-uploaded_file = st.file_uploader("super_scout_advanceファイルをアップロード")
+st.sidebar.title("advanced_superscout.xmlファイルをアップロードしてください")
+uploaded_file = st.sidebar.file_uploader(
+    "advanced_superscout.xmlファイルをアップロードしてください")
 if uploaded_file is not None:
     df = read_xml.read_xml(uploaded_file)
     action = st.selectbox(
@@ -15,6 +16,10 @@ if uploaded_file is not None:
     team_id = st.selectbox(
         'Select Team', df.team_id.drop_duplicates(keep='first'))
     df
+    # データフレームのカラムを選択肢にする。複数選択
+    item = st.multiselect("可視化するカラム", df.columns)
+    if item is not None:
+        df[item]
     if action is not None:
         act = df.loc[df['action'] == action]
         if action == 'Ruck':
