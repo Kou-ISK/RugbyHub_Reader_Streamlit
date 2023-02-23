@@ -1,12 +1,11 @@
 import read_xml as read_xml
 import streamlit as st
 import pandas as pd
-import os
+from plot import Plot_method
 
 st.title("RugbyHub Reader")
-st.write("https://camp.trainocate.co.jp/magazine/streamlit-web/ このページを参考にしています。")
 # st.checkbox("チェックボックス")
-st.sidebar.title("advanced_superscout.xmlファイルをアップロードしてください")
+st.sidebar.title("ファイルアップロード")
 uploaded_file = st.sidebar.file_uploader(
     "advanced_superscout.xmlファイルをアップロードしてください")
 if uploaded_file is not None:
@@ -18,17 +17,18 @@ if uploaded_file is not None:
     df
     # データフレームのカラムを選択肢にする。複数選択
     item = st.multiselect("可視化するカラム", df.columns)
+    p = Plot_method(df, team_id)
     if item is not None:
         df[item]
     if action is not None:
         act = df.loc[df['action'] == action]
         if action == 'Ruck':
-            read_xml.ruck_speed(df, team_id)
+            p.ruck_speed()
         elif action == 'Kick':
-            read_xml.kick(df, team_id)
+            p.kick()
         elif action == 'Lineout Throw':
-            read_xml.lineout(df, team_id)
+            p.lineout()
         else:
             st.write("選択したactionに紐づくx_coordとy_coordをプロットしています。順次機能追加予定です。")
-            read_xml.plot_by_action(df, action, team_id)
+            p.plot_by_action(action)
             act
