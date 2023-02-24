@@ -49,6 +49,7 @@ def read_xml(FILEPATH):
     df.ActionType = df.ActionType.map(master.set_index('ID').Definition)
     df.action = df.action.map(master.set_index('ID').Definition)
     df.team_id = df.team_id.map(plid.set_index('players_id').team_name)
+    df.PLID = df.PLID.map(plid.set_index('players_id').player_known_name)
     return df
 
 
@@ -58,7 +59,7 @@ def get_player_list(FILEPATH):
     # XMLを取得
     root = tree.getroot()
     df = pd.DataFrame(index=[], columns=['ShirtNo', 'Club',
-                                         'PosID', 'Player_name', 'team_name', 'MINS'])
+                      'PosID', 'Player_name', 'team_name', 'MINS'])
     for pl in root.iter('Player'):
         s = pd.Series([int(pl.get('ShirtNo')), pl.get('Club'), pl.get('PosID'), pl.get(
             'PLFORN')+' ' + pl.get('PLSURN'), pl.get('TEAMNAME'), pl.get('MINS')], index=df.columns)

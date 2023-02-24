@@ -78,7 +78,7 @@ class Plot_method:
 
         # ラベルの表示
         lgd = plt.legend(loc='upper left', bbox_to_anchor=(1, 1), fontsize=12)
-        OPPONENT = get_opponent(self.team_id)
+        OPPONENT = self.get_opponent(self.team_id)
         plt.title(self.team_id + " Ruck (" +
                   self.team_id + " vs " + OPPONENT + ")")
         plt.gcf().subplots_adjust(wspace=4)
