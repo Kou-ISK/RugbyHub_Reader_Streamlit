@@ -10,7 +10,8 @@ uploaded_file = st.sidebar.file_uploader(
     "Please upload advanced_superscout.xml file")
 if uploaded_file is not None:
     df = read_xml.read_xml(uploaded_file)
-    st.experimental_data_editor('Edit data', df)
+    st_df =  st.dataframe(df)
+    st.experimental_data_editor(df)
     action = st.selectbox(
         'Select Action', df.action.drop_duplicates(keep='first'))
     team_id = st.selectbox(
