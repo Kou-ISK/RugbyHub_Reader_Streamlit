@@ -631,6 +631,7 @@ players_id,player_known_name,team_id,team_name
 26396,Takuya Kitade,5203,Kobelco Kobe Steelers
 26422,Timothy Lafaele,5203,Kobelco Kobe Steelers
 39185,Willie Potgieter,5203,Kobelco Kobe Steelers
+19568,Hanazono Kintetsu Liners,19568,Hanazono Kintetsu Liners
 21216,Shuji Saita,19568,Hanazono Kintetsu Liners
 21204,Daiki Toyoda,19568,Hanazono Kintetsu Liners
 21206,Ryosuke Maeda,19568,Hanazono Kintetsu Liners
@@ -680,6 +681,7 @@ players_id,player_known_name,team_id,team_name
 23564,Sanaila Junior Waqa,19568,Hanazono Kintetsu Liners
 36547,Songyong Lee,19568,Hanazono Kintetsu Liners
 30786,Waimana Riedlinger-Kapa,19568,Hanazono Kintetsu Liners
+594,Mitsubishi Sagamihara DynaBoars,594,Mitsubishi Sagamihara DynaBoars
 11313,Naoki Kawamata,594,Mitsubishi Sagamihara DynaBoars
 36494,Akihiro Ogiso,594,Mitsubishi Sagamihara DynaBoars
 36520,Hayato Hosoda,594,Mitsubishi Sagamihara DynaBoars
@@ -729,6 +731,7 @@ players_id,player_known_name,team_id,team_name
 43631,Yusuke Sakamoto,594,Mitsubishi Sagamihara DynaBoars
 43632,Takumi Sugiura,594,Mitsubishi Sagamihara DynaBoars
 43633,Alaia'sa Roland,594,Mitsubishi Sagamihara DynaBoars
+5202,Mie Honda Heat,5202,Mie Honda Heat
 32455,Takumi Fujii,5202,Mie Honda Heat
 26071,Matthys Basson,5202,Mie Honda Heat
 26645,Shota Takizawa,5202,Mie Honda Heat
@@ -776,6 +779,7 @@ players_id,player_known_name,team_id,team_name
 43666,Hiroaki Shirahama,5202,Mie Honda Heat
 43668,Shota Nishizawa,5202,Mie Honda Heat
 43669,Yuzo Yamamoto,5202,Mie Honda Heat
+591,Kamaishi Seawaves RFC,591,Kamaishi Seawaves RFC
 40650,Takuya Takahashi,591,Kamaishi Seawaves RFC
 22154,Morgan Mitchell,591,Kamaishi Seawaves RFC
 43638,Makoto Somazawa,591,Kamaishi Seawaves RFC
@@ -823,6 +827,7 @@ players_id,player_known_name,team_id,team_name
 43665,Kaito Funaki,591,Kamaishi Seawaves RFC
 43667,Ken Chiba,591,Kamaishi Seawaves RFC
 29336,Cam Bailey,591,Kamaishi Seawaves RFC
+5214,Hino Red Dolphins,5214,Hino Red Dolphins
 32436,Yuichi Hisadomi,5214,Hino Red Dolphins
 32404,Makoto Tsuchiya,5214,Hino Red Dolphins
 26735,Motoki Yamazaki,5214,Hino Red Dolphins
@@ -875,6 +880,7 @@ players_id,player_known_name,team_id,team_name
 43609,Ko Kojima,5214,Hino Red Dolphins
 43610,Syunya Hamano,5214,Hino Red Dolphins
 43611,Hirohiro Kodai Ono,5214,Hino Red Dolphins
+592,Mazda Skyactivs Hiroshima,592,Mazda Skyactivs Hiroshima
 40606,Yuta Takami,592,Mazda Skyactivs Hiroshima
 40607,Tomonori Koyanagi,592,Mazda Skyactivs Hiroshima
 40608,Tomoya Otake,592,Mazda Skyactivs Hiroshima
@@ -914,6 +920,7 @@ players_id,player_known_name,team_id,team_name
 43597,Sora Ouchi,592,Mazda Skyactivs Hiroshima
 43598,Seigo Kubo,592,Mazda Skyactivs Hiroshima
 43599,Kotaro Tatsuno,592,Mazda Skyactivs Hiroshima
+5205,Munakata Sanix Blues,5205,Munakata Sanix Blues
 24915,Dong-won Shin,5205,Munakata Sanix Blues
 18582,Paddy Ryan,5205,Munakata Sanix Blues
 28944,Kazuki Kato,5205,Munakata Sanix Blues
@@ -961,6 +968,7 @@ players_id,player_known_name,team_id,team_name
 26740,Masakazu Yatsumonji,5205,Munakata Sanix Blues
 32547,Chikara Morita,5205,Munakata Sanix Blues
 36559,Kyoji Takano,5205,Munakata Sanix Blues
+590,Kyuden Voltex,590,Kyuden Voltex
 40670,Keiji Ikeda,590,Kyuden Voltex
 40678,Kazuma Ono,590,Kyuden Voltex
 40675,Ryosuke Kagoshima,590,Kyuden Voltex
@@ -1008,6 +1016,7 @@ players_id,player_known_name,team_id,team_name
 43688,Ren Hagiwara,590,Kyuden Voltex
 43689,Masaya Kanado,590,Kyuden Voltex
 43690,Shinhichiro Matsushita,590,Kyuden Voltex
+588,Kurita Water Gush Akishima,588,Kurita Water Gush Akishima
 26260,Masashi Debuchi,588,Kurita Water Gush Akishima
 40635,Kim Hyong Ji,588,Kurita Water Gush Akishima
 40636,Shoya Koyama,588,Kurita Water Gush Akishima
@@ -1043,6 +1052,7 @@ players_id,player_known_name,team_id,team_name
 43651,Takuto Mizuno,588,Kurita Water Gush Akishima
 43652,Koichi Ota,588,Kurita Water Gush Akishima
 43653,Yuta Sugiyama,588,Kurita Water Gush Akishima
+29957,Chugoku Red Regulions,29957,Chugoku Red Regulions
 43612,Toshiyuki Oki,29957,Chugoku Red Regulions
 43613,Keisuke Maeda,29957,Chugoku Red Regulions
 43614,Daiki Ishida,29957,Chugoku Red Regulions
@@ -1068,6 +1078,7 @@ players_id,player_known_name,team_id,team_name
 27253,Masahiro Nakano,29957,Chugoku Red Regulions
 23406,Hirofumi Higashikawa,29957,Chugoku Red Regulions
 29365,Yuto Matsuoka,29957,Chugoku Red Regulions
+589,Shimizu Koto Blue Sharks,589,Shimizu Koto Blue Sharks
 38380,Ryo Jinnohara,589,Shimizu Koto Blue Sharks
 26605,Tagatoshi Sugawara,589,Shimizu Koto Blue Sharks
 38377,Daiki Shimura,589,Shimizu Koto Blue Sharks
