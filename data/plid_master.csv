@@ -888,15 +888,10 @@ players_id,player_known_name,team_id,team_name
 40617,Hiroto Tokuda,592,Mazda Skyactivs Hiroshima
 32759,Lachlan Osborne,592,Mazda Skyactivs Hiroshima
 26259,David Milo,592,Mazda Skyactivs Hiroshima
--1,Sho Tatsukawa,592,Mazda Skyactivs Hiroshima
--1,Yuki Kashiwada,592,Mazda Skyactivs Hiroshima
 40618,Tomoki Ashida,592,Mazda Skyactivs Hiroshima
 29393,Tevin Ferris,592,Mazda Skyactivs Hiroshima
--1,Hirokazu Ishigami,592,Mazda Skyactivs Hiroshima
 39120,Isi Manu,592,Mazda Skyactivs Hiroshima
--1,Yuuki Mori,592,Mazda Skyactivs Hiroshima
 40619,Dai Goto,592,Mazda Skyactivs Hiroshima
--1,Tubasa Kono,592,Mazda Skyactivs Hiroshima
 40627,Rikuto Nakashima,592,Mazda Skyactivs Hiroshima
 9733,Ben Lucas,592,Mazda Skyactivs Hiroshima
 40620,Ryotaro Saito,592,Mazda Skyactivs Hiroshima
@@ -1031,12 +1026,9 @@ players_id,player_known_name,team_id,team_name
 40646,Shinpei Suganuma,588,Kurita Water Gush Akishima
 40647,Nakajima Takuya,588,Kurita Water Gush Akishima
 40648,Yuki Kono,588,Kurita Water Gush Akishima
--1,Ayato Sakamoto,588,Kurita Water Gush Akishima
--1,Keigo Hamazoe,588,Kurita Water Gush Akishima
 27813,Nabetelevu Turaganivalu,588,Kurita Water Gush Akishima
 40649,Kentarou Sugimori,588,Kurita Water Gush Akishima
 20542,Tom English,588,Kurita Water Gush Akishima
--1,Sanshirou Ide,588,Kurita Water Gush Akishima
 40634,Hiroki Kawase,588,Kurita Water Gush Akishima
 38371,Sho Nakamura,588,Kurita Water Gush Akishima
 43634,Yuta Ejima,588,Kurita Water Gush Akishima
@@ -1051,7 +1043,6 @@ players_id,player_known_name,team_id,team_name
 43651,Takuto Mizuno,588,Kurita Water Gush Akishima
 43652,Koichi Ota,588,Kurita Water Gush Akishima
 43653,Yuta Sugiyama,588,Kurita Water Gush Akishima
--1,Seiya Kitajima,29957,Chugoku Red Regulions
 43612,Toshiyuki Oki,29957,Chugoku Red Regulions
 43613,Keisuke Maeda,29957,Chugoku Red Regulions
 43614,Daiki Ishida,29957,Chugoku Red Regulions
@@ -1059,35 +1050,24 @@ players_id,player_known_name,team_id,team_name
 43616,Arito Kojiro,29957,Chugoku Red Regulions
 43617,Yuki Asai,29957,Chugoku Red Regulions
 43618,Kento Miyata,29957,Chugoku Red Regulions
--1,Kentaro Iwanaga,29957,Chugoku Red Regulions
 43619,Daisuke Okamoto,29957,Chugoku Red Regulions
 40630,Taro Nishikawa,29957,Chugoku Red Regulions
--1,Kota Moriyama,29957,Chugoku Red Regulions
--1,Kendai Fujisaki,29957,Chugoku Red Regulions
 43620,Tetsuro Moritani,29957,Chugoku Red Regulions
 43621,Hironori Shojima,29957,Chugoku Red Regulions
 43622,Noriyuki Kureyama,29957,Chugoku Red Regulions
--1,Kohei Matsunaga,29957,Chugoku Red Regulions
 40631,Shun Kawaguchi,29957,Chugoku Red Regulions
 43623,Kengo Ishiwata,29957,Chugoku Red Regulions
 17054,Ed Quirk,29957,Chugoku Red Regulions
--1,Rintaro Kawashima,29957,Chugoku Red Regulions
--1,Syohei Tsukamoto,29957,Chugoku Red Regulions
 43624,Atsushi Mizobuchi,29957,Chugoku Red Regulions
--1,Ippei Yamada,29957,Chugoku Red Regulions
 43625,Yoshida Hashizo,29957,Chugoku Red Regulions
--1,Masaaki Morita,29957,Chugoku Red Regulions
--1,Makoto Torikai,29957,Chugoku Red Regulions
 43626,Hideo Takeda,29957,Chugoku Red Regulions
 43627,Hen Yume Ichihara,29957,Chugoku Red Regulions
--1,Motoki Arai,29957,Chugoku Red Regulions
 43628,Sioperoro Tavo,29957,Chugoku Red Regulions
 43629,Riki Yamaguchi,29957,Chugoku Red Regulions
 40632,Shohei Kurokawa,29957,Chugoku Red Regulions
 27253,Masahiro Nakano,29957,Chugoku Red Regulions
 23406,Hirofumi Higashikawa,29957,Chugoku Red Regulions
 29365,Yuto Matsuoka,29957,Chugoku Red Regulions
--1,Keigo Hatanaka,29957,Chugoku Red Regulions
 38380,Ryo Jinnohara,589,Shimizu Koto Blue Sharks
 26605,Tagatoshi Sugawara,589,Shimizu Koto Blue Sharks
 38377,Daiki Shimura,589,Shimizu Koto Blue Sharks
@@ -1131,7 +1111,6 @@ players_id,player_known_name,team_id,team_name
 38409,Ryota Noda,589,Shimizu Koto Blue Sharks
 38410,Ryoji Nonaka,589,Shimizu Koto Blue Sharks
 22795,John-Ben Kotze,589,Shimizu Koto Blue Sharks
--1,Monray Potgieter,589,Shimizu Koto Blue Sharks
 10547,Siale Piutau,589,Shimizu Koto Blue Sharks
 38411,Shuuhei Sasaki,589,Shimizu Koto Blue Sharks
 38415,Eiya Miyazaki,589,Shimizu Koto Blue Sharks
