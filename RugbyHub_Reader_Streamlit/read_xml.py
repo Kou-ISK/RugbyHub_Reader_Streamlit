@@ -37,7 +37,7 @@ def read_xml(FILEPATH):
                        action.get('sequence_id'), action.get('player_advantage'), action.get(
                            'score_advantage'), action.get('flag'),
                        action.get('advantage'), action.get('assoc_player')], index=df.columns)
-        df = df.append(s, ignore_index=True)
+        df = pd.concat([df, pd.DataFrame([s])], ignore_index=True)
 
     df[['x_coord', 'y_coord', 'x_coord_end', 'y_coord_end']] = df[[
         'x_coord', 'y_coord', 'x_coord_end', 'y_coord_end']].astype(int)
@@ -63,5 +63,5 @@ def get_player_list(FILEPATH):
     for pl in root.iter('Player'):
         s = pd.Series([int(pl.get('ShirtNo')), pl.get('Club'), pl.get('PosID'), pl.get(
             'PLFORN')+' ' + pl.get('PLSURN'), pl.get('TEAMNAME'), pl.get('MINS')], index=df.columns)
-        df = df.append(s, ignore_index=True)
+        df = pd.concat([df, pd.DataFrame([s])], ignore_index=True)
     return df
