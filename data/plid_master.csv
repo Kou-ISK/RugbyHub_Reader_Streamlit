@@ -1,1040 +1,1268 @@
-players_id,player_known_name,team_id,team_name
-5200,Yokohama Canon Eagles,5200,Yokohama Canon Eagles
-22615,Amanaki Mafi,5200,Yokohama Canon Eagles
-29256,Chang-Ho Ahn,5200,Yokohama Canon Eagles
-24339,Chihito Matsui,5200,Yokohama Canon Eagles
-18525,Cory Hill,5200,Yokohama Canon Eagles
-43561,Daisuke Yoshida,5200,Yokohama Canon Eagles
-58102,Eto Ryo,5200,Yokohama Canon Eagles
-21626,Faf de Klerk,5200,Yokohama Canon Eagles
-32299,Havili Richie,5200,Yokohama Canon Eagles
-58103,Inoke Burua,5200,Yokohama Canon Eagles
-20669,Jesse Kriel,5200,Yokohama Canon Eagles
-26539,Jumpei Ogura,5200,Yokohama Canon Eagles
-24911,Kanta Higashionna,5200,Yokohama Canon Eagles
-30963,Katsuto Kubo,5200,Yokohama Canon Eagles
-43562,Kazufumi Yamasuga,5200,Yokohama Canon Eagles
-32300,Kazuma Nakagawa,5200,Yokohama Canon Eagles
-37856,Kazunari Takagi,5200,Yokohama Canon Eagles
-28971,Kentaro Nagatomi,5200,Yokohama Canon Eagles
-24972,Kobus van Dyk,5200,Yokohama Canon Eagles
-32552,Kohei Kire,5200,Yokohama Canon Eagles
-26244,Koki Arai,5200,Yokohama Canon Eagles
-43564,Koki Yakushiji,5200,Yokohama Canon Eagles
-17148,Liaki Moli,5200,Yokohama Canon Eagles
-21818,Luteru Laulala,5200,Yokohama Canon Eagles
-32409,Masayoshi Takezawa,5200,Yokohama Canon Eagles
-58101,Matsuki Yuto,5200,Yokohama Canon Eagles
-32886,Max Douglas,5200,Yokohama Canon Eagles
-20993,Mitch Brown,5200,Yokohama Canon Eagles
-26593,Naoto Shimada,5200,Yokohama Canon Eagles
-24613,Naoya Minamihashi,5200,Yokohama Canon Eagles
-30967,Rento Tsukayama,5200,Yokohama Canon Eagles
-36490,Ryo Tabata,5200,Yokohama Canon Eagles
-26609,Ryota Suginaga,5200,Yokohama Canon Eagles
-20605,Ryuta Yasui,5200,Yokohama Canon Eagles
-18965,SP Marais,5200,Yokohama Canon Eagles
-36492,Seiya Yamada,5200,Yokohama Canon Eagles
-26373,Shin Kawamura,5200,Yokohama Canon Eagles
-37855,Shota Matsuoka,5200,Yokohama Canon Eagles
-30972,Sioeli Vakalahi,5200,Yokohama Canon Eagles
-55991,Sione Halasili,5200,Yokohama Canon Eagles
-36489,Sonho Paku,5200,Yokohama Canon Eagles
-37857,Sosefo Fakatava,5200,Yokohama Canon Eagles
-43559,Sungho Park,5200,Yokohama Canon Eagles
-32321,Takato Okabe,5200,Yokohama Canon Eagles
-36584,Tatsuro Sugimoto,5200,Yokohama Canon Eagles
-26238,Toshiki Amano,5200,Yokohama Canon Eagles
-43563,Viliame Takayawa,5200,Yokohama Canon Eagles
-30974,Yu Saruta,5200,Yokohama Canon Eagles
-20577,Yu Tamura,5200,Yokohama Canon Eagles
-29274,Yuki Yamamoto,5200,Yokohama Canon Eagles
-43560,Yusaku Miyoshi,5200,Yokohama Canon Eagles
-23409,Yusuke Kajimura,5200,Yokohama Canon Eagles
-24611,Yusuke Niwai,5200,Yokohama Canon Eagles
-37872,Atsuki Kuwayama,19702,Toshiba Brave Lupus Tokyo
-19702,Toshiba Brave Lupus Tokyo,19702,Toshiba Brave Lupus Tokyo
-22089,Burger Odendaal,19702,Toshiba Brave Lupus Tokyo
-25085,Daigo Hashimoto,19702,Toshiba Brave Lupus Tokyo
-24519,Futoshi Mori,19702,Toshiba Brave Lupus Tokyo
-26390,Gwante Kim,19702,Toshiba Brave Lupus Tokyo
-27250,Hayata Nakao,19702,Toshiba Brave Lupus Tokyo
-24513,Hiroki Yamamoto,19702,Toshiba Brave Lupus Tokyo
-26443,Hisayoshi Matsuoka,19702,Toshiba Brave Lupus Tokyo
-18578,Hugh Pyle,19702,Toshiba Brave Lupus Tokyo
-23566,Jack Stratton,19702,Toshiba Brave Lupus Tokyo
-28162,Jacob Pierce,19702,Toshiba Brave Lupus Tokyo
-28091,Jone Naikabula,19702,Toshiba Brave Lupus Tokyo
-36536,Kohei Takahashi,19702,Toshiba Brave Lupus Tokyo
-24510,Kyosuke Kajikawa,19702,Toshiba Brave Lupus Tokyo
-34483,Mamoru Harada,19702,Toshiba Brave Lupus Tokyo
-36540,Masaki Hamada,19702,Toshiba Brave Lupus Tokyo
-20601,Masataka Mikami,19702,Toshiba Brave Lupus Tokyo
-10420,Matt Todd,19702,Toshiba Brave Lupus Tokyo
-11306,Michael Leitch,19702,Toshiba Brave Lupus Tokyo
-43557,Nik McCurran,19702,Toshiba Brave Lupus Tokyo
-37878,Ren Miyagami,19702,Toshiba Brave Lupus Tokyo
-21077,Richie Mo'unga,19702,Toshiba Brave Lupus Tokyo
-37797,Rikyu Yamakawa,19702,Toshiba Brave Lupus Tokyo
-58073,Sena Kimura,19702,Toshiba Brave Lupus Tokyo
-20143,Seta Tamanivalu,19702,Toshiba Brave Lupus Tokyo
-26173,Shannon Frizell,19702,Toshiba Brave Lupus Tokyo
-32641,Shin Ouchi,19702,Toshiba Brave Lupus Tokyo
-43573,Shinnosuke Tatsuno,19702,Toshiba Brave Lupus Tokyo
-37879,Shohei Ito,19702,Toshiba Brave Lupus Tokyo
-24349,Shohei Toyoshima,19702,Toshiba Brave Lupus Tokyo
-58074,Shoichi Takagi,19702,Toshiba Brave Lupus Tokyo
-26424,Songchang Lee,19702,Toshiba Brave Lupus Tokyo
-25294,Taichi Mano,19702,Toshiba Brave Lupus Tokyo
-26441,Taiki Matsunobu,19702,Toshiba Brave Lupus Tokyo
-26271,Takahiro Fujita,19702,Toshiba Brave Lupus Tokyo
-24514,Takahiro Ogawa,19702,Toshiba Brave Lupus Tokyo
-29261,Takeshi Sasaki,19702,Toshiba Brave Lupus Tokyo
-38312,Takuro Matsunaga,19702,Toshiba Brave Lupus Tokyo
-58075,Taufa Latu,19702,Toshiba Brave Lupus Tokyo
-36545,Teruo Makabe,19702,Toshiba Brave Lupus Tokyo
-19174,Tom Taylor,19702,Toshiba Brave Lupus Tokyo
-23415,Toshiki Kuwayama,19702,Toshiba Brave Lupus Tokyo
-40399,Warner Dearns,19702,Toshiba Brave Lupus Tokyo
-24706,Yoshitaka Tokunaga,19702,Toshiba Brave Lupus Tokyo
-37884,Yuhei Sugiyama,19702,Toshiba Brave Lupus Tokyo
-23404,Yuma Fujino,19702,Toshiba Brave Lupus Tokyo
-43558,Yuta Kokaji,19702,Toshiba Brave Lupus Tokyo
-30976,Yuto Mori,19702,Toshiba Brave Lupus Tokyo
-5212,Shizuoka BlueRevs,5212,Shizuoka BlueRevs
-36542,Arito Takahashi,5212,Shizuoka BlueRevs
-32041,Atomu Shirai,5212,Shizuoka BlueRevs
-19802,Bryn Hall,5212,Shizuoka BlueRevs
-43574,Bunkei Kaku,5212,Shizuoka BlueRevs
-24615,Chikara Ito,5212,Shizuoka BlueRevs
-23644,Clinton Swart,5212,Shizuoka BlueRevs
-28920,Eishin Kuwano,5212,Shizuoka BlueRevs
-26752,Fumihiro Yoshizawa,5212,Shizuoka BlueRevs
-58068,Futo Yamaguchi,5212,Shizuoka BlueRevs
-26340,Heiichiro Ito,5212,Shizuoka BlueRevs
-26336,Hiroaki Ishizuka,5212,Shizuoka BlueRevs
-23430,Hironori Yatomi,5212,Shizuoka BlueRevs
-26400,Hiroto Kobayashi,5212,Shizuoka BlueRevs
-26774,Isi Naisarani,5212,Shizuoka BlueRevs
-23384,Johnny Fa'auli,5212,Shizuoka BlueRevs
-58071,Joren Fuchi,5212,Shizuoka BlueRevs
-38476,Kakeru Okumura,5212,Shizuoka BlueRevs
-28119,Kanta Shikao,5212,Shizuoka BlueRevs
-37888,Kazuhiro Kawata,5212,Shizuoka BlueRevs
-36501,Keagen Faria,5212,Shizuoka BlueRevs
-43575,Kenta Yamashita,5212,Shizuoka BlueRevs
-43576,Kodai Okazaki,5212,Shizuoka BlueRevs
-28922,Kohei Eguchi,5212,Shizuoka BlueRevs
-20655,Kwagga Smith,5212,Shizuoka BlueRevs
-26324,Malgene Ilaua,5212,Shizuoka BlueRevs
-23585,Malo Tuitama,5212,Shizuoka BlueRevs
-25160,Minoru Tanoue,5212,Shizuoka BlueRevs
-19737,Murray Douglas,5212,Shizuoka BlueRevs
-56015,Richard Goh Jones,5212,Shizuoka BlueRevs
-58072,Richmond Tongatama,5212,Shizuoka BlueRevs
-37893,Riki Sugihara,5212,Shizuoka BlueRevs
-26439,Rikiya Matsumoto,5212,Shizuoka BlueRevs
-25143,Ryosuke Funahashi,5212,Shizuoka BlueRevs
-22606,Sam Greene,5212,Shizuoka BlueRevs
-26240,Samuela Anise,5212,Shizuoka BlueRevs
-58069,Satoshi Hatazawa,5212,Shizuoka BlueRevs
-36539,Shintaro Okamoto,5212,Shizuoka BlueRevs
-26397,Sho Kiyohara,5212,Shizuoka BlueRevs
-37889,Shumpei Miura,5212,Shizuoka BlueRevs
-26529,Sohei Nishimura,5212,Shizuoka BlueRevs
-58070,Takayoshi Mohara,5212,Shizuoka BlueRevs
-26310,Takeshi Hino,5212,Shizuoka BlueRevs
-38475,Takuma Shoji,5212,Shizuoka BlueRevs
-28925,Tomokazu Kira,5212,Shizuoka BlueRevs
-36541,Toshiya Hirakawa,5212,Shizuoka BlueRevs
-20953,Viliami Tahitu'a,5212,Shizuoka BlueRevs
-26452,Yuhimaru Mimura,5212,Shizuoka BlueRevs
-26758,Yuji Ueki,5212,Shizuoka BlueRevs
-9244,Yuki Yatomi,5212,Shizuoka BlueRevs
-24598,Yuya Odo,5212,Shizuoka BlueRevs
-5204,Kubota Spears,5204,Kubota Spears
-30953,Asipeli Moala,5204,Kubota Spears
-58028,Atsushi Oshikawa,5204,Kubota Spears
-19015,Bernard Foley,5204,Kubota Spears
-24418,Daisuke Inoue,5204,Kubota Spears
-17055,David Bulbring,5204,Kubota Spears
-23417,Faulua Makisi,5204,Kubota Spears
-26689,Finau Tupa,5204,Kubota Spears
-10205,Gerhard van den Heever,5204,Kubota Spears
-30956,Halatoa Vailea,5204,Kubota Spears
-19937,Harumichi Tatekawa,5204,Kubota Spears
-34476,Haruto Kida,5204,Kubota Spears
-26408,Hideto Kondo,5204,Kubota Spears
-26607,Hiroaki Sugimoto,5204,Kubota Spears
-30957,Hiroto Mamada,5204,Kubota Spears
-43547,Hiroyuki Yamasaki,5204,Kubota Spears
-30958,Hisanobu Okayama,5204,Kubota Spears
-26545,Ippei Okada,5204,Kubota Spears
-32473,Katsuya Okuma,5204,Kubota Spears
-28979,Kazuhiro Taniguchi,5204,Kubota Spears
-28944,Kazuki Kato,5204,Kubota Spears
-24910,Kengo Kitagawa,5204,Kubota Spears
-37784,Kenshi Yamamoto,5204,Kubota Spears
-37770,Kensuke Seki,5204,Kubota Spears
-36514,Kentaro Otsuka,5204,Kubota Spears
-36516,Kento Iwasa,5204,Kubota Spears
-37786,Kim Suryung,5204,Kubota Spears
-30964,Koga Nezuka,5204,Kubota Spears
-28982,Kota Kaishi,5204,Kubota Spears
-21467,Malcolm Marx,5204,Kubota Spears
-43545,Masaya Tamaki,5204,Kubota Spears
-25297,Naoaki Horibe,5204,Kubota Spears
-36518,Opeti Helu,5204,Kubota Spears
-19291,Pieter Labuschagne,5204,Kubota Spears
-30945,Rikus Pretorius,5204,Kubota Spears
-58092,Rikuto Fukuda,5204,Kubota Spears
-19740,Ruan Botha,5204,Kubota Spears
-10091,Ryan Crotty,5204,Kubota Spears
-26571,Satoshi Saita,5204,Kubota Spears
-30948,Schalk Erasmus,5204,Kubota Spears
-29262,Shinko Tsuchiya,5204,Kubota Spears
-30969,Shinobu Fujiwara,5204,Kubota Spears
-25146,Shintaro Nagatomi,5204,Kubota Spears
-36521,Shota Nakata,5204,Kubota Spears
-26440,Shoya Matsunami,5204,Kubota Spears
-36523,Shunta Koga,5204,Kubota Spears
-27384,Sione Teaupa,5204,Kubota Spears
-36525,Takenori Matsui,5204,Kubota Spears
-28985,Takeo Suenaga,5204,Kubota Spears
-43546,Teruyoshi Joshua Oto,5204,Kubota Spears
-29265,Tomoki Kishioka,5204,Kubota Spears
-28113,Tony Hunt,5204,Kubota Spears
-26305,Uwe Helu,5204,Kubota Spears
-34494,Yota Kamimori,5204,Kubota Spears
-37785,Yuhei Shimada,5204,Kubota Spears
-26242,Yuki Aoki,5204,Kubota Spears
-26255,Yuta Chiba,5204,Kubota Spears
-19568,Hanazono Kintetsu Liners,19568,Hanazono Kintetsu Liners
-37768,Akihide Onogi,19568,Hanazono Kintetsu Liners
-26363,Atsushi Kashimoto,19568,Hanazono Kintetsu Liners
-21414,Ben Toolis,19568,Hanazono Kintetsu Liners
-26533,Daisuke Noguchi,19568,Hanazono Kintetsu Liners
-38425,Hayato Yokoi,19568,Hanazono Kintetsu Liners
-21799,Ieremia Mataena,19568,Hanazono Kintetsu Liners
-21207,Isamu Matsuoka,19568,Hanazono Kintetsu Liners
-21232,Jackson Garden-Bachop,19568,Hanazono Kintetsu Liners
-20103,Jed Brown,19568,Hanazono Kintetsu Liners
-31117,Jose Seru,19568,Hanazono Kintetsu Liners
-30706,Joshua Nohra,19568,Hanazono Kintetsu Liners
-38383,Kazuma Matsuda,19568,Hanazono Kintetsu Liners
-25145,Keiichi Kaneko,19568,Hanazono Kintetsu Liners
-37644,Keita Sahara,19568,Hanazono Kintetsu Liners
-43603,Keitaro Hitora,19568,Hanazono Kintetsu Liners
-58194,Kensho Kawamura,19568,Hanazono Kintetsu Liners
-26655,Kenta Tanaka,19568,Hanazono Kintetsu Liners
-38387,Koji Okamura,19568,Hanazono Kintetsu Liners
-25156,Kota Mitake,19568,Hanazono Kintetsu Liners
-55951,Kotaro Takahashi,19568,Hanazono Kintetsu Liners
-55952,Lata Tangimana,19568,Hanazono Kintetsu Liners
-58203,Liekina Kaufusi,19568,Hanazono Kintetsu Liners
-37787,Naoki Maruyama,19568,Hanazono Kintetsu Liners
-21212,Naoki Morita,19568,Hanazono Kintetsu Liners
-43602,Nesta Mahina,19568,Hanazono Kintetsu Liners
-27249,Patrick Stehlin,19568,Hanazono Kintetsu Liners
-25870,Patrick Tafa,19568,Hanazono Kintetsu Liners
-56002,Reiya Ueyama,19568,Hanazono Kintetsu Liners
-25295,Ren Takano,19568,Hanazono Kintetsu Liners
-37641,Ryosuke Kataoka,19568,Hanazono Kintetsu Liners
-24943,Sam Caird,19568,Hanazono Kintetsu Liners
-23564,Sanaila Waqa,19568,Hanazono Kintetsu Liners
-18881,Semisi Masirewa,19568,Hanazono Kintetsu Liners
-40652,Shinki Ushikubo,19568,Hanazono Kintetsu Liners
-37643,Shohei Nonaka,19568,Hanazono Kintetsu Liners
-26313,Shota Hirono,19568,Hanazono Kintetsu Liners
-32508,Shun Sasaki,19568,Hanazono Kintetsu Liners
-30973,Siosaia Fifita,19568,Hanazono Kintetsu Liners
-36547,Songyong Lee,19568,Hanazono Kintetsu Liners
-58193,Taiki Miyashita,19568,Hanazono Kintetsu Liners
-56001,Takahiro Hayashi,19568,Hanazono Kintetsu Liners
-37789,Takahito Sugahara,19568,Hanazono Kintetsu Liners
-37642,Takumi Yoshimoto,19568,Hanazono Kintetsu Liners
-26517,Tatsuma Nanto,19568,Hanazono Kintetsu Liners
-26690,Tevita Tupou,19568,Hanazono Kintetsu Liners
-38389,Tomoya Kimura,19568,Hanazono Kintetsu Liners
-38385,Tomoya Nakamura,19568,Hanazono Kintetsu Liners
-23538,Tsuyoshi Murata,19568,Hanazono Kintetsu Liners
-9047,Will Genia,19568,Hanazono Kintetsu Liners
-26634,Yoshizumi Takeda,19568,Hanazono Kintetsu Liners
-38382,Yuchol Mun,19568,Hanazono Kintetsu Liners
-26250,Yuki Asaoka,19568,Hanazono Kintetsu Liners
-26635,Yusho Takeda,19568,Hanazono Kintetsu Liners
-19567,Saitama Wild Knights,19567,Saitama Wild Knights
-26232,Asaeli Ai Valu,19567,Saitama Wild Knights
-30954,Atora Hondo,19567,Saitama Wild Knights
-24939,Atsushi Sakate,19567,Saitama Wild Knights
-26283,Ben Gunter,19567,Saitama Wild Knights
-20930,Craig Millar,19567,Saitama Wild Knights
-20037,Damian de Allende,19567,Saitama Wild Knights
-56069,Daniel Perez,19567,Saitama Wild Knights
-27652,Dylan Riley,19567,Saitama Wild Knights
-26360,Eiji Kaneda,19567,Saitama Wild Knights
-27745,Esei Haangana,19567,Saitama Wild Knights
-58066,Goro Hashimoto,19567,Saitama Wild Knights
-37794,Hyuga Shimada,19567,Saitama Wild Knights
-26352,Iori Kaji,19567,Saitama Wild Knights
-32203,Itsuki Onishi,19567,Saitama Wild Knights
-23697,Jack Cornelsen,19567,Saitama Wild Knights
-36481,Jura Asanuma,19567,Saitama Wild Knights
-36491,Kazuma Shimane,19567,Saitama Wild Knights
-20604,Keisuke Uchida,19567,Saitama Wild Knights
-21191,Keita Inagaki,19567,Saitama Wild Knights
-36589,Koki Takeyama,19567,Saitama Wild Knights
-30965,Kyohei Yamasawa,19567,Saitama Wild Knights
-21724,Lachlan Boshier,19567,Saitama Wild Knights
-28850,Liam Mitchell,19567,Saitama Wild Knights
-20524,Lood de Jager,19567,Saitama Wild Knights
-58067,Manoa Latu,19567,Saitama Wild Knights
-27083,Marika Koroibete,19567,Saitama Wild Knights
-20998,Mark Abbott,19567,Saitama Wild Knights
-21201,Masaki Tani,19567,Saitama Wild Knights
-25307,Rikiya Matsuda,19567,Saitama Wild Knights
-26296,Ryota Hasegawa,19567,Saitama Wild Knights
-23421,Ryuji Noguchi,19567,Saitama Wild Knights
-37792,Ryusei Kawasaki,19567,Saitama Wild Knights
-58064,Seijun Kawasaki,19567,Saitama Wild Knights
-25611,Semisi Tupou,19567,Saitama Wild Knights
-36488,Sho Furuhata,19567,Saitama Wild Knights
-24415,Shohei Hirano,19567,Saitama Wild Knights
-29264,Shota Fukui,19567,Saitama Wild Knights
-11304,Shota Horie,19567,Saitama Wild Knights
-24509,Shunsuke Nunomaki,19567,Saitama Wild Knights
-36485,Suliasi Tolu,19567,Saitama Wild Knights
-37793,Taichi Niizuma,19567,Saitama Wild Knights
-29259,Taiki Fujii,19567,Saitama Wild Knights
-28928,Taiki Koyama,19567,Saitama Wild Knights
-26760,Takuya Yamasawa,19567,Saitama Wild Knights
-36484,Tatsuhiro Tanji,19567,Saitama Wild Knights
-28927,Tatsuki Tomuro,19567,Saitama Wild Knights
-28926,Tomohito Miyakawa,19567,Saitama Wild Knights
-58065,Tomoki Osada,19567,Saitama Wild Knights
-37791,Tsubasa Arai,19567,Saitama Wild Knights
-21140,Vince Aso,19567,Saitama Wild Knights
-24421,Yasutaka Sasakura,19567,Saitama Wild Knights
-32205,Yuji Shimogama,19567,Saitama Wild Knights
-32206,Yusuke Tokota,19567,Saitama Wild Knights
-26623,Yuta Takagi,19567,Saitama Wild Knights
-5211,Toyota Verblitz,5211,Toyota Verblitz
-32522,Charlie Lawrence,5211,Toyota Verblitz
-24351,Dai Ozawa,5211,Toyota Verblitz
-25153,Daichi Akiyama,5211,Toyota Verblitz
-38419,Dick Wilson,5211,Toyota Verblitz
-18930,Fetuani Lautaimi,5211,Toyota Verblitz
-40592,Gaku Shimizu,5211,Toyota Verblitz
-24343,Jamie Henry,5211,Toyota Verblitz
-18571,Joe Launchbury,5211,Toyota Verblitz
-28713,Jone Turaganivalu Nabetelevu,5211,Toyota Verblitz
-58078,Kaisei Tamura,5211,Toyota Verblitz
-23590,Kaito Shigeno,5211,Toyota Verblitz
-28962,Kazuki Himeno,5211,Toyota Verblitz
-32382,Keita Suzuki,5211,Toyota Verblitz
-36475,Kenta Fukuda,5211,Toyota Verblitz
-32390,Kyo Yoshida,5211,Toyota Verblitz
-32556,Louis Conradie,5211,Toyota Verblitz
-8697,Male Sa'u,5211,Toyota Verblitz
-43585,Masahiro Kitamura,5211,Toyota Verblitz
-24537,Masakatsu Hikosaka,5211,Toyota Verblitz
-25083,Masato Furukawa,5211,Toyota Verblitz
-20104,Michael Allardice,5211,Toyota Verblitz
-23405,Mitsuru Furukawa,5211,Toyota Verblitz
-19736,Pieter-Steph du Toit,5211,Toyota Verblitz
-58077,Rintaro Maruyama,5211,Toyota Verblitz
-21074,Rob Thompson,5211,Toyota Verblitz
-28959,Runya Che,5211,Toyota Verblitz
-26347,Ryang Jongchu,5211,Toyota Verblitz
-32328,Ryoma Nishimura,5211,Toyota Verblitz
-30968,Ryunosuke Momoji,5211,Toyota Verblitz
-36477,Ryusei Kato,5211,Toyota Verblitz
-34486,Ryusei Koike,5211,Toyota Verblitz
-23418,Shogo Miura,5211,Toyota Verblitz
-36483,Shuhei Yamaguchi,5211,Toyota Verblitz
-36474,Shunsuke Asaoka,5211,Toyota Verblitz
-36482,Taichi Takahashi,5211,Toyota Verblitz
-36480,Takemichi Nakano,5211,Toyota Verblitz
-26550,Taufa Olive,5211,Toyota Verblitz
-26109,Tiaan Falcon,5211,Toyota Verblitz
-43584,Toshikazu Nobeyama,5211,Toyota Verblitz
-28960,Vatiliai Tuidraki,5211,Toyota Verblitz
-49780,Viliame Tuidraki,5211,Toyota Verblitz
-19553,William Tupou,5211,Toyota Verblitz
-19709,Willie Le Roux,5211,Toyota Verblitz
-26309,Yoshikatsu Hikosaka,5211,Toyota Verblitz
-26330,Yoto Ioki,5211,Toyota Verblitz
-58076,Yuichiro Wada,5211,Toyota Verblitz
-28958,Yuji Takei,5211,Toyota Verblitz
-32369,Yuki Okada,5211,Toyota Verblitz
-32375,Yusuke Kizu,5211,Toyota Verblitz
-5208,BlackRams Tokyo,5208,BlackRams Tokyo
-49215,*Shota Yamamoto,5208,BlackRams Tokyo
-26432,Aki Makita,5208,BlackRams Tokyo
-24345,Amanaki Lotoahea,5208,BlackRams Tokyo
-36500,Amato Fakatava,5208,BlackRams Tokyo
-36538,Brodi McCurran,5208,BlackRams Tokyo
-37807,Daigo Sasagawa,5208,BlackRams Tokyo
-26736,Daiki Yanagawa,5208,BlackRams Tokyo
-26287,Daisuke Hamano,5208,BlackRams Tokyo
-37809,Daisuke Nishikawa,5208,BlackRams Tokyo
-11638,Hadleigh Parkes,5208,BlackRams Tokyo
-43583,Harrison Fox,5208,BlackRams Tokyo
-29258,Hinata Takei,5208,BlackRams Tokyo
-25514,Isaac Lucas,5208,BlackRams Tokyo
-22314,Jacob Skeen,5208,BlackRams Tokyo
-23339,Josh Goodhue,5208,BlackRams Tokyo
-37903,Junpei Yukawa,5208,BlackRams Tokyo
-26404,Kazuhiro Koike,5208,BlackRams Tokyo
-26591,Kazuhiro Shibata,5208,BlackRams Tokyo
-32414,Kazuma Nishi,5208,BlackRams Tokyo
-26688,Kenta Tsujii,5208,BlackRams Tokyo
-58080,Ko Sato,5208,BlackRams Tokyo
-32416,Kohei Horigome,5208,BlackRams Tokyo
-28937,Masashi Onishi,5208,BlackRams Tokyo
-26503,Masatoshi Nakamura,5208,BlackRams Tokyo
-22034,Matt McGahan,5208,BlackRams Tokyo
-22169,Mike Stolberg,5208,BlackRams Tokyo
-19126,Nathan Hughes,5208,BlackRams Tokyo
-30791,Netani Vakayalia,5208,BlackRams Tokyo
-26566,Pohiva Yamato Lotoahea,5208,BlackRams Tokyo
-36495,Ryohei Isoda,5208,BlackRams Tokyo
-28964,Shinichi Tanaka,5208,BlackRams Tokyo
-30970,Shohei Oyama,5208,BlackRams Tokyo
-34491,Shu Yamamoto,5208,BlackRams Tokyo
-26435,Shuhei Matsuhashi,5208,BlackRams Tokyo
-43628,Siope Lolo Tavo,5208,BlackRams Tokyo
-26724,Syota Yamamoto,5208,BlackRams Tokyo
-28938,Taichi Chiba,5208,BlackRams Tokyo
-37810,Taira Main,5208,BlackRams Tokyo
-36867,Takanobu Minami,5208,BlackRams Tokyo
-26430,Takao Makabe,5208,BlackRams Tokyo
-26512,Takehiro Nakazawa,5208,BlackRams Tokyo
-36754,Talau Fakatava,5208,BlackRams Tokyo
-25293,Tomoya Yamamura,5208,BlackRams Tokyo
-26625,Toshiya Takahashi,5208,BlackRams Tokyo
-29267,Yoshiyuki Koga,5208,BlackRams Tokyo
-30975,Yuichiro Taniguchi,5208,BlackRams Tokyo
-32520,Yuki Ikeda,5208,BlackRams Tokyo
-26470,Yuki Mori,5208,BlackRams Tokyo
-37808,Yuta Kurihara,5208,BlackRams Tokyo
-594,Mitsubishi Sagamihara Dynaboars,594,Mitsubishi Sagamihara Dynaboars
-36494,Akihiro Ogiso,594,Mitsubishi Sagamihara Dynaboars
-37851,Ben Paltridge,594,Mitsubishi Sagamihara Dynaboars
-11183,Brackin Karauria-Henry,594,Mitsubishi Sagamihara Dynaboars
-27129,Curtis Rona,594,Mitsubishi Sagamihara Dynaboars
-36517,Daniel Linde,594,Mitsubishi Sagamihara Dynaboars
-27036,Dylan Nel,594,Mitsubishi Sagamihara Dynaboars
-26154,Epineri Uluiviti,594,Mitsubishi Sagamihara Dynaboars
-54858,Fisipuna Tuiaki,594,Mitsubishi Sagamihara Dynaboars
-36519,Gousuke Kawakami,594,Mitsubishi Sagamihara Dynaboars
-36520,Hayato Hosoda,594,Mitsubishi Sagamihara Dynaboars
-18800,Heiden Bedwell-Curtis,594,Mitsubishi Sagamihara Dynaboars
-27401,Honeti Taumohaapai,594,Mitsubishi Sagamihara Dynaboars
-36524,Ippei Oshima,594,Mitsubishi Sagamihara Dynaboars
-36526,Ippei Yamamoto,594,Mitsubishi Sagamihara Dynaboars
-20312,Jackson Hemopo,594,Mitsubishi Sagamihara Dynaboars
-23380,Jamie Shillcock,594,Mitsubishi Sagamihara Dynaboars
-38364,Joichiro Iwashita,594,Mitsubishi Sagamihara Dynaboars
-27247,Jonmun Han,594,Mitsubishi Sagamihara Dynaboars
-36527,Jun Morimoto,594,Mitsubishi Sagamihara Dynaboars
-34135,Kazuki Ishida,594,Mitsubishi Sagamihara Dynaboars
-36530,Keita Sekimoto,594,Mitsubishi Sagamihara Dynaboars
-36531,Kensaku Akuta,594,Mitsubishi Sagamihara Dynaboars
-25147,Kento Nakai,594,Mitsubishi Sagamihara Dynaboars
-38399,Kohki Sato,594,Mitsubishi Sagamihara Dynaboars
-58089,Koki Hattori,594,Mitsubishi Sagamihara Dynaboars
-26342,Kota Iwamura,594,Mitsubishi Sagamihara Dynaboars
-24600,Makoto Tosa,594,Mitsubishi Sagamihara Dynaboars
-37821,Maoya Nakagawa,594,Mitsubishi Sagamihara Dynaboars
-26687,Masataka Tsuruya,594,Mitsubishi Sagamihara Dynaboars
-9675,Matt To'omua,594,Mitsubishi Sagamihara Dynaboars
-22419,Matt Vaega,594,Mitsubishi Sagamihara Dynaboars
-58079,Mototsugu Hachiya,594,Mitsubishi Sagamihara Dynaboars
-11313,Naoki Kawamata,594,Mitsubishi Sagamihara Dynaboars
-21195,Nicholas Ealey,594,Mitsubishi Sagamihara Dynaboars
-36555,Nozomi Nara,594,Mitsubishi Sagamihara Dynaboars
-36560,Roland Alaia'sa,594,Mitsubishi Sagamihara Dynaboars
-36562,Ryoma Tokuda,594,Mitsubishi Sagamihara Dynaboars
-58088,Ryoto Shibata,594,Mitsubishi Sagamihara Dynaboars
-43630,Ryuta Sagara,594,Mitsubishi Sagamihara Dynaboars
-56103,Ryuto Fukuyama,594,Mitsubishi Sagamihara Dynaboars
-32551,Sam Chongkit,594,Mitsubishi Sagamihara Dynaboars
-36554,Shinya Tanaka,594,Mitsubishi Sagamihara Dynaboars
-55992,Shunsuke Sakamoto,594,Mitsubishi Sagamihara Dynaboars
-58087,Songyu Cho,594,Mitsubishi Sagamihara Dynaboars
-43701,Taichi Takahashi,594,Mitsubishi Sagamihara Dynaboars
-26426,Taiji Machino,594,Mitsubishi Sagamihara Dynaboars
-28940,Takahiro Terui,594,Mitsubishi Sagamihara Dynaboars
-43632,Takumi Sugiura,594,Mitsubishi Sagamihara Dynaboars
-40633,Taro Aihara,594,Mitsubishi Sagamihara Dynaboars
-58090,Tatsuya Kuzumi,594,Mitsubishi Sagamihara Dynaboars
-58091,Timote Tavalea,594,Mitsubishi Sagamihara Dynaboars
-37645,Tomoaki Ishii,594,Mitsubishi Sagamihara Dynaboars
-29788,Tomoyuki Ochiai,594,Mitsubishi Sagamihara Dynaboars
-25255,Walt Steenkamp,594,Mitsubishi Sagamihara Dynaboars
-36569,Yoshimitsu Yasue,594,Mitsubishi Sagamihara Dynaboars
-24520,Yu Chinen,594,Mitsubishi Sagamihara Dynaboars
-33648,Yu Okudaira,594,Mitsubishi Sagamihara Dynaboars
-36571,Yuki Miyazato,594,Mitsubishi Sagamihara Dynaboars
-43631,Yusuke Sakamoto,594,Mitsubishi Sagamihara Dynaboars
-26554,Yuta Onodera,594,Mitsubishi Sagamihara Dynaboars
-36550,Yuya Otsuka,594,Mitsubishi Sagamihara Dynaboars
-5209,Tokyo Sungoliath,5209,Tokyo Sungoliath
-11061,Aaron Cruden,5209,Tokyo Sungoliath
-32753,Callum MacDonald,5209,Tokyo Sungoliath
-28852,Genki Okoshi,5209,Tokyo Sungoliath
-26281,Genki Sudo,5209,Tokyo Sungoliath
-24957,Harry Hockings,5209,Tokyo Sungoliath
-19948,Hendrik Tui,5209,Tokyo Sungoliath
-40593,Hideto Niguma,5209,Tokyo Sungoliath
-26651,Hikaru Tamura,5209,Tokyo Sungoliath
-58025,Hiroki Kumoyama,5209,Tokyo Sungoliath
-32978,Isaiah Punivai,5209,Tokyo Sungoliath
-30960,Kai Yamamoto,5209,Tokyo Sungoliath
-29270,Kan Nakano,5209,Tokyo Sungoliath
-30962,Kanji Shimokawa,5209,Tokyo Sungoliath
-26479,Keisuke Moriya,5209,Tokyo Sungoliath
-58023,Kenta Kobayashi,5209,Tokyo Sungoliath
-26683,Kenta Tsukamoto,5209,Tokyo Sungoliath
-36507,Kienori Go,5209,Tokyo Sungoliath
-28853,Koji Iino,5209,Tokyo Sungoliath
-23407,Kosuke Horikoshi,5209,Tokyo Sungoliath
-58188,Kotaro Hosoki,5209,Tokyo Sungoliath
-21961,Kotaro Matsushima,5209,Tokyo Sungoliath
-26563,Naoki Ozawa,5209,Tokyo Sungoliath
-25158,Naoto Saito,5209,Tokyo Sungoliath
-28855,Oketani Sota,5209,Tokyo Sungoliath
-23408,Ryosuke Iwaihara,5209,Tokyo Sungoliath
-58024,Ryosuke Kawase,5209,Tokyo Sungoliath
-20606,Ryoto Nakamura,5209,Tokyo Sungoliath
-29260,Ryuga Hashimoto,5209,Tokyo Sungoliath
-19909,Samu Kerevi,5209,Tokyo Sungoliath
-19825,Sean McMahon,5209,Tokyo Sungoliath
-23422,Seiya Ozaki,5209,Tokyo Sungoliath
-22614,Shinnosuke Kakinaga,5209,Tokyo Sungoliath
-52827,Shinnosuke Oka,5209,Tokyo Sungoliath
-26333,Shintaro Ishihara,5209,Tokyo Sungoliath
-36750,Shogo Nakano,5209,Tokyo Sungoliath
-26761,Shota Emi,5209,Tokyo Sungoliath
-26603,Shunta Nakamura,5209,Tokyo Sungoliath
-43570,Taiga Ozaki,5209,Tokyo Sungoliath
-26497,Takaaki Nakazuru,5209,Tokyo Sungoliath
-26392,Takahiro Kimura,5209,Tokyo Sungoliath
-36510,Takayasu Tsuji,5209,Tokyo Sungoliath
-37896,Tatsuya Miyazaki,5209,Tokyo Sungoliath
-20834,Tevita Li,5209,Tokyo Sungoliath
-23427,Tevita Tatafu,5209,Tokyo Sungoliath
-21734,Tom Sanders,5209,Tokyo Sungoliath
-19392,Tom Savage,5209,Tokyo Sungoliath
-33318,Tony Alofipo,5209,Tokyo Sungoliath
-28856,Wataru Kobayashi,5209,Tokyo Sungoliath
-43569,Yasuaki Katakura,5209,Tokyo Sungoliath
-26473,Yukio Morikawa,5209,Tokyo Sungoliath
-26492,Yutaka Nagare,5209,Tokyo Sungoliath
-5206,Green Rockets Tokatsu,5206,Green Rockets Tokatsu
-40524,Aseri Masivou,5206,Green Rockets Tokatsu
-10648,Ash Dixon,5206,Green Rockets Tokatsu
-58086,Christian Laui,5206,Green Rockets Tokatsu
-37824,Daiki Yamagiwa,5206,Green Rockets Tokatsu
-24912,Doga Maeda,5206,Green Rockets Tokatsu
-11309,Fumiaki Tanaka,5206,Green Rockets Tokatsu
-30955,Gakuto Ishida,5206,Green Rockets Tokatsu
-26569,George Risale,5206,Green Rockets Tokatsu
-26457,Hiroyuki Miyajima,5206,Green Rockets Tokatsu
-20155,Jake Ball,5206,Green Rockets Tokatsu
-58083,Kakeru Miyaso,5206,Green Rockets Tokatsu
-32443,Kanta Omata,5206,Green Rockets Tokatsu
-40523,Kavaia Tagivetaua,5206,Green Rockets Tokatsu
-40596,Keisuke Kikuta,5206,Green Rockets Tokatsu
-58085,Keita Kobayasi,5206,Green Rockets Tokatsu
-24506,Kentaro Kodama,5206,Green Rockets Tokatsu
-26446,Koichi Matsuura,5206,Green Rockets Tokatsu
-58084,Kosei Yamammoto,5206,Green Rockets Tokatsu
-24193,Lomano Lemeki,5206,Green Rockets Tokatsu
-37049,Luke Porter,5206,Green Rockets Tokatsu
-17238,Maritino Nemani,5206,Green Rockets Tokatsu
-40597,Masaki Obata,5206,Green Rockets Tokatsu
-29268,Miyu Arai,5206,Green Rockets Tokatsu
-18536,Nick Phipps,5206,Green Rockets Tokatsu
-56145,Ren Osawa,5206,Green Rockets Tokatsu
-28950,Ryoi Kamei,5206,Green Rockets Tokatsu
-26694,Satoshi Ueda,5206,Green Rockets Tokatsu
-40595,Suguru Kubo,5206,Green Rockets Tokatsu
-26646,Sunao Takizawa,5206,Green Rockets Tokatsu
-23411,Taisetsu Kanai,5206,Green Rockets Tokatsu
-26261,Takahiro Doi,5206,Green Rockets Tokatsu
-58082,Takeshi Matsuo,5206,Green Rockets Tokatsu
-25161,Taku Toma,5206,Green Rockets Tokatsu
-21852,Taqele Naiyaravoro,5206,Green Rockets Tokatsu
-26384,Taro Kenjo,5206,Green Rockets Tokatsu
-26555,Tatsuru Owada,5206,Green Rockets Tokatsu
-36567,Tatsuya Fujii,5206,Green Rockets Tokatsu
-24192,Teruya Goto,5206,Green Rockets Tokatsu
-23537,Tim Bennetts,5206,Green Rockets Tokatsu
-17161,Tom Marshall,5206,Green Rockets Tokatsu
-26391,Tomonori Kimura,5206,Green Rockets Tokatsu
-21072,Whetukamokamo Douglas,5206,Green Rockets Tokatsu
-26580,Yo Sato,5206,Green Rockets Tokatsu
-24414,Yoshiya Hosoda,5206,Green Rockets Tokatsu
-37905,Yuma Sugimoto,5206,Green Rockets Tokatsu
-5203,Kobelco Kobe Steelers,5203,Kobelco Kobe Steelers
-28966,Amanaki Saumaki,5203,Kobelco Kobe Steelers
-23419,Ataata Moeakiola,5203,Kobelco Kobe Steelers
-19096,Atsushi Hiwasa,5203,Kobelco Kobe Steelers
-20992,Beaudein Waaka,5203,Kobelco Kobe Steelers
-23420,Daiki Nakajima,5203,Kobelco Kobe Steelers
-36544,Gentaro Ikenaga,5203,Kobelco Kobe Steelers
-22418,Gerard Cowley-Tuioti,5203,Kobelco Kobe Steelers
-23416,Go Maeda,5203,Kobelco Kobe Steelers
-37885,Haruto Takahashi,5203,Kobelco Kobe Steelers
-26301,Hikaru Hashimoto,5203,Kobelco Kobe Steelers
-19940,Hiroshi Yamashita,5203,Kobelco Kobe Steelers
-43565,Ikuma Yamada,5203,Kobelco Kobe Steelers
-26500,Isileli Nakajima,5203,Kobelco Kobe Steelers
-21712,JD Schickerling,5203,Kobelco Kobe Steelers
-24416,Jiwon Gu,5203,Kobelco Kobe Steelers
-37887,Junta Hamano,5203,Kobelco Kobe Steelers
-58096,Kanta Matsunaga,5203,Kobelco Kobe Steelers
-28997,Keita Terada,5203,Kobelco Kobe Steelers
-37886,Kenta Matsuoka,5203,Kobelco Kobe Steelers
-26672,Kenta Tokuda,5203,Kobelco Kobe Steelers
-36549,Kentaro Obata,5203,Kobelco Kobe Steelers
-24417,Koki Yamamoto,5203,Kobelco Kobe Steelers
-27251,Kosuke Naka,5203,Kobelco Kobe Steelers
-26704,Kyungmun Wang,5203,Kobelco Kobe Steelers
-18753,Marcell Coetzee,5203,Kobelco Kobe Steelers
-19905,Michael Little,5203,Kobelco Kobe Steelers
-24511,Naohiro Kotaki,5203,Kobelco Kobe Steelers
-24124,Ngani Laumape,5203,Kobelco Kobe Steelers
-58097,Quinton Mahina,5203,Kobelco Kobe Steelers
-26730,Rakuhei Yamashita,5203,Kobelco Kobe Steelers
-11622,Richard Buckman,5203,Kobelco Kobe Steelers
-58098,Rinpei Sakaki,5203,Kobelco Kobe Steelers
-25144,Ryo Inoue,5203,Kobelco Kobe Steelers
-29364,Ryo Kayutsuka,5203,Kobelco Kobe Steelers
-22646,Ryohei Yamanaka,5203,Kobelco Kobe Steelers
-19939,Ryuhei Arita,5203,Kobelco Kobe Steelers
-26590,Seokhwan Jang,5203,Kobelco Kobe Steelers
-37841,Seungsin Lee,5203,Kobelco Kobe Steelers
-36558,Shigure Takao,5203,Kobelco Kobe Steelers
-32526,Shinsuke Iseki,5203,Kobelco Kobe Steelers
-26304,Shintaro Hayashi,5203,Kobelco Kobe Steelers
-55997,Sho Maeda,5203,Kobelco Kobe Steelers
-26429,Shohei Maekawa,5203,Kobelco Kobe Steelers
-58099,Sione Tapu'osi,5203,Kobelco Kobe Steelers
-26671,Sosiceni Tokoqio,5203,Kobelco Kobe Steelers
-26319,Suguru Igarashi,5203,Kobelco Kobe Steelers
-32531,Taihei Kusaka,5203,Kobelco Kobe Steelers
-36561,Takara Imamura,5203,Kobelco Kobe Steelers
-23850,Takayuki Watanabe,5203,Kobelco Kobe Steelers
-26396,Takuya Kitade,5203,Kobelco Kobe Steelers
-26422,Timothy Lafaele,5203,Kobelco Kobe Steelers
-39185,Willie Potgieter,5203,Kobelco Kobe Steelers
-21216,Shuji Saita,19568,Hanazono Kintetsu Liners
-21204,Daiki Toyoda,19568,Hanazono Kintetsu Liners
-21206,Ryosuke Maeda,19568,Hanazono Kintetsu Liners
-26489,Murphy Leilua,19568,Hanazono Kintetsu Liners
-28999,Toshimitsu Ogami,19568,Hanazono Kintetsu Liners
-26973,Sam Thomson,19568,Hanazono Kintetsu Liners
-9028,Quade Cooper,19568,Hanazono Kintetsu Liners
-26739,Keisuke Yatsugi,19568,Hanazono Kintetsu Liners
-24344,Lote Tuqiri,19568,Hanazono Kintetsu Liners
-30786,Waimana Riedlinger-Kapa,19568,Hanazono Kintetsu Liners
-26399,Noriya Kobayashi,594,Mitsubishi Sagamihara DynaBoars
-36522,Hiroki Nakamura,594,Mitsubishi Sagamihara DynaBoars
-26490,Daisuke Musha,594,Mitsubishi Sagamihara DynaBoars
-28994,Kosuke Enomoto,594,Mitsubishi Sagamihara DynaBoars
-10028,Colin Slade,594,Mitsubishi Sagamihara DynaBoars
-32204,Kruger Latu,594,Mitsubishi Sagamihara DynaBoars
-36556,Rentaro Kanezaki,594,Mitsubishi Sagamihara DynaBoars
-43633,Alaia'sa Roland,594,Mitsubishi Sagamihara DynaBoars
-5202,Mie Honda Heat,5202,Mie Honda Heat
-32455,Takumi Fujii,5202,Mie Honda Heat
-26071,Matthys Basson,5202,Mie Honda Heat
-26645,Shota Takizawa,5202,Mie Honda Heat
-26306,Masahiro Hibino,5202,Mie Honda Heat
-36508,Tatsuhiko Tsurukawa,5202,Mie Honda Heat
-32442,Hayato Akahira,5202,Mie Honda Heat
-36509,Taiki Yoshioka,5202,Mie Honda Heat
-36506,Akihito Doi,5202,Mie Honda Heat
-32456,Tetuhi Roberts,5202,Mie Honda Heat
-26236,Yoji Akiyama,5202,Mie Honda Heat
-20097,Franco Mostert,5202,Mie Honda Heat
-32451,Masaki Kondo,5202,Mie Honda Heat
-37891,Atsuro Tsuji,5202,Mie Honda Heat
-32449,Kosuke Hattori,5202,Mie Honda Heat
-21913,Paul Schoeman,5202,Mie Honda Heat
-26375,Hiroto Kawasaki,5202,Mie Honda Heat
-26398,Ryota Kobayashi,5202,Mie Honda Heat
-37820,Viliami Kaipouli,5202,Mie Honda Heat
-32454,Ryo Furuta,5202,Mie Honda Heat
-37822,Takuya Obata,5202,Mie Honda Heat
-36505,Shogo Nezuka,5202,Mie Honda Heat
-26337,Hisayoshi Ito,5202,Mie Honda Heat
-26720,Kenta Yamaji,5202,Mie Honda Heat
-37823,Kengo Gunji,5202,Mie Honda Heat
-21717,Jean-Luc du Plessis,5202,Mie Honda Heat
-26564,SonGi Pak,5202,Mie Honda Heat
-25151,Soki Watanabe,5202,Mie Honda Heat
-34873,Dawid Kellerman,5202,Mie Honda Heat
-36503,Gwantee Oh,5202,Mie Honda Heat
-32450,Masaki Fujisaki,5202,Mie Honda Heat
-22436,Clynton Knox,5202,Mie Honda Heat
-26471,Kaito Morikawa,5202,Mie Honda Heat
-26482,Naoki Motomura,5202,Mie Honda Heat
-26691,Nobutaka Ubukata,5202,Mie Honda Heat
-37892,Yuta Matsuura,5202,Mie Honda Heat
-32446,Kanta Watanabe,5202,Mie Honda Heat
-26506,Yuta Nakarai,5202,Mie Honda Heat
-24123,Matt Duffie,5202,Mie Honda Heat
-17210,Jono Lance,5202,Mie Honda Heat
-43660,Shun Hizume,5202,Mie Honda Heat
-43664,Seunghyok Lee,5202,Mie Honda Heat
-43666,Hiroaki Shirahama,5202,Mie Honda Heat
-43668,Shota Nishizawa,5202,Mie Honda Heat
-43669,Yuzo Yamamoto,5202,Mie Honda Heat
-591,Kamaishi Seawaves RFC,591,Kamaishi Seawaves RFC
-40650,Takuya Takahashi,591,Kamaishi Seawaves RFC
-22154,Morgan Mitchell,591,Kamaishi Seawaves RFC
-43638,Makoto Somazawa,591,Kamaishi Seawaves RFC
-40651,Tomoki Nobeta,591,Kamaishi Seawaves RFC
-43640,Atsushi Suzuki,591,Kamaishi Seawaves RFC
-43642,Ryota Tsukada,591,Kamaishi Seawaves RFC
-43643,Shodai Osada,591,Kamaishi Seawaves RFC
-40653,Tatsuji Yoshida,591,Kamaishi Seawaves RFC
-40654,Taiki Ito,591,Kamaishi Seawaves RFC
-26750,Kan Yoshino,591,Kamaishi Seawaves RFC
-26715,Ryunosuke Yamada,591,Kamaishi Seawaves RFC
-40655,Sotaro Takahashi,591,Kamaishi Seawaves RFC
-43644,Shoji Misaki,591,Kamaishi Seawaves RFC
-23992,Ben Nee Nee,591,Kamaishi Seawaves RFC
-11080,Charlie Matthews,591,Kamaishi Seawaves RFC
-40656,Yuta Kimura,591,Kamaishi Seawaves RFC
-40657,Yuto Ueda,591,Kamaishi Seawaves RFC
-27385,Ryota Kono,591,Kamaishi Seawaves RFC
-40658,Katsumi Hatakeyama,591,Kamaishi Seawaves RFC
-19256,Sam Henwood,591,Kamaishi Seawaves RFC
-40659,Yuta Nakano,591,Kamaishi Seawaves RFC
-43645,Naoki Ouno,591,Kamaishi Seawaves RFC
-7432,Tomasi Soqeta,591,Kamaishi Seawaves RFC
-38463,Atsushi Minami,591,Kamaishi Seawaves RFC
-32999,Daiyu Ishimori,591,Kamaishi Seawaves RFC
-43646,Youhei Murakami,591,Kamaishi Seawaves RFC
-40660,Ryoma Nakamura,591,Kamaishi Seawaves RFC
-43654,Ryo Kataoka,591,Kamaishi Seawaves RFC
-28919,Brett Cameron,591,Kamaishi Seawaves RFC
-43655,Yujiro Sasaki,591,Kamaishi Seawaves RFC
-43656,Shuta Fukushi,591,Kamaishi Seawaves RFC
-22737,Gerdus van der Walt,591,Kamaishi Seawaves RFC
-43657,Katsuto Hatanaka,591,Kamaishi Seawaves RFC
-43658,Taisei Fukkoshi,591,Kamaishi Seawaves RFC
-40661,Kodai Ono,591,Kamaishi Seawaves RFC
-40662,Nobutaka Kanto,591,Kamaishi Seawaves RFC
-43659,Yuju Takizawa,591,Kamaishi Seawaves RFC
-43661,Shuta Ujiie,591,Kamaishi Seawaves RFC
-40663,Yuki Sugahara,591,Kamaishi Seawaves RFC
-40664,Ryotaro Kaga,591,Kamaishi Seawaves RFC
-43662,Gen Sasaki,591,Kamaishi Seawaves RFC
-43663,Hikaro Shimoyama,591,Kamaishi Seawaves RFC
-40665,Yutaro Murai,591,Kamaishi Seawaves RFC
-43665,Kaito Funaki,591,Kamaishi Seawaves RFC
-43667,Ken Chiba,591,Kamaishi Seawaves RFC
-29336,Cam Bailey,591,Kamaishi Seawaves RFC
-5214,Hino Red Dolphins,5214,Hino Red Dolphins
-32436,Yuichi Hisadomi,5214,Hino Red Dolphins
-32404,Makoto Tsuchiya,5214,Hino Red Dolphins
-26735,Motoki Yamazaki,5214,Hino Red Dolphins
-20576,Takuma Asahara,5214,Hino Red Dolphins
-21715,Dayan van der Westhuizen,5214,Hino Red Dolphins
-37897,Ken Osanai,5214,Hino Red Dolphins
-32422,Ryoyu Kato,5214,Hino Red Dolphins
-32424,Shinsuke Igoshi,5214,Hino Red Dolphins
-32437,Yuki Go,5214,Hino Red Dolphins
-19092,Takeshi Kizu,5214,Hino Red Dolphins
-32546,Akinori Hirota,5214,Hino Red Dolphins
-32543,Takehiro Kimura,5214,Hino Red Dolphins
-26415,Dinesvaran Krishnan,5214,Hino Red Dolphins
-32438,Yuta Kasahara,5214,Hino Red Dolphins
-32415,Takehiro Nishimura,5214,Hino Red Dolphins
-11663,Ash Parker,5214,Hino Red Dolphins
-31909,Zephaniah Tuinona,5214,Hino Red Dolphins
-32420,Ryosuke Chifu,5214,Hino Red Dolphins
-32379,Hirotsugu Sanada,5214,Hino Red Dolphins
-32381,Junya Lee,5214,Hino Red Dolphins
-32440,Yuuki Ono,5214,Hino Red Dolphins
-32398,Kotaro Furukawa,5214,Hino Red Dolphins
-10545,Augustine Pulu,5214,Hino Red Dolphins
-9656,Nasi Manu,5214,Hino Red Dolphins
-21373,Kyosuke Horie,5214,Hino Red Dolphins
-11647,Hayden Cripps,5214,Hino Red Dolphins
-32423,Shigenori Someyama,5214,Hino Red Dolphins
-32417,Norifumi Hashimoto,5214,Hino Red Dolphins
-24612,Hideki Tanabe,5214,Hino Red Dolphins
-32426,Syo Kataoka,5214,Hino Red Dolphins
-21457,Jack Debreczeni,5214,Hino Red Dolphins
-32432,Taroma Togo,5214,Hino Red Dolphins
-21739,TJ Faiane,5214,Hino Red Dolphins
-32439,Yuta Matsui,5214,Hino Red Dolphins
-32411,Mosese Tonga,5214,Hino Red Dolphins
-26639,Sho Takenaka,5214,Hino Red Dolphins
-24346,Josefa Lilidamu,5214,Hino Red Dolphins
-36513,Syun Tomonaga,5214,Hino Red Dolphins
-37865,Takai Kawai,5214,Hino Red Dolphins
-27128,Chance Peni,5214,Hino Red Dolphins
-32399,Kuniya Sonoki,5214,Hino Red Dolphins
-37899,Shogo Tokota,5214,Hino Red Dolphins
-36512,Ryo Kikkawa,5214,Hino Red Dolphins
-11624,Gillies Kaka,5214,Hino Red Dolphins
-34484,Moeki Fukushi,5214,Hino Red Dolphins
-43605,Brendan Jimenez,5214,Hino Red Dolphins
-43606,Riku Kitahara,5214,Hino Red Dolphins
-43607,Motoki Tanaka,5214,Hino Red Dolphins
-43609,Ko Kojima,5214,Hino Red Dolphins
-43610,Syunya Hamano,5214,Hino Red Dolphins
-43611,Hirohiro Kodai Ono,5214,Hino Red Dolphins
-592,Mazda Skyactivs Hiroshima,592,Mazda Skyactivs Hiroshima
-40606,Yuta Takami,592,Mazda Skyactivs Hiroshima
-40607,Tomonori Koyanagi,592,Mazda Skyactivs Hiroshima
-40608,Tomoya Otake,592,Mazda Skyactivs Hiroshima
-40609,Yuichi Nakandakari,592,Mazda Skyactivs Hiroshima
-40610,Koshiro Shigenobu,592,Mazda Skyactivs Hiroshima
-43591,Koshi Kato,592,Mazda Skyactivs Hiroshima
-40611,Ryo Nagata,592,Mazda Skyactivs Hiroshima
-40612,Yusuke Kitabayashi,592,Mazda Skyactivs Hiroshima
-40616,Tomohiro Takeda,592,Mazda Skyactivs Hiroshima
-40614,Yoshinobu Nishino,592,Mazda Skyactivs Hiroshima
-40617,Hiroto Tokuda,592,Mazda Skyactivs Hiroshima
-32759,Lachlan Osborne,592,Mazda Skyactivs Hiroshima
-26259,David Milo,592,Mazda Skyactivs Hiroshima
-40618,Tomoki Ashida,592,Mazda Skyactivs Hiroshima
-29393,Tevin Ferris,592,Mazda Skyactivs Hiroshima
-39120,Isi Manu,592,Mazda Skyactivs Hiroshima
-40619,Dai Goto,592,Mazda Skyactivs Hiroshima
-40627,Rikuto Nakashima,592,Mazda Skyactivs Hiroshima
-9733,Ben Lucas,592,Mazda Skyactivs Hiroshima
-40620,Ryotaro Saito,592,Mazda Skyactivs Hiroshima
-40621,Shinngo Uematsu,592,Mazda Skyactivs Hiroshima
-40622,Hayato Kanamaru,592,Mazda Skyactivs Hiroshima
-40623,Shuhei Lee,592,Mazda Skyactivs Hiroshima
-40624,Haruki Kitajima,592,Mazda Skyactivs Hiroshima
-40625,Keisuke Nakamoto,592,Mazda Skyactivs Hiroshima
-40626,Ginjiro Sakiguchi,592,Mazda Skyactivs Hiroshima
-43587,Yuuji Takahashi,592,Mazda Skyactivs Hiroshima
-43588,Kenta Akieda,592,Mazda Skyactivs Hiroshima
-43589,Ramo Sato,592,Mazda Skyactivs Hiroshima
-43590,Yutaro Tanaka,592,Mazda Skyactivs Hiroshima
-43592,Iori Suzuki,592,Mazda Skyactivs Hiroshima
-43593,Taiga Umekawa,592,Mazda Skyactivs Hiroshima
-43594,Daisuke Goto,592,Mazda Skyactivs Hiroshima
-43595,Kohei Kamei,592,Mazda Skyactivs Hiroshima
-43596,Yuto Nakamura,592,Mazda Skyactivs Hiroshima
-43597,Sora Ouchi,592,Mazda Skyactivs Hiroshima
-43598,Seigo Kubo,592,Mazda Skyactivs Hiroshima
-43599,Kotaro Tatsuno,592,Mazda Skyactivs Hiroshima
-5205,Munakata Sanix Blues,5205,Munakata Sanix Blues
-24915,Dong-won Shin,5205,Munakata Sanix Blues
-18582,Paddy Ryan,5205,Munakata Sanix Blues
-36566,Shogo Murakami,5205,Munakata Sanix Blues
-23381,Jarred Adams,5205,Munakata Sanix Blues
-37895,Shun Terawaki,5205,Munakata Sanix Blues
-43679,Samuel Nozomu Faialaga,5205,Munakata Sanix Blues
-26578,Yasuo Saruwatari,5205,Munakata Sanix Blues
-38372,Kanta Hasegawa,5205,Munakata Sanix Blues
-26417,Kota Kumamoto,5205,Munakata Sanix Blues
-26419,Nozomi Kuraya,5205,Munakata Sanix Blues
-26633,Takuma Takashima,5205,Munakata Sanix Blues
-26526,Toshihiro Nishii,5205,Munakata Sanix Blues
-27246,Dallas Tatana,5205,Munakata Sanix Blues
-43680,Hibiki Noda,5205,Munakata Sanix Blues
-26042,Jean Droste,5205,Munakata Sanix Blues
-26389,Hobum Kim,5205,Munakata Sanix Blues
-28936,Shoma Makinouchi,5205,Munakata Sanix Blues
-26685,Satoshi Tsuruoka,5205,Munakata Sanix Blues
-43681,Masahito Tonomoto,5205,Munakata Sanix Blues
-26618,Shinri Tabuchi,5205,Munakata Sanix Blues
-26745,Kojiro Yoshida,5205,Munakata Sanix Blues
-32324,Hiroki Hanada,5205,Munakata Sanix Blues
-21380,Scott Curry,5205,Munakata Sanix Blues
-26245,Nobuyoshi Arai,5205,Munakata Sanix Blues
-20864,Joe Tupe,5205,Munakata Sanix Blues
-26289,Kohei Hamazato,5205,Munakata Sanix Blues
-36557,Kota Kinoshita,5205,Munakata Sanix Blues
-43682,Azuma Doei,5205,Munakata Sanix Blues
-32325,Hisanori Mimata,5205,Munakata Sanix Blues
-26665,Hiroshi Tashiro,5205,Munakata Sanix Blues
-36564,Rinto Kagawa,5205,Munakata Sanix Blues
-43683,Coby Miln,5205,Munakata Sanix Blues
-43685,Taichi Takenaka,5205,Munakata Sanix Blues
-9245,Yuta Imamura,5205,Munakata Sanix Blues
-26705,Sooyoung Wang,5205,Munakata Sanix Blues
-32548,Keito Moribayashi,5205,Munakata Sanix Blues
-26331,Kouhei Ishigaki,5205,Munakata Sanix Blues
-17096,Michael Toloke,5205,Munakata Sanix Blues
-10501,Karne Hesketh,5205,Munakata Sanix Blues
-26567,Benjamin Ray Yagi,5205,Munakata Sanix Blues
-25296,Hiroki Yamada,5205,Munakata Sanix Blues
-26740,Masakazu Yatsumonji,5205,Munakata Sanix Blues
-32547,Chikara Morita,5205,Munakata Sanix Blues
-36559,Kyoji Takano,5205,Munakata Sanix Blues
-590,Kyuden Voltex,590,Kyuden Voltex
-40670,Keiji Ikeda,590,Kyuden Voltex
-40678,Kazuma Ono,590,Kyuden Voltex
-40675,Ryosuke Kagoshima,590,Kyuden Voltex
-40669,Kazuto Tokunaga,590,Kyuden Voltex
-40679,Takehiro Kitsuki,590,Kyuden Voltex
-40667,Genki Nakamura,590,Kyuden Voltex
-43671,Terutaka Oka,590,Kyuden Voltex
-40672,Masato Ura,590,Kyuden Voltex
-40680,Osamu Kanayama,590,Kyuden Voltex
-40681,Sononaka Yoshihiro,590,Kyuden Voltex
-26182,Tom Rowe,590,Kyuden Voltex
-31294,Ray Tatafu,590,Kyuden Voltex
-40682,Obara Wataru,590,Kyuden Voltex
-40683,Takai Michiro,590,Kyuden Voltex
-40684,Hirata Kazuma,590,Kyuden Voltex
-23429,Yuki Yamada,590,Kyuden Voltex
-11170,Lachlan McCaffrey,590,Kyuden Voltex
-40666,Daisuke Kodama,590,Kyuden Voltex
-40685,Komori Kotaro,590,Kyuden Voltex
-40686,Motomura Mitsuaki,590,Kyuden Voltex
-40687,Aramaki Yusuke,590,Kyuden Voltex
-11194,Phil Burleigh,590,Kyuden Voltex
-40676,Shogo Matsushita,590,Kyuden Voltex
-40671,Kento Kuroki,590,Kyuden Voltex
-40674,Noriaki Nakazuru,590,Kyuden Voltex
-21083,Sam Vaka,590,Kyuden Voltex
-40677,Yasunari Isoda,590,Kyuden Voltex
-40668,Goki Saito,590,Kyuden Voltex
-40673,Naoki Takaya,590,Kyuden Voltex
-40688,Hayata Kenji,590,Kyuden Voltex
-32820,Viliami Lea,590,Kyuden Voltex
-28327,Kato Makoto,590,Kyuden Voltex
-40689,Honda Keito,590,Kyuden Voltex
-40691,Kotaro Nakao,590,Kyuden Voltex
-43672,Shinpei Kamata,590,Kyuden Voltex
-43673,Daigo Asato,590,Kyuden Voltex
-43674,Yoshida Hayato,590,Kyuden Voltex
-43675,Kazuto Yamashita,590,Kyuden Voltex
-43676,Tomotaka Ishimatsu,590,Kyuden Voltex
-43677,Tatsuya Matsunaga,590,Kyuden Voltex
-43678,Ken Nakashima,590,Kyuden Voltex
-43684,Alex Takuya Walker,590,Kyuden Voltex
-43686,Kiichi Uezato,590,Kyuden Voltex
-43687,Hayato Kojyo,590,Kyuden Voltex
-43688,Ren Hagiwara,590,Kyuden Voltex
-43689,Masaya Kanado,590,Kyuden Voltex
-43690,Shinhichiro Matsushita,590,Kyuden Voltex
-588,Kurita Water Gush Akishima,588,Kurita Water Gush Akishima
-26260,Masashi Debuchi,588,Kurita Water Gush Akishima
-40635,Kim Hyong Ji,588,Kurita Water Gush Akishima
-40636,Shoya Koyama,588,Kurita Water Gush Akishima
-40637,Aki Kajihara,588,Kurita Water Gush Akishima
-40638,Ryota Kuribara,588,Kurita Water Gush Akishima
-40639,Atsushi Maeda,588,Kurita Water Gush Akishima
-40640,Hiroki Suwa,588,Kurita Water Gush Akishima
-40641,Mitsuo Nakao,588,Kurita Water Gush Akishima
-40642,Kengo Nakamura,588,Kurita Water Gush Akishima
-40643,Nobuyuki Hirai,588,Kurita Water Gush Akishima
-23328,Ned Hanigan,588,Kurita Water Gush Akishima
-24453,Gideon Koegelenberg,588,Kurita Water Gush Akishima
-40644,Ryo Omasa,588,Kurita Water Gush Akishima
-40645,Yoshitaka Motomura,588,Kurita Water Gush Akishima
-23326,Andrew Deegan,588,Kurita Water Gush Akishima
-40646,Shinpei Suganuma,588,Kurita Water Gush Akishima
-40647,Nakajima Takuya,588,Kurita Water Gush Akishima
-40648,Yuki Kono,588,Kurita Water Gush Akishima
-27813,Nabetelevu Turaganivalu,588,Kurita Water Gush Akishima
-40649,Kentarou Sugimori,588,Kurita Water Gush Akishima
-20542,Tom English,588,Kurita Water Gush Akishima
-40634,Hiroki Kawase,588,Kurita Water Gush Akishima
-38371,Sho Nakamura,588,Kurita Water Gush Akishima
-43634,Yuta Ejima,588,Kurita Water Gush Akishima
-43635,Kei Shibuya,588,Kurita Water Gush Akishima
-43636,Kuriyama Rui,588,Kurita Water Gush Akishima
-43637,Kota Hojo,588,Kurita Water Gush Akishima
-43639,Kota Nakamura,588,Kurita Water Gush Akishima
-43641,Feinga Fakai,588,Kurita Water Gush Akishima
-43648,Taisei Nakao,588,Kurita Water Gush Akishima
-43649,Yosuke Ishii,588,Kurita Water Gush Akishima
-43650,Takuro Hayashida,588,Kurita Water Gush Akishima
-43651,Takuto Mizuno,588,Kurita Water Gush Akishima
-43652,Koichi Ota,588,Kurita Water Gush Akishima
-43653,Yuta Sugiyama,588,Kurita Water Gush Akishima
-29957,Chugoku Red Regulions,29957,Chugoku Red Regulions
-43612,Toshiyuki Oki,29957,Chugoku Red Regulions
-43613,Keisuke Maeda,29957,Chugoku Red Regulions
-43614,Daiki Ishida,29957,Chugoku Red Regulions
-43615,Hidetatsu Tsuboi,29957,Chugoku Red Regulions
-43616,Arito Kojiro,29957,Chugoku Red Regulions
-43617,Yuki Asai,29957,Chugoku Red Regulions
-43618,Kento Miyata,29957,Chugoku Red Regulions
-43619,Daisuke Okamoto,29957,Chugoku Red Regulions
-40630,Taro Nishikawa,29957,Chugoku Red Regulions
-43620,Tetsuro Moritani,29957,Chugoku Red Regulions
-43621,Hironori Shojima,29957,Chugoku Red Regulions
-43622,Noriyuki Kureyama,29957,Chugoku Red Regulions
-40631,Shun Kawaguchi,29957,Chugoku Red Regulions
-43623,Kengo Ishiwata,29957,Chugoku Red Regulions
-17054,Ed Quirk,29957,Chugoku Red Regulions
-43624,Atsushi Mizobuchi,29957,Chugoku Red Regulions
-43625,Yoshida Hashizo,29957,Chugoku Red Regulions
-43626,Hideo Takeda,29957,Chugoku Red Regulions
-43627,Hen Yume Ichihara,29957,Chugoku Red Regulions
-43629,Riki Yamaguchi,29957,Chugoku Red Regulions
-40632,Shohei Kurokawa,29957,Chugoku Red Regulions
-27253,Masahiro Nakano,29957,Chugoku Red Regulions
-23406,Hirofumi Higashikawa,29957,Chugoku Red Regulions
-29365,Yuto Matsuoka,29957,Chugoku Red Regulions
-589,Shimizu Koto Blue Sharks,589,Shimizu Koto Blue Sharks
-38380,Ryo Jinnohara,589,Shimizu Koto Blue Sharks
-26605,Tagatoshi Sugawara,589,Shimizu Koto Blue Sharks
-38377,Daiki Shimura,589,Shimizu Koto Blue Sharks
-26582,Yuto Sato,589,Shimizu Koto Blue Sharks
-38381,Kazuki Kanazawa,589,Shimizu Koto Blue Sharks
-38376,Fumiya Matou,589,Shimizu Koto Blue Sharks
-26483,Alaimoana Motuapuaka,589,Shimizu Koto Blue Sharks
-26666,Naomichi Tatekawa,589,Shimizu Koto Blue Sharks
-26237,Teppei Akiyama,589,Shimizu Koto Blue Sharks
-38391,Kunpei Oonishi,589,Shimizu Koto Blue Sharks
-38420,Riki Tanaka,589,Shimizu Koto Blue Sharks
-38392,Ryota Sakino,589,Shimizu Koto Blue Sharks
-38393,Hiroto Watanabe,589,Shimizu Koto Blue Sharks
-26307,Suguru Hidaka,589,Shimizu Koto Blue Sharks
-38394,Minato Gotou,589,Shimizu Koto Blue Sharks
-10095,Josh Bekhuis,589,Shimizu Koto Blue Sharks
-38467,Tye Nash,589,Shimizu Koto Blue Sharks
-38396,Kento Yasunaga,589,Shimizu Koto Blue Sharks
-38398,Haruki Matsudo,589,Shimizu Koto Blue Sharks
-24614,Taiyo Ando,589,Shimizu Koto Blue Sharks
-38400,Yutaro Shirako,589,Shimizu Koto Blue Sharks
-38397,Ryo Satou,589,Shimizu Koto Blue Sharks
-38395,Takurou Ogawa,589,Shimizu Koto Blue Sharks
-38421,Koudai Takahashi,589,Shimizu Koto Blue Sharks
-38422,Ginjiro Hase,589,Shimizu Koto Blue Sharks
-22508,Murphy Taramai,589,Shimizu Koto Blue Sharks
-38401,Taishi Sakurai,589,Shimizu Koto Blue Sharks
-29273,Kenji Harada,589,Shimizu Koto Blue Sharks
-38403,Yoshiki Shigeno,589,Shimizu Koto Blue Sharks
-38423,Reijiro Usui,589,Shimizu Koto Blue Sharks
-38404,Shingo Asami,589,Shimizu Koto Blue Sharks
-38405,Taku Inoue,589,Shimizu Koto Blue Sharks
-23871,Garth April,589,Shimizu Koto Blue Sharks
-38406,Masashi Fujitaka,589,Shimizu Koto Blue Sharks
-19206,Coenraad Van Wyk,589,Shimizu Koto Blue Sharks
-38424,Masaya Yamada,589,Shimizu Koto Blue Sharks
-23393,Orbyn Leger,589,Shimizu Koto Blue Sharks
-38407,Tooru Morita,589,Shimizu Koto Blue Sharks
-38408,Takuya Kanemura,589,Shimizu Koto Blue Sharks
-38409,Ryota Noda,589,Shimizu Koto Blue Sharks
-38410,Ryoji Nonaka,589,Shimizu Koto Blue Sharks
-22795,John-Ben Kotze,589,Shimizu Koto Blue Sharks
-10547,Siale Piutau,589,Shimizu Koto Blue Sharks
-38411,Shuuhei Sasaki,589,Shimizu Koto Blue Sharks
-38415,Eiya Miyazaki,589,Shimizu Koto Blue Sharks
-43604,Kokoro Morita,589,Shimizu Koto Blue Sharks
-38416,Tatsuhiro Ozaki,589,Shimizu Koto Blue Sharks
-21214,Tadanobu Ko,589,Shimizu Koto Blue Sharks
-26478,Naoki Moriya,589,Shimizu Koto Blue Sharks
-38417,Tooru Kanazawa,589,Shimizu Koto Blue Sharks
-43608,Ratula Repha,589,Shimizu Koto Blue Sharks
+players_id,player_known_name
+1550,Aaron Smith
+1563,Beauden Barrett
+2255,Josh Dickson
+4267,Pieter-Steph du Toit
+6355,Runya Che
+6431,Shogo Miura
+6462,Kazuki Himeno
+6474,Kaito Shigeno
+7866,Mitsuru Furukawa
+8897,William Tupou
+20488,Yoshikatsu Hikosaka
+22846,Ryuhei Arita
+30653,Masakatsu Hikosaka
+33552,Jongchu Ryang
+33616,Kenta Fukuda
+34847,Daichi Akiyama
+34848,Masato Furukawa
+35072,Shuhei Yamaguchi
+35242,Genki Sudo
+35314,Lautaimi Fetuani
+35419,Tiaan Falcon
+35635,Tom Robinson
+37686,Viliame Tuidraki
+42793,Jone Turaganivalu Nabetelevu
+43135,Siosaia Fifita
+43139,Ryunosuke Momoji
+44146,Ryoma Nishimura
+44150,Yusuke Kizu
+44152,Yuki Okada
+44905,Vatiliai Tuidraki
+45090,Charlie Lawrence
+47284,Dick Wilson
+49383,Taichi Takahashi
+49384,Ryusei Kato
+901636,Takemichi Nakano
+901640,Yuji Takei
+901641,Shunsuke Asaoka
+902035,Viliami Lea
+904600,Gaku Shimizu
+904654,Toshikazu Nobeyama
+904655,Masahiro Kitamura
+905788,Ryusei Koike
+907776,Yuichiro Wada
+907777,Rintaro Maruyama
+907778,Kaisei Tamura
+909577,Kippei Taninaka
+909605,Isaiah Mapusua
+912093,Issa Yamakawa
+912094,Chihiro Matsuyama
+912095,Kouta Oyabu
+912324,Taiga Kawasaki
+912382,Jingo Murata
+912517,Kosei Miki
+912597,Akito Okui
+912822,Takuma Nishino
+912823,Shintaro Fukuzawa
+312,Nathan Hughes
+1183,Paddy Ryan
+1945,Matt McGahan
+1992,Hadleigh Parkes
+2156,Jacob Skeen
+2171,Mike Stolberg
+6205,Pohiva Yamato Lotoahea
+6208,Daiki Yanagawa
+6209,Shota Yamamoto
+6221,Masatoshi Nakamura
+6428,Yuki Ikeda
+6465,Daisuke Hamano
+7886,Josh Goodhue
+33558,Brodi McCurran
+33581,Talau Fakatava
+33582,Junpei Yukawa
+33584,Amato Fakatava
+33605,Shuhei Matsuhashi
+33607,Kohei Horigome
+34625,Amanaki Lotoahea
+34816,Takao Makabe
+34817,Kazuhiro Koike
+34819,Toshiya Takahashi
+34821,Takehiro Nakazawa
+36588,Kazuma Nishi
+37213,Semisi Tupou
+37371,Isaac Lucas
+39913,Shinichi Tanaka
+41485,Masashi Onishi
+42856,Netani Vakayalia
+43138,Yuichiro Taniguchi
+43145,Yoshiyuki Koga
+43198,Shohei Oyama
+44915,Taichi Chiba
+49875,Ryohei Isoda
+50012,Takanobu Minami
+901589,Hinata Takei
+901590,Tomoya Yamamura
+901591,Daigo Sasagawa
+901593,Yuta Kurihara
+901594,Daisuke Nishikawa
+901595,Taira Main
+901658,Shin Ouchi
+904648,Harrison Fox
+904698,Siope Lolo Tavo
+905704,Shu Yamamoto
+907722,Larzlo Sword
+908713,Ko Sato
+912096,Lulu Paea
+912097,Otoya Kihara
+912098,Norihiro Aso
+912099,Takumi Aoki
+912100,Ichigo Nakakusu
+912101,Kosei Nakamura
+912102,Shogo Yamamura
+1530,Matt To'omua
+1930,Jackson Hemopo
+2231,Matt Vaega
+2485,Walt Steenkamp
+6094,Yoshimitsu Yasue
+6410,Tonisio Vaihu
+9134,Brackin Karauria-Henry
+11403,Jack Stratton
+21285,Masataka Tsuruya
+26352,Linde Makoto Daniel
+30655,Yu Chinen
+34891,Marino Mikaele-Tu'u
+35312,Kota Iwamura
+35557,Epineri Uluiviti
+36309,Jonmun Han
+36590,Kyo Yoshida
+36662,Honeti Taumohaapai
+37069,James Grayson
+37153,Curtis Rona
+39490,TJ Vaega
+40966,Atsuro Nakamura
+41610,Tomoyuki Ochiai
+41622,Ryoma Tokuda
+43306,Tomoaki Ishii
+44462,Ben Paltridge
+45216,Roland Alaia'sa
+45271,Yu Okudaira
+47279,Joichiro Iwashita
+47280,Taro Aihara
+47281,Kohki Sato
+47283,Kazuki Ishida
+47337,Nozomi Nara
+47711,Jun Morimoto
+49244,Fisipuna Tuiaki
+49424,Yuki Miyazato
+49431,Hayato Hosoda
+901603,Maoya Nakagawa
+901624,Akihiro Ogiso
+901648,Shinya Tanaka
+901680,Kento Nakai
+904701,Yusuke Sakamoto
+904702,Takumi Sugiura
+904771,Taichi Takahashi
+905682,Shunsuke Sakamoto
+905796,Ryuto Fukuyama
+907781,Mototsugu Hachiya
+908721,Cho Songyu
+908722,Ryoto Shibata
+908723,Kouki Hattori
+908725,Timote Tavalea
+909718,Ryuta Nakamori
+910047,Satoshi Koizumi
+912075,Kanzo Schinckel
+912076,DJ Kashima
+912077,Kakeru Umemoto
+912078,Riku Mishima
+912785,Shoki Yoshimoto
+1407,Will Genia
+1487,Quade Cooper
+1962,Jed Brown
+2265,Semisi Masirewa
+5293,Ben Toolis
+5789,Tom Hendrickson
+6425,Daisuke Noguchi
+7887,James Blackwell
+10270,Tsuyoshi Murata
+11327,Tevita Tupou
+11711,Sanaila Waqa
+11997,Yoshizumi Takeda
+21115,Isamu Matsuoka
+34854,Keiichi Kaneko
+34859,Ren Takano
+35299,Hiroto Kobayashi
+35434,Andrew Makalio
+35807,Shota Hirono
+36311,Patrick Stehlin
+36680,Shun Sasaki
+37202,Patrick Tafa
+38976,Kenta Tanaka
+43265,Shohei Nonaka
+43882,Jose Seru
+45215,Songyong Lee
+47072,Joshua Nohra
+47073,Kota Mitake
+47074,Takahito Sugahara
+47317,Shinki Ushikubo
+48759,Keita Sahara
+49425,Yusho Takeda
+901041,Ryosuke Kataoka
+901042,Takumi Yoshimoto
+901534,Akihide Onogi
+902045,Hayato Yokoi
+902107,Yuchol Mun
+902108,Kazuma Matsuda
+902109,Koji Okamura
+902110,Tomoya Kimura
+902111,Tomoya Nakamura
+904672,Nesta Mahina
+904673,Keitaro Hitora
+905643,Kotaro Takahashi
+905644,Lata Tangimana
+905691,Takahiro Hayashi
+905692,Reiya Ueyama
+908837,Taiki Miyashita
+908838,Kensho Kawamura
+908848,Liekina Kaufusi
+909574,Syu Umemura
+909575,Haruki Kanazawa
+909604,Sho Fukui
+909687,Yushi Inoue
+909715,Vincent Sefo
+909765,Ryo Iwakami
+912069,Joseph Domoni
+912299,Sebastian Sialau
+1545,Brodie Retallick
+4737,Hiroshi Yamashita
+4741,Atsushi Hiwasa
+4802,Ardie Savea
+6087,Ryohei Yamanaka
+6091,Rakuhei Yamashita
+6101,Koki Yamamoto
+6417,Takuya Kitade
+6421,Hikaru Hashimoto
+6433,Takayuki Watanabe
+6448,Naohiro Kotaki
+7877,Go Maeda
+7878,Daiki Nakajima
+7879,Ataata Moeakiola
+11246,Bryn Gatland
+11354,Michael Little
+25043,Isileli Nakajima
+31710,Timothy Lafaele
+33559,Kentaro Obata
+33614,Ryo Inoue
+33974,Gerard Cowley-Tuioti
+33986,Ngani Laumape
+34631,Hiroaki Ushihara
+34938,Seokhwan Jang
+34942,Shintaro Hayashi
+35787,Suguru Igarashi
+36313,Kosuke Naka
+36594,Takara Imamura
+38245,Jiwon Gu
+39977,Amanaki Saumaki
+42787,Waisake Raratabu
+44439,Shinsuke Iseki
+45347,Taihei Kusaka
+47304,Kenta Tokuda
+47674,Willie Potgieter
+47757,Shigure Takao
+901616,Seungsin Lee
+901669,Haruto Takahashi
+901670,Kenta Matsuoka
+901672,Gentaro Ikenaga
+901673,Junta Hamano
+904628,Ikuma Yamada
+905687,Sho Maeda
+908730,Kanta Matsunaga
+908731,Quinton Mahina
+908732,Rinpei Sakaki
+908733,Sione Tapu'osi
+909610,Tiennan Costley
+912071,Hayato Fukunishi
+912072,Maki Shimizu
+912073,Soma Sugimoto
+912243,Tali Ioasa
+912367,Daisuke Ito
+912565,Hikaru Moriwaki
+912786,Ryota Funabiki
+398,Pablo Matera
+1359,Clynton Knox
+1944,Li Tevita
+2112,Heiden Bedwell-Curtis
+2512,Matthys Basson
+3230,Franco Mostert
+3745,Justin Downey
+5523,Yoshikazu Fujita
+6188,Tateo Kanai
+6363,Naoki Motomura
+6458,Issei Shige
+6680,Tom Banks
+7890,Mitch Hunt
+11955,Kenta Yamaji
+11964,Yoji Akiyama
+21132,Ryota Kobayashi
+25035,Hibino Masahiro
+33344,SongGi Pak
+33574,Tetuhi Roberts
+34858,Soki Watanabe
+35050,Kosuke Hattori
+35214,Hisayoshi Ito
+35522,Sosiceni Tokoqio
+38661,Dawid Kellerman
+41378,Masaki Kondo
+42777,Waimana Riedlinger-Kapa
+44149,Takumi Fujii
+44922,Ryo Furuta
+44923,Hayato Akahira
+44924,Kanta Watanabe
+45482,Viliami Vuli
+47273,Tatsuhiko Tsurukawa
+47274,Taiki Yoshioka
+47275,Shogo Nezuka
+47313,Gun Tajima
+47709,Gwante O
+47753,Akihito Doi
+901602,Viliami Kaipouli
+901604,Takuya Obata
+901605,Kengo Gunji
+901678,Atsuro Tsuji
+901684,Yuta Matsuura
+904730,Shun Hizume
+904734,Seunghyok Lee
+904736,Hiroaki Shirahama
+904739,Yuzo Yamamoto
+904752,Azuma Dei
+904755,Taichi Takenaka
+904785,Haruhiko Uemura
+908849,Kotaro Kouno
+908850,Kaito Kawai
+908851,Katsuyuki Hoshino
+908852,Kanato Hirano
+908853,Fraser Quirk
+912088,Koki Hida
+912089,Kei Touma
+912090,Yuto Yohena
+912091,Wihongi Connor
+912828,Kenta Hirai
+912829,Yu Kasakake
+912830,Takuro Hojo
+912831,Koki Miyasaka
+912832,Kyogo Okano
+1925,Michael Collins
+1970,Richie Mo'unga
+1976,Rob Thompson
+2161,Seta Tamanivalu
+4720,Masataka Mikami
+4726,Michael Leitch
+6121,Kyosuke Kajikawa
+6127,Shohei Toyoshima
+6130,Futoshi Mori
+6133,Songchang Lee
+6134,Takahiro Ogawa
+6135,Taiki Matsunobu
+6353,Daigo Hashimoto
+6360,Hiroki Yamamoto
+6422,Takahiro Fujita
+7875,Yuma Fujino
+21298,Yoshitaka Tokunaga
+35276,Samuela Anise
+35438,Shannon Frizell
+35518,Hisayoshi Matsuoka
+36312,Hayata Nakao
+37660,Jacob Pierce
+38293,PJ Steenkamp
+43134,Yuto Mori
+43885,Jone Naikabula
+45340,Gwante Kim
+47010,Teruo Makabe
+47011,Kohei Takahashi
+47013,Masaki Hamada
+47014,Toshiki Kuwayama
+47605,Stephan Du Toit
+901578,Rikyu Yamakawa
+901649,Atsuki Kuwayama
+901656,Ren Miyagami
+901660,Shohei Ito
+901663,Taichi Mano
+901668,Yuhei Sugiyama
+901886,Takeshi Sasaki
+901976,Takuro Matsunaga
+904341,Warner Dearns
+904616,Nik McCurran
+904617,Yuta Kokaji
+904677,Motoki Tanaka
+905705,Mamoru Harada
+907773,Sena Kimura
+907774,Shoichi Takagi
+907775,Taufa Latu
+912126,Makoto Iwafuchi
+912128,Hiroto Kasai
+912129,Ryuki Hayashi
+912130,Asaeli Lausii
+912131,Iosefatu Mareko
+912471,Afu Ofeina
+912476,Rei Ishioka
+912527,Vea Taumoefolau
+912559,Shotaro Ikedo
+912578,Senfu Kamei
+912640,RyeOn Yoon
+912825,Shuto Harabuchi
+1942,Bryn Hall
+1988,Charles Piutau
+2243,Viliami Tahitu'a
+2360,Sam Greene
+3235,Kwagga Smith
+3521,Sylvian Mahuza
+5151,Yuki Yatomi
+6102,Takeshi Hino
+6112,Chikara Ito
+8047,Hironori Yatomi
+11660,Murray Douglas
+13222,Malo Tuitama
+25009,Heiichiro Ito
+28001,Fumihiro Yoshizawa
+32847,Sohei Nishimura
+33556,Malgene Ilaua
+33600,Yuji Ueki
+35296,Hiroaki Ishizuka
+36591,Shintaro Okamoto
+39681,Tomokazu Kira
+40093,Eishin Kuwano
+44145,Kanta Shikao
+45174,Yuya Odo
+47261,Ryosuke Funahashi
+47321,Keagen Faria
+47702,Toshiya Hirakawa
+47752,Arito Takahashi
+901651,Johnny Fa'auli
+901675,Kazuhiro Kawata
+901676,Shumpei Miura
+901677,Riki Sugihara
+901679,Minoru Tanoue
+902161,Takuma Shoji
+902162,Kakeru Okumura
+904639,Bunkei Kaku
+904640,Kenta Yamashita
+904641,Kodai Okazaki
+905706,Richard Goh Jones
+907768,Futo Yamaguchi
+907769,Satoshi Hatazawa
+907770,Takayoshi Mohara
+907771,Joren Fuchi
+907772,Richmond Tongatama
+908864,Sione Vuna
+909483,Eito Maki
+909557,Kenta Iemura
+909716,Jack Wright
+912133,Hunter Lim
+912136,Ryuto Yagisawa
+912137,Lamin Dieng Saito
+912138,Shunsuke Ito
+912244,Yoshiki Yoshioka
+912349,Soma Okazaki
+912532,Ritsuki Nakayama
+912561,Shunsuke Sakuta
+912826,Shuntaro Kitamura
+912827,Kaito Sugimoto
+1540,Bernard Foley
+1543,Dane Coles
+1677,Liam Williams
+2620,Pieter Labuschagne
+2892,Malcolm Marx
+2915,JD Schickerling
+3055,David Bulbring
+3220,Ruan Botha
+4729,Harumichi Tatekawa
+5015,Gerhard van den Heever
+6429,Hideto Kondo
+11745,Shoya Matsunami
+11755,Hiroaki Sugimoto
+12203,Finau Tupa
+21301,Kengo Kitagawa
+24695,Yuki Aoki
+33308,Uwe Helu
+34787,Yuta Chiba
+34788,Ippei Okada
+34790,Satoshi Saita
+34851,Shintaro Nagatomi
+35119,Faulua Makisi
+37196,Tony Hunt
+37336,Schalk Erasmus
+38113,Sione Teaupa
+38114,Kota Kaishi
+38115,Takeo Suenaga
+38116,Kazuhiro Taniguchi
+38625,Rikus Pretorius
+39546,Kazuki Kato
+43129,Hisanobu Okayama
+43130,Asipeli Moala
+43131,Shinobu Fujiwara
+43132,Hiroto Mamada
+43133,Koga Nezuka
+43136,Halatoa Vailea
+43303,Katsuya Okuma
+43384,Kim Suryung
+47227,Shunta Koga
+47243,Opeti Helu
+47712,Ippei Oshima
+47802,Takenori Matsui
+901122,Tomoki Kishioka
+901123,Kenshi Yamamoto
+901124,Naoaki Horibe
+901125,Yuhei Shimada
+901167,Shinko Tsuchiya
+904604,Masaya Tamaki
+904605,Teruyoshi Joshua Oto
+904606,Hiroyuki Yamasaki
+905592,Fritz Jahnke-Tavana
+905683,Hibiki Yamada
+905707,Haruto Kida
+905732,Yota Kamimori
+907728,Atsushi Oshikawa
+908726,Rikuto Fukuda
+912165,Toui Kai
+912166,David Van Zeeland
+912167,Ougi Yanamoto
+912168,Kanji Futamura
+912169,Reo Matsushita
+912448,Kenkichi Yanagawa
+912553,Yuya Hirose
+912560,Keijiro Tamefusa
+912586,Hayate Era
+912766,Genki Mizobuchi
+912824,Izi Sword
+1318,Joe Kamana
+1398,Sean McMahon
+1561,Sam Cane
+1987,Gareth Anscombe
+3086,Cheslin Kolbe
+4740,Hendrik Tui
+5038,Kotaro Matsushima
+5041,Shinnosuke Kakinaga
+5524,Ryoto Nakamura
+6194,Takaaki Nakazuru
+6197,Shintaro Ishihara
+6361,Takahiro Kimura
+6444,Yukio Morikawa
+6452,Yutaka Nagare
+6455,Keisuke Moriya
+6457,Seiya Ozaki
+7863,Kosuke Horikoshi
+21106,Shota Emi
+33604,Wataru Kobayashi
+34016,Harry Hockings
+34857,Naoto Saito
+35797,Trevor Hosea
+37759,Callum MacDonald
+39527,Sota Oketani
+40780,Koji Iino
+43126,Kanji Shimokawa
+43127,Ryuga Hashimoto
+43128,Kai Yamamoto
+44436,Shinnosuke Oka
+44920,Genki Okoshi
+47272,Kienori Go
+47817,Sione Lavemai
+49491,Isaiah Punivai
+49673,Shogo Nakano
+901621,Takayasu Tsuji
+901639,Kan Nakano
+901688,Tatsuya Miyazaki
+901773,Sam Jeffries
+904500,Tamati Ioane
+904601,Hideto Niguma
+904603,Tony Alofipo
+904632,Yasuaki Katakura
+904633,Taiga Ozaki
+904711,Feinga Fakai
+907723,Kenta Kobayashi
+907724,Ryosuke Kawase
+907725,Hiroki Kumoyama
+908834,Kotaro Hosoki
+908860,Kaito Doichi
+912184,William Hay
+912185,Soshi Oga
+912186,Masahiko Sagara
+912187,Mikiya Takamoto
+912188,Saimoni Vunilagi
+912784,Atsuki Yamamoto
+1569,Lood de Jager
+1577,Damian de Allende
+2069,Mark Abbott
+2145,Vince Aso
+4721,Shota Horie
+5039,Keita Inagaki
+5043,Keisuke Uchida
+6151,Masaki Tani
+6418,Shohei Hirano
+6430,Ryuji Noguchi
+6445,Atsushi Sakate
+6453,Rikiya Matsuda
+8523,Lachlan Boshier
+8813,Craig Millar
+11328,Asaeli Ai Valu
+11331,Iori Kaji
+11334,Shunsuke Nunomaki
+11651,Jack Cornelsen
+33532,Ben Gunter
+33560,Koki Takeyama
+33564,Eiji Kaneda
+33580,Ryota Hasegawa
+33594,Sho Furuhata
+34027,Dylan Riley
+35211,Yuta Takagi
+35212,Takuya Yamasawa
+36275,Marika Koroibete
+37209,Esei Haangana
+38205,Tomohito Miyakawa
+38206,Taiki Koyama
+39894,Liam Mitchell
+39979,Yuji Shimogama
+43137,Kyohei Yamasawa
+43142,Shota Fukui
+43143,Atora Hondo
+44202,Itsuki Onishi
+47257,Kazuma Shimane
+47323,Suliasi Tolu
+47481,Ockie Barnard
+49296,Tatsuhiro Tanji
+901568,Tsubasa Arai
+901570,Taiki Fujii
+901572,Taichi Niizuma
+901573,Hyuga Shimada
+905761,Daniel Perez
+907764,Seijun Kawasaki
+907765,Tomoki Osada
+907766,Goro Hashimoto
+912189,Xavier Stowers
+912190,Takumi Yoshizawa
+912191,Yusaku Kihara
+912192,Takaya Saito
+912373,Orion Schmok
+912426,Yoshiaki Taniguchi
+912434,Hayata Taniyama
+912537,Shu Hagihara
+912606,Shuto Nobuhara
+912765,Vea Taniela
+1200,Matt Philip
+1981,Liaki Moli
+2192,Luteru Laulala
+2220,Mitch Brown
+3012,Kobus van Dyk
+3049,Jesse Kriel
+3127,SP Marais
+3435,Faf de Klerk
+4731,Yu Tamura
+5042,Amanaki Mafi
+6096,Ryuta Yasui
+6464,Koki Arai
+6479,Shin Kawamura
+7871,Yusuke Kajimura
+7873,Ryosuke Iwaihara
+21292,Jumpei Ogura
+23272,Naoya Minamihashi
+25044,Yusuke Niwai
+25046,Naoto Shimada
+25047,Toshiki Amano
+33590,Kazuma Nakagawa
+33601,Shunta Nakamura
+42789,Lekima Nasamila
+43140,Rento Tsukayama
+43144,Yu Saruta
+43199,Katsuto Kubo
+43201,Sioeli Vakalahi
+43884,Chihito Matsui
+44137,Masayoshi Takezawa
+45348,Takato Okabe
+46063,Kippei Ishida
+47306,Tatsuro Sugimoto
+47782,Ryo Tabata
+900286,Max Douglas
+901607,Chang-Ho Ahn
+901626,Shota Matsuoka
+901628,Kazunari Takagi
+901629,Sosefo Fakatava
+901657,Kohei Kire
+904623,Yusaku Miyoshi
+904624,Daisuke Yoshida
+904625,Kazufumi Yamasuga
+904626,Viliame Takayawa
+904627,Koki Yakushiji
+905681,Sione Halasili
+908740,Matsuki Yuto
+908742,Inoke Burua
+908867,Ryo Eto
+912193,Ryu Fukuhara
+912194,Kanta Ogawa
+912392,Yuragi Muto
+912416,Hayate Hiraishi
+1299,Sam Jeffries
+1652,Nick Phipps
+1745,Jake Ball
+1904,Maritino Nemani
+2055,Tom Marshall
+2066,Ash Dixon
+2439,Brendon Nell
+4728,Fumiaki Tanaka
+6446,Kanta Higashionna
+6467,Sunao Takizawa
+6472,Yoshiya Hosoda
+6481,Takahiro Doi
+7869,Taisetsu Kanai
+9985,Tiaan Swanepoel
+10974,Tim Bennetts
+11330,Kentaro Kodama
+12012,Tatsuru Owada
+21134,Lemeki Lomano Lava
+30650,Teruya Goto
+31713,Satoshi Ueda
+33557,Ryoi Kamei
+33609,Kanta Omata
+33617,Koichi Matsuura
+34855,Taku Toma
+34860,Doga Maeda
+34929,Hiroyuki Miyajima
+35300,Tatsuya Fujii
+43124,Miyu Arai
+45187,Daiki Yamagiwa
+900403,Luke Porter
+901698,Yuma Sugimoto
+903196,Isi Manu
+904491,Aseri Masivou
+904618,Suguru Kubo
+904619,Keisuke Kikuta
+904620,Masaki Obata
+905839,Ren Osawa
+908716,Kakeru Miyaso
+908717,Kosei Yamammoto
+908718,Keita Kobayasi
+908719,Christian Laui
+909697,Ko Yoshimura
+909698,Viliami Lutua Ahofono
+912127,Ika Motulalr Takau
+912132,Yusuke Maruo
+912134,Nathanael Tupou
+912135,Mitieli Tuinakauvadra
+912563,Yuta Moriyama
+912663,Daanjaro Asui
+912789,Ryosei Takai
+1169,Samu Kerevi
+1405,Liam Gill
+1533,Israel Folau
+2127,Otere Black
+2368,Tyler Paul
+3061,Shane Gates
+3099,Tian Meyer
+3265,Franco Marais
+6120,Takuma Asahara
+6391,Takuya Ishibashi
+8850,Wimpie van der Walt
+11515,James Moore
+11919,Lourens Erasmus
+12152,Sekonaia Pole
+21282,Ryo Miura
+21287,Shokei Kin
+21940,Hayden Cripps
+33340,Shingo Nakashima
+33531,Levi Douglas
+33555,Kim Ryong Ji
+33570,Kai Ishii
+33611,Hikaru Tamura
+34852,Takuhei Yasuda
+34853,Ken Saito
+35370,Kabuto Anoku
+37230,Brody MacAskill
+39120,Rui Sannomiya
+41344,Siosifa Lisala
+43125,Gakuto Ishida
+44564,Shotarou Hirai
+44862,Kim Ryom
+44864,Kazuma Nishikawa
+47278,Tone Tukufuka
+47333,Samisoni Tua
+49108,Yuta Kojima
+49317,Daiki Sato
+49318,Shotarou Matsuo
+49494,Larry Sulunga
+50011,Junya Matsumoto
+50040,Karl Keane
+901652,Shuhei Takeuchi
+901655,Kazuki Ban
+901666,Taiji Hongou
+901667,Taiga Ishida
+901674,Shinya Osugi
+904629,Ryuji Fujimura
+904631,Alexander Mackenzie
+904636,Samisoni Asaeli
+904644,Tetta Shigematsu
+904647,Takahiro Ishikawa
+904680,Shunya Hamano
+905758,Masahide Yanagawa
+908817,Ren Iinuma
+908818,Shota Takano
+909309,Taisei Konishi
+909796,Hidetomo Nabeshima
+912042,Shin Takeuchi
+912396,Takuya Shirae
+912450,Kentaro Nanimatsu
+912535,Junichiro Matsushita
+912569,Jinichirou Tamanaga
+912787,Daishi Kojima
+912788,Shunta Mori
+1859,Sam Vaka
+1967,Tom Taylor
+4733,Akihito Yamada
+4761,Colby Fainga'a
+4795,Phil Burleigh
+5575,Sean Robinson
+6454,Yasunari Isoda
+6459,Kazuto Tokunaga
+32226,Wang Kyungmun
+33618,Goki Saito
+34632,Yasuo Saruwatari
+34755,Kosuke Oike
+34824,Genki Nakamura
+36693,Yoshihiro Sononaka
+36695,Michiro Takai
+36700,Noriaki Nakazuru
+36702,Kenji Hayata
+36703,Makoto Kato
+36711,Yusuke Aramaki
+41351,Kazuma Ono
+41352,Yuki Yamada
+41354,Kotaro Nakao
+41630,Shuma Kanayama
+43982,Aaron Carroll
+44001,Ray Tatafu
+44385,Ryosuke Kagosima
+44391,Daisuke Kodama
+45325,Yuya Otsuka
+47262,Takehiro Kitsuki
+47264,Keito Honda
+49306,Naoki Takaya
+49308,Shogo Matsushita
+49309,Kento Kuroki
+904742,Shinpei Kamata
+904744,Hayato Yoshida
+904746,Tomotaka Ishimatsu
+904748,Ken Nakashima
+904749,Samuel Nozomu Faialaga
+904754,Walker Alex Takuya
+904756,Kiichi Uezato
+904757,Hayato Kojo
+904758,Ren Hagiwara
+904759,Masaya Kanado
+904760,Shinshichiro Matsushita
+908952,Shunta Takenouchi
+912146,Charlie Worthington
+912147,Masahiro Eriguchi
+912148,Keisuke Yamzoe
+912149,Yusaku Kanda
+912150,Takumi Takeshita
+912151,Kim Kihyun
+912152,Sione Likuata
+1996,Blake Gibson
+2068,Michael Allardice
+4763,Bryce Hegarty
+6210,Colin Bourke
+11110,Koki Shigeno
+21286,Daisuke Kurihara
+21288,Hayato Mitsui
+21291,Ryo Tsuruda
+24997,Benjamin Saunders
+25010,Yosuke Nishiura
+25012,Toru Sugishita
+25015,Mifiposeti Paea
+25018,Akira Inoue
+25032,Taichi Yoshizawa
+33606,Tatsuya Hamano
+34846,Tatsunari Fujita
+36468,Mitsumasa Harayama
+37819,Josh Fenner
+38457,Munetaka Sashida
+38464,Taro Sato
+39510,Yuichiro Hosono
+39514,Masaki Kobayashi
+39903,Yonhi Kim
+44563,Hiroki Hanada
+44906,Kim Jeonhong
+45050,Yuki Ishii
+47226,Kentaro Otsuka
+47747,Kanta Yamamoto
+49946,Kaoru Tsuruta
+504145,Sione Afemui
+900436,Michael Zakhia
+901574,Daisuke Iba
+901575,Hiroshi Kitajima
+901577,Hiromichi Sakamoto
+901579,Toshihiro Yamanouchi
+901661,Tasuku Koizumi
+901695,Yo Stato
+904642,Shosuke Fukasawa
+904643,Hisamitsu Shimada
+904645,Tsukasa Yasuda
+904646,Koki Makiyama
+904750,Hibiki Noda
+905787,Ryosei Kojima
+908947,Ryongtee Oh
+908948,Kenta Komura
+908949,Kaito Yamauchi
+908950,Tom Jeffries
+909961,Takai Shota
+912153,Isono Kaito
+912154,Kohara Ryuma
+912155,Dobashi Fumiya
+912156,Yasui Takuma
+2699,Joshua Stander
+5211,Sam Henwood
+6207,Daisuke Musha
+6419,Dallas Tatana
+8040,Hamish Dalzell
+12049,Ben Nee Nee
+12207,Ryunosuke Yamada
+33561,Kohei Ishigaki
+33583,Ryota Kono
+34776,Mosese Tonga
+34792,Takuya Takahashi
+34798,Kodai Ono
+36308,Jamie Henry
+37461,Cameron Bailey
+39502,Yusuke Yamada
+41623,Kotaro Furukawa
+44138,Sho Kataoka
+44139,Yuki Go
+44783,Ryoma Nakamura
+47314,Atsushi Minami
+47329,Sotaro Takahashi
+47744,Taiki Ito
+49725,Sergio Moreira
+901625,Ryo Kikkawa
+903213,Flyn Yates
+904708,Makoto Somazawa
+904710,Atsushi Suzuki
+904712,Ryota Tsukada
+904713,Shodai Osada
+904714,Shoji Misaki
+904715,Naoki Ouno
+904716,Yohei Murakami
+904727,Katsuto Hatanaka
+904728,Taisei Fukkoshi
+904735,Kaito Funaki
+904737,Ken Chiba
+908930,Ryuji Abe
+908931,Takumi Tokairin
+908932,Soichiro Inada
+908933,Taiki Noguchi
+908934,Seta Koroitamana
+908935,Darius Thomas
+909699,Kazushi Ochi
+912157,Tomoyoshi Oikawa
+912174,Taichi Takahashi
+912177,Suguru Aoyaki
+912182,Gerdus Venderwalt
+912183,Osukalloyd Murata
+912790,Sei Matsuyama
+912791,Riku Takahashi
+912792,Yuga Suzuki
+912793,Kaisei Takai
+912794,Daiki Kon
+102,Freddie Burns
+123,James Gaskell
+6354,Hiroki Murakawa
+6356,Toshiki Fujii
+6357,Taishi Nakamura
+6461,Ryota Fukamura
+7853,Ieremia Mataena
+10592,Josua Kerevi
+11141,Taleni Seu
+11994,Taumoepiau Silivenusi
+33569,Atsushi Yumoto
+36447,Hitoshi Matsumoto
+36596,Takumi Sue
+37152,Chance Peni
+37684,Viliame Suwawa
+38162,Tomoki Yamaguchi
+38900,James Mollentze
+39119,Shoma Makinouchi
+39512,Akihiro Shimizu
+40967,Keita Fujiwara
+41761,Tiaan Thomas-Wheeler
+44505,Akito Fujinami
+44911,Hyousuke Watanabe
+44912,Nobuhisa Takahashi
+47267,Kei Sato
+47293,Shoichi Yura
+47330,Ishibashi Naoya
+47331,Naoto Kubo
+47719,Tomoki Minami
+47723,Keisuke Ishida
+901671,Ryo Kayutsuka
+901967,Talifolofola Tangipa
+901968,Takuya Tsushida
+901970,Yudai Yamamoto
+901972,Go Nakano
+902112,Harutomo Kodera
+902113,Saito Hiroaki
+902114,Suzuki Takumi
+902118,Kim Ryung Seng
+904490,Kavaia Tagivetaua
+904763,Yamato Matsuoka
+908888,Keita Ichikawa
+908889,Nagito Uno
+908890,Shunta Kawano
+908891,Hiroto Ogasahara
+908894,Tama Kapene
+908895,Jone Kerevi
+909566,Taisei Okamoto
+909766,Seta Naivalwaqa
+912038,Raia Takashima
+912195,Ken Tonobe
+912196,Shion Matsuda
+912203,Daigo Doi
+912204,Apisalome Bogidrau
+912507,Cheng Chao Yi
+912833,Ryuma Hirabayashi
+912834,Takuma Oyama
+912836,Taiga Matsuoka
+257,Mike Williams
+6002,Piers Francis
+33578,Ryota Kuribara
+35524,Masashi Debuchi
+35952,Teariki Ben Nicholas
+39498,Daymon Leasuasu
+39503,Hosea Saumaki
+40969,Antonio Mikaele Tu'u
+44464,Aki Kajihara
+44466,Hiroki Kawase
+44468,Ryo Omasa
+44475,Yoshitaka Motomura
+44476,Kentaro Sugimori
+44480,Ayato Sakamoto
+44506,Daiyu Ishimori
+45181,Hyong Ji Kim
+45184,Kengo Nakamura
+45322,Mitsuo Nakao
+45324,Keigo Hamazoe
+47266,Shoya Koyama
+49473,Shinpei Suganuma
+902048,Sho Nakamura
+904489,Tumanawa Tawhai
+904705,Kei Shibuya
+904706,Rui Kuriyama
+904707,Kota Hojo
+904709,Kota Nakamura
+904718,Taisei Nakao
+904719,Yosuke Ishii
+904720,Takuro Hayashida
+904723,Yuta Sugiyama
+905785,Kei Takusagawa
+908953,Koshi Emoto
+908954,Daiki Yokota
+908955,Kakeru Sugihara
+908956,Kai Yamasaki
+908957,Jun Kaneko
+908958,Shohei Tsujimura
+908959,Jamie Vakalahi
+908960,Tebita Oto
+909983,Ren Shinwada
+912215,Ryutaro Iguchi
+912216,Shogo Yanagita
+912217,Sou Matsushima
+1878,Lima Sopoaga
+2126,Kayne Hammington
+2803,John-Ben Kotze
+4088,Siale Piutau
+6386,Yutaro Shirako
+6404,Tooru Kanazawa
+6685,Murphy Taramai
+7859,Orbyn Leger
+11067,Takatoshi Sugawara
+11070,Suguru Hidaka
+11081,Naoki Moriya
+31348,Takaaki Okuma
+33286,Naomichi Tatekawa
+34791,Taku Inoue
+35432,Tom Rowe
+41323,Josh Basham
+44441,Sam Chongkit
+44685,Michael Toloke
+47287,Fumiya Matou
+47288,Daiki Shimura
+47289,Ryota Sakino
+47290,Taishi Sakurai
+47291,Shuhei Sasaki
+47756,Toru Morita
+47764,Eiya Miyazaki
+47787,Takuya Kanemura
+49279,Coenraad van Wyk
+902083,Kunpei Oonishi
+902086,Ryo Sato
+902087,Haruki Matsudo
+902092,Ryota Noda
+902095,Tatsuhiro Ozaki
+902096,Riki Tanaka
+902097,Koudai Takahashi
+902098,Ginjiro Hase
+902099,Reijiro Usui
+902100,Masaya Yamada
+904671,Usa Baleilautoka
+905685,Ryota Saito
+905775,Taketo Yoshikawa
+908936,Soichirou Kuwata
+908937,Tetsunori Osaki
+908938,Yasuyuki Yamamoto
+908939,Kaito Tamori
+910246,Sanshiro Nomura
+912158,Uha Lee
+912159,Daisuke Yamato
+912160,Haruhiro Sakahara
+912161,Yushi Takai
+912162,Peeranut Puspakom
+912335,Tatsuya Kanetsuki
+912795,Shinya Nara
+912796,Koyo Adachi
+912797,Yuta Inoue
+912798,Maito Matsuo
+1476,Rory Arnold
+1855,Augustine Pulu
+1999,Simon Hickey
+6108,Kyosuke Horie
+6110,Shinji Nakazono
+6407,Motoki Yamazaki
+11059,Yuta Kasahara
+34771,Makoto Tsuchiya
+34773,Takehiro Nishimura
+35961,Yuki Kagoshima
+44136,Norifumi Hashimoto
+44140,Shigenori Someyama
+44200,Yuta Matsui
+44567,Junya Lee
+44907,Kuniya Sonoki
+45355,Taroma Togo
+47309,Kyoji Takano
+47710,Shosuke Funaki
+47714,Sora Ouchi
+901637,Taiki Kawai
+901689,Ken Osanai
+901693,Syun Tomonaga
+901694,Shogo Tokota
+902151,Moeki Fukushi
+902607,Zephaniah Tuinona
+904679,Ko Kojima
+908859,Yuto Tokuda
+908863,Shun Nakashika
+908865,Noah Tovio
+908866,AJ Woulf
+908898,Souta Moriya
+912163,Daiki Nakagawa
+912164,Yutaro Danno
+912170,Ryuji Hirose
+912171,Yuto Mizuma
+912173,Taiga Yamaguchi
+912175,Towa Taniguchi
+912176,Keita Doi
+912178,Shoei Ijima
+912179,Kotaro Hatada
+1846,Beaudein Waaka
+6216,Yuki Mori
+34081,Tevin Ferris
+34633,Josefa Lilidamu
+37293,Jacob Abel
+44223,Yusuke Kitabayashi
+44224,Yuta Takami
+44225,Hiroto Tokuda
+44226,Tomoki Ashida
+44228,Dai Goto
+44229,Ryotaro Saito
+44231,Soopyung Lee
+44232,Ginjiro Sakiguchi
+44234,Tomonori Koyanagi
+44238,Rikuto Nakashima
+44239,Hayato Kanamaru
+44240,Haruki Kitajima
+45570,Lachlan Osborne
+47295,Koshi Kato
+47296,Hirokazu Ishigami
+47298,Tomohiro Takeda
+47301,Tomoya Otake
+47302,Yoshinobu Nishino
+47713,Koushiro Shigenobu
+47762,Keisuke Nakamoto
+49198,Tsubasa Kono
+902150,Tye Nash
+904657,Yuji Takahashi
+904659,Ramo Sato
+904660,Yutaro Tanaka
+904662,Iori Suzuki
+904665,Kohei Kamei
+904666,Yuto Nakamura
+904668,Seigo Kubo
+904669,Kotaro Tatsuno
+908941,Taichi Yokoo
+908942,Ren Ouchi
+908943,Kaiha Noda
+908945,Kaito Sasaoka
+912208,Koki Nakano
+912210,Tadatsugu Kanayama
+912211,Syunya Motoyama
+912212,Haruki Umemoto
+912213,Kohei Tanaka
+912214,Syoya Maeda
+6451,Shun Kawaguchi
+7870,Hirofumi Higashikawa
+8760,Ed Quirk
+36315,Masahiro Nakano
+44529,Kentaro Iwanaga
+44530,Seiya Kitajima
+44531,Taro Nishikawa
+44532,Kota Moriyama
+44534,Kohei Matsunaga
+44535,Shohei Tsukamoto
+44536,Ippei Yamada
+44538,Makoto Torikai
+44539,Motoki Arai
+44540,Masaaki Morita
+44541,Keigo Hatanaka
+44545,Kenta Fujisaki
+44547,Rintaro Kawashima
+44549,Shohei Kurokawa
+45210,Kentaro Fujii
+904492,Yuto Matsuoka
+904682,Toshiyuki Ohki
+904683,Keisuke Maeda
+904684,Daiki Ishida
+904685,Hidetatsu Tsuboi
+904686,Kojiro Arito
+904687,Yuki Asai
+904688,Kento Miyata
+904689,Daisuke Okamoto
+904690,Tetsuro Moritani
+904692,Noriyuki Kureyama
+904693,Ishiwata Kengo
+904694,Atsushi Mizofuchi
+904695,Yoshida Hashizo
+904699,Riki Yamaguchi
+905663,Tomonari Aoki
+905739,Shinnya Hirayama
+908951,Shintaro Matsuda
+912218,Azuma Syougo
+912219,Kitayama Kennta
+912220,Miyazaki Hayato
+912221,Washiya Taiki
+1424,Toyota Verblitz
+1421,BlackRams Tokyo
+1426,Mitsubishi Sagamihara Dynaboars
+1414,Hanazono Kintetsu Liners
+1415,Kobelco Kobe Steelers
+1646,Mie Honda Heat
+1423,Toshiba Brave Lupus Tokyo
+1425,Shizuoka BlueRevs
+1428,Kubota Spears
+1422,Tokyo Sungoliath
+1420,Saitama Wild Knights
+1412,Yokohama Canon Eagles
+1417,Green Rockets Tokatsu
+1419,Urayasu D-Rocks
+1416,Kyushudenryoku KyudenVoltex
+1418,RedHurricanes Osaka
+1814,Kamaishi Seawaves
+1427,Toyota Industries Shuttles Aichi
+1978,Kurita Water Gush Akishima
+2111,Shimizu Koto Blue Sharks
+1929,Hino Red Dolphins
+1990,Skyactivs Hiroshima
+1992,Chugoku Electric Power Red Regulions

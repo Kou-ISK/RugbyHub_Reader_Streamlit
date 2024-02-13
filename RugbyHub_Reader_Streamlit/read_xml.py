@@ -48,7 +48,7 @@ def read_xml(FILEPATH):
     df.Actionresult = df.Actionresult.map(master.set_index('ID').Definition)
     df.ActionType = df.ActionType.map(master.set_index('ID').Definition)
     df.action = df.action.map(master.set_index('ID').Definition)
-    df.team_id = df.team_id.map(plid.set_index('players_id').team_name)
+    df.team_id = df.team_id.map(plid.set_index('players_id').player_known_name)
     df.PLID = df.PLID.map(plid.set_index('players_id').player_known_name)
     return df
 
